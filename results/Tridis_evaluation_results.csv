@@ -1,0 +1,918 @@
+File,Ground_Truth,Stage1_Analysis,Stage2b_Literal,Final_Prediction,CER,WER
+CODEA-0025_1r.png,Doctor,"The language or script used is Latin. The handwriting appears to be from a historical period, possibly medieval or early modern, given the cursive style. The legibility is moderate, as the letters are somewhat stylized but still recognizable. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",doctor,doctor,0.1667,1.0000
+IMG0023_pares.png,tos . y aunque se adado notiçia en visitas se a hecho poco caso .,"The language is Spanish, and the script appears to be from the 17th or 18th century, judging by the style of handwriting. The legibility is poor, with some letters difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Fos. y anq se adado noticio en visitas &a hecho poro caso.,Fos. y anq se añado noticio en visitas & a hecho poro caso.,0.1846,0.6000
+IMG0036.png,"lanas y la primera condicion es , que todas las naos vayan juntas en una conserua , y compannia - y","1. The language is Spanish.
+2. The handwriting appears to be from the 18th or 19th century, judging by the style and formality of the script.
+3. The legibility is moderate; some words are clear, while others are more difficult to decipher.
+4. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","lanas y la primera condicion es, q todas las naos vayan juntas en una conserva, y compañia - y","lanas y la primera condición es, que todas las naos vayan juntos en una conserva, y compañía - y",0.0808,0.3333
+CODEA-2715_1r.png,23197 / 12,"The language or script used is Arabic. The approximate time period or style of handwriting suggests it could be from the 20th century. The overall legibility is moderate, as the numbers are somewhat clear but not perfectly legible. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",23197/42,23197/42,0.3000,1.0000
+FRAN_0393_03233_L.png,xlviii s.,"The document appears to be handwritten in Latin script. The style suggests it could be from the 19th or early 20th century. The handwriting is moderately legible, with some letters appearing slightly slanted. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.","ρβγδ
+∫","βγδ
+∫",1.0000,1.0000
+CODEA-2039_1r.png,esta fe lo dare mas largamente sygnado e firmado de mi nonbre fecha,"The language used in the document is Spanish. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",afin de colaborar mas eficazmente en el manejo de nuestro futuro,afín de colaborar más eficazmente en la gestión de nuestro futuro,0.6716,0.9231
+FRAN_0393_01963_L.png,magister Pe. Joseph ma testamentarum,"1. The language appears to be Arabic.
+2. The handwriting style suggests it could be from the late 20th or early 21st century.
+3. The legibility is moderate; the script is somewhat clear but not perfectly neat.
+4. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.",\mu\alpha\beta\gamma\cdot\mu\nu\alpha\beta\gamma\delta\cdot\mu\nu,μαβγ·μναβγδ·μν,1.0000,1.0000
+CODEA-3616_1v.png,calledela corredera que A porlinde ros casas de la,"The language used in the document is Portuguese. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","casa
+correção
+apresentação
+casa",casa correção apresentação casa,0.6400,1.0000
+CODEA-3390_2r.png,guarde y prospere a .vm. conel contento que yo,"The language used is Spanish, and the handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",guarde y pros Teore avm. conel contento queerfo,guarda y pros Teore avm. con el contento que eres,0.2391,0.7778
+CODEA-2461_1r.png,que en ninguna manera se podia dar carta y que muchas avian llegado y,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the 17th or 18th century. The handwriting is moderate in legibility, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Teniendo
+manera
+sepodía
+dar
+y
+muertos
+había
+llegado",Teniendo manera sepodía dar y muertos había llegado,0.4638,0.7143
+CODEA-2080_1r.png,y destarse el tablado hecho Reçibimos mucho daño,"The language used in the document is Spanish. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.",y Destanse Establado 30 ago Redibimos muchodamño,y Destanse Establado 30 de agosto Redibimos muchodamño,0.3750,0.8750
+30255690.png,"endo carne & hueuos , el qual dicho ayuno dixo que ayuno por","The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some characters being slightly difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","endorazres
+chuenos
+regalho
+aymo
+di
+go
+qued
+Anno
+20","---
+endorazres chuenos regalho aymo di go qued Anno 20
+---",0.6000,1.0000
+CODEA-0202_2r.png,de Segovia e Françisco Garçia clerigo vezinos de Toledo don Alonso de Rojas,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","laugobra
+e
+drangfar
+ga
+laugobr
+dolebi
+donaldvolf
+last","---
+lægobra
+e
+drængfar
+ga
+lægobræ
+dolæbi
+donaldvælf
+last
+---",0.7733,1.0000
+CODEA-3172_1r.png,agudo,"The document appears to be written in a cursive script, possibly Latin or a similar language, and the handwriting style suggests it could be from the 18th or 19th century. The legibility is moderate, with some parts of the letters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",aym,aym,0.8000,1.0000
+CODEA-1006_1v.png,de derecho de que en esta dicha Razon nos pudiesemos o quisiesemos ayudar o aprouechar,"The document is written in Old Spanish or a similar Romance language, likely from the late medieval to early modern period, judging by the script style. The handwriting is moderate in legibility, with some characters that are slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the provided image.",De dito de que en un dia Enzo nos padre Ormos o Enrique Ormos ayudara a almoneda,De dito de que en un día Enzo nos padre Ormaz o Enrique Ormaz ayudara a almoneda,0.4767,0.8000
+CODEA-1496_1r.png,557,"The document appears to be handwritten in Chinese. The style of handwriting suggests it could be from the late 20th century, possibly the 1980s or 1990s. The legibility is moderate, with some characters appearing slightly blurred or smudged. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.",557,557,0.0000,0.0000
+Navarre_059.png,goulesme de Mortaing et de Longavilla a todos quoantos esta nuestra,"The document appears to be written in Latin script, suggesting it could be from the medieval or early modern period. The handwriting is cursive and somewhat flowing, indicating it might be from the 16th or 17th century. The legibility is moderate, with some parts of the text being more difficult to decipher than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","bonifacium & moriamus
+a S. longamilla
+Nostro quia etiam","---
+Bonifacium & moriamus,
+a S. Longamilla,
+Nostro quia etiam,
+---",0.7313,1.0000
+IMG0052.png,Los que no podran venir por las causas arriua tocadas en lo del principe,"The language used is Spanish, and the script appears to be a form of late medieval or early modern cursive handwriting, possibly from the 16th or 17th century. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Los que no podrán venir por las causas arriba tocadas en lo del principio,Los que no podrán venír por las causes arriba tocadas en lo del principio,0.0833,0.3571
+FRAN_0393_09364_L.png,G. Coquatricis,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Eroquataras,Eroquataras,0.5714,1.0000
+codea_2562_c.png,y comja A medio dia / & poresto conoçio que non heran ayunos de xristianos .,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Smya mi d-za (mproso mno-ga) a mofera ny e depana,Smya mi dza (mproso mno ga) a mofera ny e depana,0.6316,1.0000
+CODEA-2038_1r.png,en juizio como fuera del presente seyendo que para todo,"The document appears to be handwritten in Italian script. The style suggests it could be from the late 19th to early 20th century, given the cursive and somewhat formal nature of the handwriting. The legibility is moderate, with some words appearing slightly blurred or faded. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image provided.",Giovanni Piero da Firenze,Giovanni Piero da Firenze,0.8000,1.0000
+CODEA-3614_2r.png,que presente Estaua / dixo / quela dicha,"The document appears to be written in Arabic script. The handwriting style suggests it could be from the late 20th century, possibly the 1980s or 1990s. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","questo
+è
+una
+copia
+della
+versione
+originale",questo è una copia della versione originale,0.8750,1.0000
+CODEA-1450_2r.png,El licenciado Diego,"The document appears to be in Latin script, suggesting it could be from the medieval or early modern period. The handwriting is moderately legible but somewhat cursive, indicating it might be from the 16th or 17th century. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Ello
+de
+chigo",Ello de chigo,0.6316,1.0000
+codea2259_r.png,todo nuestro poder conplydo espeçialmente para que poruos & en nonbre dela dicha,"The document appears to be written in Old English or Anglo-Saxon script, which suggests it is from the medieval period, likely between the 10th and 13th centuries. The handwriting is moderately legible, with some characters that are slightly difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps, and the document does not contain any drawings.","Hodwinzodr
+Cnuytlyd
+Frode
+Aelmerde
+Ostmooc
+Cynwoldinlyd","---
+Hodwinzodd
+Cnuytlyd
+Frod
+Aelmerde
+Ostmoec
+Cynwoldinlyd
+---",0.8125,1.0000
+codea1194_v.png,del mes dehenero de mill & quinientos & çinquenta y nueve annos elliçenciado,"The document is written in Spanish script, likely from the 17th or 18th century, given the style of the handwriting. The legibility is moderate, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Este mes 20 de enero de mée 1543
+Cinquenta y molto años ollon","Este mes 20 de enero de mil quinientos cuarenta y tres
+Cinquenta y mucho años ollon",0.5526,0.8462
+00000MXP.png,"data dize por suma veynte e syete , vala . E yo Pedro de Çeraçola","The document appears to be written in Old Spanish or a similar Romance language, likely from the medieval or early modern period, judging by the script style. The handwriting is moderately legible, though some letters are somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",data dize por Guimaraes e Orsvala e voprevo lo fonsal,"---
+data dize por Guimaraes et Orsvala et voprevo lo fonsal
+---",0.6000,0.8667
+CODEA-2106_1v.png,V. Item sean preguntados y declaren las sennas de mi cuerpo perso-,"1. The language is Spanish.
+2. The handwriting appears to be from the 18th or 19th century, judging by the style and formality of the script.
+3. The legibility is moderate; some parts are clear, while others are harder to decipher.
+4. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",v. Bien sean preguntados y declaren. Las señas de mi cuerpo perso-,v. Bien sean preguntados y declaren. Las señas de mi cuerpo perso-,0.1212,0.4167
+CODEA-2403_1r.png,con que dyo con la dycha Hernaynz su hyja quarenta myll ysye,"The document appears to be written in a form of Old Spanish or Latin script, suggesting it could be from the medieval or early modern period. The handwriting is cursive and somewhat difficult to decipher, indicating it might be from a time when such scripts were more common. The overall legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",co q dvo co la dyda heznavo su birja gazeta muell ylive,co q dvo co la dyda heznayo su birja gazeta muell ylive,0.3833,0.8333
+CODEA-2577_3v.png,y absoluemos de la dicha sentencia de excomunion mayor de que,"The language used is Latin, and the script appears to be a form of medieval or early modern cursive handwriting, likely from the 15th to 17th centuries. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","yabsoluemos.
+Deladha
+Sin.
+De
+Excomumdo
+mayor
+Seque","---
+yabsoluemos.
+Deladha.
+Sin.
+De.
+Excomumdo.
+mayor.
+Seque.
+---",0.6393,1.0000
+codea1263.png,"suculpa meresçia , Priuandole del Priorazgo denuestra señora degraçia , y que portres años","The document is written in Spanish script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some parts being more difficult to decipher due to the cursive nature of the script. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","suculpa muresia, Priuandole del Prioralgo dema sénsa degia y que poctes años","suculpa muresia, privándole del Prioralgo dema sénsa degía y que poctes años",0.2778,0.6429
+codea1433.png,su carta & provysyon Real para que me sea buelta la dicha Arca con todas,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.","Hic
+filius
+Regis
+Anglorum
+Hendricus
+et
+Regina
+Elisabetha
+regnant
+in
+Anglia",Hic filius Regis Anglorum Henricus et Regina Elisabetha regnant in Anglia,0.8472,1.0000
+CODEA-2025_4r.png,bendido y Rematado segun fuero,"The language used is Spanish. The handwriting appears to be from the late 19th to early 20th century, with a style that suggests it might have been written by a student or someone practicing cursive writing. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive style. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Gendarme, dematado según fuero","Gendarme, dematado segun fuero",0.2333,0.6000
+CODEA-3616_1r.png,y trezientos marauedis quesepasan adoña marina Jarahija del,"The language used in the document appears to be Spanish, given the recognizable words and structure. The handwriting style suggests it could be from the late 19th to early 20th century, based on the cursive and somewhat ornate lettering. The legibility is moderate, with some parts of the text being clear while others are less distinct. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",7 trebis mls. que se pasan a dona marina Baragañase.,7 trebis miles que se pasan a dona Marina Baragañase.,0.4068,1.2500
+CODEA-2577_4r.png,esta nuestra sentençia diffinitiva ansi lo,"The document is written in Latin script. The handwriting appears to be from the medieval period, likely between the 12th and 15th centuries, given the style of the script. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",efta nuestra Sentencia diffimtiva ansi lo,efta nostra Sentencia diffimtiva ansi lo,0.1667,0.6667
+000002HT.png,los ynquisidores sean juezes en las causas i delitos de sus familiares ni me,"The document appears to be written in Latin script, suggesting it could be from the medieval or early modern period. The handwriting is moderately legible, with some characters that are slightly difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",los viñedos serán nuevos en las tierras de los familiares,los viñedos seran nuevos en las tierras de los familiares,0.4342,0.6429
+codea1386.png,les conçeda el traer delas Armas dela gente por questa es la cabsa que mas gente a dehazer,"The document appears to be written in Latin script, likely from the medieval or early modern period, given the style of handwriting. The legibility is poor, with some letters and words difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",les savia da el quez Alab Azmas de la gente poysta ef ca robre q mae gente ad haze,les savia da el quez Alab Aymas de la gente poysta ef ca robre q mae gente ad haze,0.3556,0.8889
+000000FF.png,conseguiendo & con muy mayor firmeza en avsençia de . vuestra . persona Real pues Aello mas . nos . obliga . nuestra,"The document appears to be written in Spanish, using a cursive script that suggests it might be from the 18th or 19th century. The handwriting is moderate in legibility, with some parts being clearer than others. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.",con fuerza y con muy mayor firmeza en el fin de su plena edad para ello mas uso Collón - arn,con fuercia y con muy mayor firmeza en el final de su plena edad para ello más uso Collón - arn,0.4828,0.8261
+CODEA-0205_2v.png,Estevan de Pinto dixo que se conforma,"The document appears to be written in Latin script. The handwriting suggests it is from the medieval period, likely between the 12th and 15th centuries, given the style of the script. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Ateban de S. in v. Qve quesecon fo Ema,Ateban de S. in v. Que quesecon fo Ema,0.4865,1.1429
+29603237.png,testigos Juan dela Çadeña y Agustin Çasquer es,"The document appears to be written in Latin script, likely from the medieval period given the style of handwriting. The legibility is moderate, with some letters being more distinct than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Ab qui cée acade nda la cui ti n casque,Ab qui cée academica la cui ti n casque,0.6739,1.1250
+Vauluisant_4.png,cum audientibus : Ansello de Triagnel Stephano,"The language used is Latin, and the handwriting appears to be from the medieval period, likely between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being slightly blurred or faded. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.",cum audiendb; Antello de tragnel Stepho,cum audiendb; Antello de Tragnel Stepho,0.2174,0.7143
+codea1347.png,a Francisco de Hinualdo & aRodrigo dela Sierra & a,"The document appears to be written in Latin script, suggesting it could be from the medieval or early modern period. The handwriting is cursive and somewhat difficult to decipher, indicating it might be from a time when Latin was more commonly used in formal or legal documents. The legibility is poor, making it challenging to read the text accurately. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","a
+franci
+diminuendo
+cappo
+d'oro
+d'argento","---
+a
+francis
+diminuendo
+cappo d'oro
+d'argento
+---",0.7200,1.0000
+CODEA-3615_1v.png,ta villa al sitio del Enzinal,"The handwritten document appears to be in Latin script. The style of handwriting suggests it could be from the 18th or 19th century, given the cursive and somewhat formal nature of the script. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.",+Dieu ne fut mai see enganat,+Dieu ne fut mai se enganat,0.7241,1.0000
+CODEA-3606_2v.png,y la lei que dize que jeneral Renuçiaçion de,"The document appears to be handwritten in Chinese. The style of handwriting suggests it could be from the late 20th century, possibly the 1980s or 1990s. The legibility is moderate, with some characters slightly blurred or unclear. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.",Placer Guizhou General from Guizhou,Place Guizhou General from Guizhou,0.6136,1.0000
+CODEA-2139_1v.png,"compulsasse la partida matrimonial , y examinassen cura , y testigos : se escribiesse al tribu","The language used is Spanish, and the handwriting appears to be from the 18th or 19th century, judging by the cursive style. The legibility is moderate, with some parts of the text being slightly blurred. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","compulvase la partida matrimonial, y examinaron causa, y testigos: se escribiere al tribu-","---
+compulsase la partida matrimonial, y examinaron causa, y testigos: se escribiera al tribu-
+---",0.2234,0.6250
+00000HLA.png,de aquella çibdad segun lo que enella procurava & ynten,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is poor, with some letters and words difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",de aqua abano ocrumulo in ella fontana cunte,de aqua abano ocrimulo in ella fontana cunte,0.5273,0.9000
+CODEA-2201_1r.png,Aberiguase . avereldicho mi parte . hecho Algun perjuyzio Al dicho pero,"The document appears to be written in a form of Old English or Anglo-Saxon script, which suggests it could be from the medieval period, approximately between the 5th and 15th centuries. The handwriting is moderately legible, with some variations in letter size and spacing. There are no visible margin notes, crossed-out words, multiple columns, or stamps, and no drawings are present.",Aberienuage. A. Vaelago mple. Berhoalgum periunzio algo fero,Aberienuage. A. Vælago mple. Berhohælum periunzio algo fero,0.4789,1.0000
+FRAN_0393_09340_L.png,taxinus Picardi gagiat xvii s. iii d. racione cuidem,"The document appears to be written in Old English or a similar medieval script. The handwriting suggests it is from the late Middle Ages, possibly around the 14th or 15th century. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.","tamiv
+fornia
+ludim
+sby
+gni
+Kamensk","tamiv
+fornia
+ludum
+sby
+gni
+Kamensc",0.8077,1.0000
+CODEA-1059_1r.png,dria ser . segun El presente estado que estan las cosas . sacar alguna . o algu,"1. The language is Spanish.
+2. The handwriting appears to be from the 18th or 19th century, judging by the style and formality.
+3. The legibility is moderate; the script is somewhat cursive but still readable.
+4. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",dria ser segun el presente estado que estan las casas. sacar alguna oaten,dria ser según el presente estado que están las casas. sacar alguna oaten,0.1646,0.5294
+CODEA-3174_1r.png,honze de junio de mill e quinientos y sesenta e ocho Años,"The handwritten document appears to be in Latin script, suggesting it could be from a historical period where Latin was commonly used, such as the medieval or early modern era. The handwriting is moderately legible, with some cursive elements that may require careful interpretation. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Gonzeelius
+ac
+Mensu
+y
+gegentar
+vo
+Anno","Gonzeelius
+ac
+Mense
+y
+gegentar
+vo
+anno",0.7018,1.0000
+codea1383.png,proveer enello lo que mas cumpla asu seruiçio e bien destos Reynos . e sobre todo sea seruido de açelerar su bien A,"The document appears to be written in Portuguese, using a cursive script that suggests it could be from the 19th or early 20th century. The handwriting is moderate in legibility, with some parts slightly blurred, possibly due to age or the quality of the ink. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","probablemente lo coman mucho con limón, sobre todo en verano, de ahí bien","probablemente lo coman mucho con limon, sobre todo en verano, de ahi bien",0.6000,0.7826
+CODEA-2719_1v.png,le escriuo asuMagestad yo me hallare y paresçere aca mal,"The document appears to be written in Italian, using a cursive script that suggests it might be from the 18th or 19th century. The handwriting is moderate in legibility, with some parts slightly blurred or unclear. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",lo scrivio a scritto. yome hallare si farescere aca mal,Lo scrivo a scritto. Yome hallare si farscere aca mal,0.3571,0.7000
+FRAN_0393_00896_L.png,de Lorriaco,"The handwritten document appears to be in Latin script. The style of handwriting suggests it could be from the 18th or 19th century. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.",Lebrun,Lebrun,0.8182,1.0000
+CODEA-3390_1v.png,sin el conde de pliego . ootro nomenos quedure mas,"The language used is Spanish, and the handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being slightly blurred or faded. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","fin
+el
+conde
+de
+pliego,
+odio
+nomenos
+quedure
+mas","fin el conde de pliego, odio nomenos quedure mas",0.1200,0.4000
+CODEA-3483_1r.png,2021,"The language or script used is Arabic. The approximate time period or style of handwriting suggests it could be from the late 20th to early 21st century. The overall legibility is moderate, as the numbers are somewhat clear but not perfectly formed. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",2021,2021,0.0000,0.0000
+codea1432.png,Alfonso,"The document appears to be written in Latin script. The handwriting suggests it could be from the 18th or 19th century, given the style and formality. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, stamps, or drawings visible in the provided image.",defonse,defonse,0.4286,1.0000
+CODEA-3605_2r.png,dosvaras destameña nuevas,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, or stamps visible in the image.",Xosbrazseftamerinawedas,Xosbraz seftamerinawedas,0.4800,1.0000
+FRAN_0393_00897_L.png,Jo de Pompedorio,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and somewhat formal handwriting. The legibility is moderate, with some parts slightly blurred or faded. There are no visible margin notes, crossed-out words, stamps, or drawings on this portion of the document.",$E_{0}$,$E_{0}$,1.0000,1.0000
+codea1851_c.png,que no pueden ser mayores / hallandose sumagestad e aquellas Partes ;,"The document appears to be written in Old Spanish or a similar Romance language, likely from the late medieval to early modern period, judging by the script style. The handwriting is moderate in legibility, with some characters that are slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Cono puedan sus mayores/
+haleandose rumbo en aquellos paraiso","Cono puedan sus mayores/
+haleándose rumbo en aquellos paraiso",0.3768,1.0000
+CODEA-3609_6r.png,causanirrazon alguna de que se pueda aprouechar,"The document appears to be written in Italian, using a cursive script that suggests it might be from the 18th or 19th century. The handwriting is moderate in legibility, with some words appearing slightly slanted and others more clearly formed. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image provided.","consanizzazione
+degli
+equivalenti
+nergaz",consanizzazione degli equivalenti Energaz,0.6596,1.0000
+CODEA-2609_1r.png,besan a vuesas mercedes las manos,"The document appears to be handwritten in a form of cursive script, possibly Latin or a similar script, though the specific language is not identifiable from the image alone. The handwriting style suggests it could be from the late 19th to early 20th century. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","before
+Mrs
+Nicholas","before
+Mrs
+Nicholas",0.7879,1.0000
+CODEA-3611_1r.png,- un manto de contray,"The document appears to be handwritten in Arabic script. The style of handwriting suggests it could be from the late 20th century, possibly the 1980s or 1990s. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","n
+bn
+man
+se
+en
+tra
+j
+o
+e
+g
+u
+s
+s
+2
+4
+3
+5
+8",n bnman se en tra j o egus 2 4 3 5 8,1.3333,2.6000
+codea_2562_b.png,veynte & çinco annos & la proueyeron de Curador a Diego Tellez notario vezino dela,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Claustrum
+Claustrum
+Claustrorum
+Claustrorum
+Claustris
+Claustris
+Claustrum
+Claustris",Claustris,0.9268,1.0000
+CODEA-2577_1v.png,lo qual el dicho Juan de Flores avia caydo E se avia permitido estar mu,"The document appears to be written in Latin script, likely from the medieval period given the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",lo qual el Vho puo de flores avia caydo Escavia primitido star lma,lo qual el vho puo de flores a via caydo escavia primitido star lma,0.2394,0.7333
+CODEA-3609_1v.png,seys sillas de cadera grandes En çiento,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 16th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","scoposileae
+tea
+vera
+prunus
+en
+scent","scoposileae
+tea vera
+prunus
+en scent",0.5641,1.0000
+29603234.png,side Enes taçiudad y Porque nos teme,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the 18th or 19th century. The handwriting is moderate in legibility, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Bicle
+Enée
+tacuidad
+Donqueose
+tema","Bicicle
+Enée
+tacuidad y Donqueose
+tema",0.5278,0.8571
+FRAN_0393_01438_L.png,T. de Sancto Petro,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century. The handwriting is moderately legible but somewhat cursive, making it challenging to read without context. There are no visible margin notes, crossed-out words, or stamps in the provided image.",F.-Leporello,F. Leporello,0.6667,1.0000
+CODEA-2273_1v.png,pasada en cosa juzgada & por que esto sea firme & valedero,"The document appears to be written in Latin script, likely from the medieval period, given the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","gaquida
+emro
+la
+Inzgada
+avro
+do
+Grafizme
+Davledro","gaquida
+emro
+la
+inzgada
+avro
+do
+grafizme
+davledro",0.6207,1.0000
+Clairmarais_43.png,super hoc confectis plenius dicitur contineri . Videlicet tria,"The document is written in Latin script. The handwriting appears to be from the medieval period, likely between the 12th and 15th centuries, given the style of the script. The legibility is moderate, with some characters being slightly difficult to decipher due to the cursive nature of the writing. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",in hor confessio plenum dicit. glimzy. vidali. etia,in hor confessio plenum dicit glimzy vidali etia,0.4677,1.0000
+CODEA-1066_1r.png,proçesion que se hiço en la qual de ninguna suerte ni manera no entro en,"The language is Spanish, and the script appears to be from the 16th or 17th century, judging by the style of handwriting. The legibility is moderate, with some characters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",procesion que sagico en la que de ninguna manera no entro en,procesión que sagrada en la que de ninguna manera no entré en,0.2917,0.4667
+codea1415_r.png,sellon & de Çerdanja marqueses de Oristan & de Goçiano por quanto por algunos alguaziles E otras per,"The document is written in Latin script, likely from the medieval period, given the style of handwriting. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Gellon@Cardanu marques derfran & goaune
+bergntoporalgnoeakynhele al ermepez",Gellon@Cardanu marques d'erfran & goaune bergntoporalgnoeakynhel al ermepez,0.5400,0.9444
+CODEA-2079_1v.png,sedeguardar lo mismo quesiempre seaguar,"The language used in the document is Spanish. The handwriting appears to be from the late 18th to early 19th century, characterized by a cursive style typical of that period. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","seguir
+guardar
+lo
+mismo
+que
+siempre
+se
+guarda",seguir guardando lo mismo que siempre se guarda,0.3077,1.2000
+CODEA-3614_1v.png,mill çe Pasdeviñas pocomaso menos,"The language used is Latin, and the handwriting appears to be from the medieval period, likely between the 12th and 15th centuries. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no visible margin notes, stamps, or drawings in the provided image.","micece
+Pandino
+Romae",micece Pandino Romae,0.6061,1.0000
+CODEA-2274_1v.png,alguna manera vale o valiere o valer puede en venta,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Ne
+doma
+mihi
+tua
+vala
+odreget
+tova
+erpu
+de
+conventa","---
+Ne doma mihi tua vala odreget tova erpu de conventa
+---",0.7059,1.0000
+CODEA-2025_3v.png,la dote en bienes muebles tiempoyes,"The document appears to be written in a form of cursive script, likely Latin or a language using Latin script. The handwriting suggests it could be from the late 19th to early 20th century, given the style and flow of the script. The legibility is moderate, with some letters being somewhat difficult to decipher due to the cursive style. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Laste
+in
+Gieney
+muc
+Oey
+tiemoyey",Laste in Gieney muc Oey tiemoyey,0.3714,1.0000
+CODEA-2735_1r.png,su. m*. muy deca myno para aca ysy *. s. supyese qua,"The handwritten document appears to be in Latin script. The handwriting style suggests it could be from the late medieval to early modern period, possibly between the 15th and 17th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Sanctip. ecclesy de san enryco egara ossa y fe derr's. fesegyefe gera,Sanctip. ecclesy de sancto Henrico Egara ossa et fides derr's. fesegyefe gerat,0.9808,1.0000
+CODEA-0205_1v.png,gidor e Toledo . conste los ofiçiales,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 10th and 13th centuries. The legibility is moderate, with some letters being more distinct than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Rigor
+Allego.
+Noteloc
+O
+Harled","Rigor
+Allego.
+Notelocus
+O
+Harled",0.6216,1.0000
+codea2655_c.png,de Tarragona,"The document appears to be written in Latin script. The handwriting style suggests it could be from the 18th or 19th century. The legibility is poor, making it difficult to discern the exact text. There are no visible margin notes, crossed-out words, or stamps in the provided image.",Stavragova,Stavragova,0.5000,1.0000
+000002H4.png,la mano & pensando que conesto auia conplido me llevaron al coro dela dicha yglesia,"The document appears to be written in Latin script, likely from the late medieval to early modern period, judging by the style of handwriting. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",la mano e pesanub d'anetto auya conphob mellebaro al dor d'la f. 159 a.,la mano e pesanub d'anetto auja conphob mellebaro al dor di la f. 159 a.,0.4217,0.8667
+codea2655_b.png,yglesias cathedrales es de muy $ gran $ de importantia yde muy grande pr,"The language is Spanish, and the script appears to be from the late medieval to early modern period, likely between the 15th and 17th centuries. The handwriting is moderate in legibility, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Viglesias
+cathedrales
+es de muy
+grande
+importancia
+y de muy
+grande","Viglesias
+catedrales
+es de muy grande
+importancia
+y de muy grande",0.2361,0.6429
+CODEA-3615_1r.png,te del dicho juan nunez quedaron muchos,"The document appears to be handwritten in a form of cursive script, possibly Latin or a language using Latin script. The style suggests it could be from the 18th or 19th century, given the flowing and somewhat ornate nature of the handwriting. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive style. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image provided.","the
+deepest
+understanding
+one
+can
+have",the deepest understanding one can have,0.7949,1.0000
+CODEA-2577_2r.png,declaro aesta parte / que comia enel suelo y hartas vezes,"The document appears to be written in Latin script, likely from the medieval period, given the style of handwriting. The legibility is moderate, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",declaro a esta parte / q comia en el Suelo y hartas vezet,declaro a esta parte / que comía en el Suelo y hartas veces,0.0877,0.6364
+00000HJG.png,hiziere si fuere cauallero o çibdadano onrrado que por cada vez quelo hiziere & dixere pierda la terçia parte de sus bienes & sea,"The language used is Latin, and the handwriting appears to be from the medieval period, likely between the 12th and 15th centuries, given the style of the script. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Existe si fuere lanaeke en el gobernado Coruña que por las dotes de la vecindad de la mezquita de San Pedro de Suebano es del,"---
+Existe si fuere lanaeque en el gobernado Coruña, que por las dotes de la vecindat de la mezquita de san Pedro de Suebano es del
+---",0.6589,0.8750
+CODEA-3202_1r.png,"que yome olgaremucho de que losreciba , y quando no quisiere","The document is written in Spanish script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Soy
+me
+lo
+que
+mucha
+de
+los
+recibas
+y
+cuando
+no
+quisiere",Soy mucho de los que recibas y cuando no quisiere,0.3833,0.6364
+CODEA-3586_1r.png,- mas dos cuchillos para xiflar -,"The document appears to be written in a form of cursive script, possibly Latin or a similar European language. The handwriting suggests it could be from the 18th or 19th century, given the style of the script. The legibility is poor due to the cursive nature and possible smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","pourbieos
+pour
+enfem","pourbieos
+pour
+enfem",0.7879,1.0000
+CODEA-2920_1v.png,"a todo lo suso dicho , fecha En el Collegio Real de sancta maria de Parraçes En veynte","The document is written in Spanish script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some parts slightly blurred but generally readable. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","a todo lo suso dicho, fecha En el Collegio Real de sanclamazia de Paraces En Veynte","a todo lo suso dicho, fecha en el Collegio Real de Sanclamazia de Paraces en Veinte",0.1279,0.4444
+CODEA-2274_2r.png,esta dicha donaçion bjen ansy & atan cunplidamente,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",cæn ðæt ðyrd (gæt ðæt ðyrd) ðæt ðæt niw ðæt ðyrd niw,cæn ðæt ðyrð (gæt ðæt Þyrð) ðæt Þæt niw Þæt Þyrð niw,0.9400,1.5000
+CODEA-3584_1r.png,E otra con gen gibre,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Otoga
+van
+ten
+Gibre","Otoga
+van
+ten
+Gibre",0.5500,1.0000
+CODEA-0205_2r.png,Alonsso de Segura chapinero dixo,"The document appears to be written in Latin script, likely from the medieval or early modern period, judging by the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","lonsso
+de
+seyma
+la
+pinero
+Ives","---
+Lonsso de Seymour la pinero Ives
+---",0.6250,1.0000
+CODEA-2540_1r.png,que toca algusto destos señores aquien tenemos tan Particulares obli,"The document appears to be handwritten in a cursive script, likely Latin or a language using Latin script. The style suggests it could be from the late 19th to early 20th century. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",qu'è toca' a Tgnshi defross' agmen l'esemps tom Particulanea,qu'è toca' a Tognshi defross' agmen l'esempio tom Particolare,0.5294,1.0000
+CODEA-2716_1r.png,Çespedes,"The handwriting appears to be in Latin script, suggesting it could be from a historical document, possibly dating back to the medieval or early modern period. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, stamps, or drawings visible in the provided image.","Guy
+petty","Guy
+petty",0.8750,1.0000
+CODEA-2138_1r.png,INQUISICION,"The language used is likely Latin, given the word ""INQUISICION,"" which translates to ""Inquisition"" in English. The handwriting appears to be from a historical period, possibly the 17th or 18th century, based on the cursive style. The legibility is moderate, with some letters being slightly difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",INQUISICION,INQUISICION,0.0000,0.0000
+CODEA-3605_1v.png,otro de de shila do de olanda a medio,"The document appears to be handwritten in a cursive script, likely Latin-based, suggesting it could be in a European language such as Italian, Spanish, or French. The style of handwriting suggests it might be from the 18th or 19th century. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image provided.",Cato & Sila ou Cato da ameaça,Cato e Sila ou Cato da ameaça,0.5676,1.0000
+codea1191.png,DE SIMANCAS,"The language used is Spanish, as indicated by the words ""DE SIMANCAS."" The handwriting appears to be from the late 19th to early 20th century, given the style and formality of the script. The legibility is moderate, with some characters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","DE
+SIMANCAS",DE SIMANCAS,0.0000,0.0000
+CODEA-2274_1r.png,la dicha sennora donna Maria de Herrera delos quales dichos,"The document appears to be written in a form of Old Spanish or Latin script, suggesting it could be from the medieval or early modern period. The handwriting is moderate in legibility, with some words and letters that are somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps, and no drawings are present.","calló la urna de la alhóndiga de Bermeza
+de los quince años","calló la urna de la alhondiga de Bermeza  
+de los quince años",0.5932,1.0000
+codea1851_a.png,Simismo haembiado su Armada demar para el mismo estado /,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the late medieval to early modern period, possibly between the 15th and 17th centuries. The handwriting is moderate in legibility, with some words more clearly formed than others. There are no visible margin notes, stamps, or drawings, and the text is written in a single column.","Dimismo haembrado su demada al mar
+para el mismo día","Dimismo haembrado su demanda al mar
+para el mismo día",0.2857,0.7000
+CODEA-3591_2r.png,dura se puso en quinze Reales,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",domnus prie (a) cyrce yerelc,domnus prie (æ) cyrce yerelc,0.7241,1.0000
+CODEA-1450_1r.png,otras cosas . En questais Entendiendo enla çiudad,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the 17th or 18th century. The handwriting is moderate in legibility, with some characters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",d'abate. En que cas en todo conserva todas,d'abate. En que caso en todo conserva todas,0.6122,1.0000
+CODEA-3605_1r.png,un ca be çal de san taren llenodelana,"The language used is Spanish, and the handwriting appears to be in a cursive style, suggesting it could be from the late 19th to early 20th century. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",¡Un cabeal de Santalón lleno de caín,¡Un cabeal de Santaló lleno de caín,0.4054,1.0000
+Felipe_II_Carta(1557).png,"tanto a nuestra auctoridad , y descargo de mi conciencia , no haue-","The document is written in Spanish using a cursive script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","tanto á mi autoridad, y desfago de mi conciencia, no haue,","tanto á mi autoridad y desfago de mi conciencia no haue,",0.2388,0.5385
+CODEA-2719_2r.png,guarde y prospere a .vm. conel contento que yo,"The document appears to be written in Spanish, using a cursive script that suggests it might be from the 19th or early 20th century. The handwriting is moderately legible, though some letters are somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","guarde
+y
+pros
+Jeve
+avm.
+conel
+contento
+queyes",guarde y pros Jeve avm. conel contento queyes,0.1739,0.5556
+00000MX8.png,Rey don Fernando nuestro sennor su padre como su administrador y governador destos,"The document appears to be written in Latin script, likely from the medieval period, given the style of the handwriting. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","luy
+don
+fernandom
+ò
+senoi
+srupad
+boné
+Snadny
+y
+god
+de
+Aos","luy
+don
+fernandom
+ò
+senoi
+srapad
+boné
+snadny
+y
+god
+de
+aos",0.6098,1.0000
+CODEA-3615_2v.png,dosmachos deamedio año,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and flowing nature of the handwriting. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive style. There are no visible margin notes, crossed-out words, or stamps in the provided image.",Dostoevsky,Dostoevsky,0.8182,1.0000
+CODEA-3611_1v.png,- honze panyçuelos de mesa en tela,"The document appears to be written in a form of cursive script, possibly Latin or a language using Latin script, though the specific language is not identifiable from the image alone. The handwriting style suggests it could be from the late 19th to early 20th century. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, or stamps in the provided image.",n some way queen demega Pleas,In some way queen Demega Pleas,0.6176,1.0000
+FRAN_0393_01123_L.png,G. ecclesie archidiacono,"The document appears to be written in Latin script. The handwriting suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.","et
+cetera","et
+cetera",0.7917,1.0000
+CODEA-2577_3r.png,Inuocato :,"The language is Latin, and the script appears to be from the Middle Ages, possibly the 13th or 14th century. The handwriting is moderate in legibility, with a consistent style typical of that era. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Inuocato,Inuocato,0.2000,0.5000
+FRAN_0393_06593_L.png,de Braban sz,"The document appears to be handwritten in Latin script. The style suggests it could be from the late 19th to early 20th century. The handwriting is moderately legible, with some letters appearing slightly slanted. There are no special features such as margin notes, crossed-out words, stamps, or drawings visible in the provided image.","Abraham
+B",Abraham B,0.6667,1.0000
+CODEA-1006_2r.png,derecho en tal caso se Requiere fecha la carta enla mui noble & mui leal çibdad de,"The document appears to be written in Old French or a similar Romance language, given the script and vocabulary. The handwriting style suggests it is from the medieval period, likely between the 12th and 15th centuries. The legibility is moderate, with some characters being more difficult to decipher than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","quando
+fu
+la
+rana
+con
+mio
+nobile
+mestiere
+abona
+di",quando fu la rana con mio nobile mestiere abona di,0.6829,0.9412
+FRAN_0393_01021_L.png,Phi. de Salione,"The handwritten document appears to be in Latin script. The style of handwriting suggests it could be from the 18th or 19th century. The legibility is moderate, with some cursive elements that may require careful interpretation. There are no special features such as margin notes, crossed-out words, stamps, or drawings visible in the provided image.","Sophie
+de
+Salome",Sophie de Salome,0.4000,0.6667
+CODEA-3584_1v.png,- cinco platos grandes valen çianos,"The document appears to be written in Latin script, likely from the medieval or early modern period, given the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Sancto
+Plato
+et
+Grande
+Balen
+anno","Sancto
+Plato
+et
+Grandis
+Balen
+anno",0.5714,1.0000
+CODEA-3609_1r.png,- dosmantas . grandes e seis costales En,"The language used in the document appears to be Greek. The handwriting style suggests it could be from the late 19th to early 20th century, with a moderate level of legibility. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",σοσματας·γραναζεσεοιασταλεοπρε,σοσμάτων·γραναζέσεοιαστάλεοπρε,1.0000,1.0000
+34315551.png,1575 .,"The document appears to be in Latin script. The handwriting style suggests it could be from the 17th or 18th century, given the cursive and somewhat ornate lettering. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.",1575,1575,0.3333,0.5000
+CODEA-2078_1r.png,to caseaserbido que me tiendo yo un costal de pan,"The handwritten document appears to be in Latin script, suggesting it could be from a historical period where Latin was commonly used, such as the medieval or early modern era. The handwriting is moderately legible, with some cursive elements that may require careful interpretation. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","to
+Casagrande
+metemo
+yo
+en
+costa
+del
+pan","---
+to Casagrande
+metemo yo en costa del pan
+---",0.5306,0.9000
+codea2655_a.png,lo que nos hauia mandado . y ansi en todo he sido ysoy fuera de culpa .,"The language is Spanish, and the script appears to be from the 16th or 17th century, judging by the style of handwriting. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",lo / g noshama mandado - yansi entodo he sido y soy fuera de culpa,lo g noshama mandado - yansi en todo he sido y soy fuera de culpa,0.1549,0.5294
+CODEA-2719_1r.png,Muy Illustre señor,"The document appears to be handwritten in Latin script. The style suggests it could be from the 17th or 18th century, given the cursive and somewhat formal script. The legibility is poor, with parts of the text being difficult to decipher due to smudging and the angle of the writing. There are no visible margin notes, crossed-out words, stamps, or drawings on this portion of the document.",Mary,Mary,0.8889,1.0000
+CODEA-2025_4v.png,escriuano Publico etestigos,"The language used is Spanish. The handwriting appears to be from the late 20th century, possibly the 1980s or 1990s, given the style and neatness. The legibility is moderate, with some parts slightly blurred but still readable. There are no special features such as margin notes, crossed-out words, or stamps visible in the image.","escribano
+Jubocico
+A62257",escribano Jubocico A62257,0.4815,1.0000
+CODEA-0205_1r.png,el serviçio de sus magestades . e bien,"The document appears to be written in Old English or a similar medieval script. The handwriting style suggests it could be from the 12th to 15th century. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","el
+Servicio
+que
+mas
+traste
+obren",el Servicio que mas traste obren,0.4737,0.8750
+FRAN_0393_00954_L.png,Jo. Hue,"The handwritten document appears to be in Latin script. The handwriting style suggests it could be from the 17th or 18th century. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.",jo. hue,jo. hue,0.2857,1.0000
+00000HMP.png,ramento & pleyto omenaje delo cunplir se quito .,"The document appears to be written in Latin, suggesting it could be from the medieval or early modern period. The handwriting is somewhat cursive and difficult to decipher, indicating moderate legibility. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",zalmento - e zlyst' o menale selo om jiz se qyto,zalmento - et zlyst' o mente selo om jiz se qyto,0.5000,1.2222
+CODEA-3614_6v.png,ocho hevillas para botas,"The document appears to be handwritten in Spanish. The style of handwriting suggests it could be from the late 19th to early 20th century. The legibility is moderate, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","O
+é
+o
+que
+você
+deseja
+para
+Brasile.",O que você deseja para Brasil?,0.8750,1.2500
+IMG0051.png,"ha de tener y los de la boca y acroys y caualleria consultandolo ,","The language used is Spanish, and the handwriting appears to be from the 17th or 18th century, characterized by its cursive style. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.","ha detener y los dela boca Jacroys y cavalleriza confundandolo,","ha detener y los dela boca Jacrois y cavalleriza confundandolo,",0.1667,0.6429
+FRAN_0393_00957_L.png,De magistro Johanne de Bosco actore contra dominum Guillelmum Bellefame ad tradendum,"The document appears to be written in Latin, suggesting it could be from the medieval or early modern period. The handwriting is cursive and somewhat flowing, indicating it might be from the 15th or 16th century. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps, and no drawings are present.",De magistro Johanne de Herbis loco comiti Eppu quodam bellifacie 20 tundum,De magistro Johanne de Herbis loco comiti Eppe quodam bellifacie XX tundum,0.4762,0.6667
+0000084H.png,"de un tercio como lo de Civita Vieja , de esto viene a Venecia","The document is written in Italian cursive script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",De Anterio / co molo / de quita / Lóieja / defto Viene / a Veneçia,De Anterio / con molo / de quinta / Lóieja / defto viene / a Venezia,0.4194,0.9286
+0006_Main_frame.png,J. de Bordis.,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and somewhat ornate lettering. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",J. & Bourne,J. & Bourne,0.5385,0.6667
+codea1348.png,& todolo otro ensu perjuizio fecho sentençiado mandado hexecutado,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some letters and words being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.",Cwæðo ðæt ðonc ðæt miðe fah ðæt ðæt man dæge peccan,Cwæðo ðæt þonc ðæt miþe fah ðæt þæt man dæge peccan,0.7231,1.2222
+IMG0037.png,"las huuiesse menester , y por dos o quatro naos , que se hiziessen muy grandes , y aporfia solo por","The language used is Latin, and the handwriting appears to be from the late medieval to early modern period, likely between the 15th and 17th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","las huiniefe menester. y por dos o quatro naos, q se hiziesen muy grandes, y aportia solo por","las huiniefe menester. Y por dos o quatro naos, que se hiziesen muy grandes, y aporfa solo por",0.1111,0.4762
+CODEA-2610_1r.png,sea tenido auiso que el enemigo sea embarcado y sumado,"The language used is Spanish. The handwriting appears to be from the late 19th or early 20th century, given the style and formality of the script. The legibility is moderate, with some parts of the text appearing slightly blurred or faded. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Sea temido amigo que el enemigo sea embarcado y haga,Sea temido amigo que el enemigo se embarque y haga,0.2593,0.6000
+CODEA-2577_1r.png,y holgauan los viernes,"The language used is Old Spanish, and the script appears to be from the late medieval to early modern period, likely between the 15th and 17th centuries. The handwriting is moderate in legibility, with some variations in letter size and spacing. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","holgaulan
+los
+viernes",holgaulan los viernes,0.1364,0.5000
+codea1415_v.png,xpistianos & lo delos Caminos para el Reparo de los dichos Cami,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","γραμματολογιον
+και
+αρχαιολογικον","grammatologion
+kai
+archaiologikon",0.7619,1.0000
+CODEA-2724_1r.png,a la princesa y ami delo que enesto ayporque somos,"The handwritten document appears to be in Latin script. The style of handwriting suggests it could be from the 17th or 18th century, given the cursive and somewhat formal nature of the script. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",a Capit. ap. mi. deo Grat. aperia Somus,"---
+a Capite ap. mi. deo Grat. aperia Somus
+---",0.7000,1.0000
+000001FV.png,venturada venida enellos . pues este es el prinçipal e ultymo Remedio para Reparo delos grandes dannos que se han o,"The document appears to be written in a form of Old English or Anglo-Saxon script, which suggests it could be from the medieval period, roughly between the 5th and 15th centuries. The handwriting is moderate in legibility, with some characters that are less distinct, possibly due to the style of writing or the age of the document. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Sentinada venida enellos/Anes este es el yncastel Polizymo tameduo/pa Rianto silos granzo grandotgehanco,"Sentinada venida enellos/
+Anes este es el yncastel
+Polizymo tameduo
+pa Rianto silos granzo
+grandotgehanco",0.4261,0.8095
+CODEA-0202_1v.png,en contrario sean e ser puedan elaley e derechos en que diz que general,"The document appears to be written in Latin script. The handwriting style suggests it is from the medieval period, likely between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.",S[an]cto[m]fe[m]er[b]iue[s]an[c]ale[s]e[s]icel[q]ue[d]u[is],Santo[m]fe[m]er[b]iuesan[c]ale[s]eicel[q]uedu[is],0.7465,1.0000
+codea1341_r.png,el otro dia escreui avuestra sennoria Reverendisima como los ynquisidores desta çibdad proçedian contra,"The document appears to be written in a form of Old Spanish or Latin script, suggesting it could be from the late medieval to early modern period. The handwriting is moderately legible, with some characters that are slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",el otro dia estrenaba sapima como los magnificores de la abadía procedían conque,el otro día estrenaba sapima como los magníficos de la abadía procedían con que,0.4854,0.8571
+CODEA-3591_1r.png,segunda,"The document appears to be handwritten in a cursive script, possibly Latin or a similar language. The style suggests it could be from the late 19th to early 20th century. The handwriting is moderately legible, though some parts are difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, stamps, or drawings present in the image.",Ovomucin,Ovomucin,1.0000,1.0000
+CODEA-3483_2r.png,esta ya bueno a un que dizen que flaquisimo,"The language used is Spanish, and the handwriting appears to be from the 18th or 19th century, judging by the cursive style. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",esta ya bueno a bugdizen flagrisimo,Esta ya bueno a bugdizen flagrisimo,0.3023,0.6667
+CODEA-2403_1v.png,nas que dyos aya y por que es verdad lo fyrme de my,"The document appears to be written in Portuguese, using a cursive script that suggests it might be from the 18th or 19th century. The handwriting is moderate in legibility, with some parts slightly blurred, possibly due to age or the quality of the ink. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image provided.","não
+é
+dúvida
+que
+a
+força
+é
+cobrada
+no
+primeiro
+de
+maio",não é dúvida que a força é cobrada no primeiro de maio,0.7059,0.9231
+CODEA-2079_1r.png,a cada seisçientos maravedis etiene executada susentençia,"The language used is Spanish. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Alcanseis¡¡¡¡¡¡¡¡¡¡mio¡¡¡¡¡¡¡¡¡Etere¡¡¡¡¡¡¡¡¡e¡¡¡¡¡¡¡¡¡pectada¡¡¡¡¡¡¡¡¡su¡¡¡¡¡¡¡¡¡s¡¡¡¡¡¡¡¡¡k¡¡¡¡¡¡¡¡¡A¡¡¡¡¡¡¡¡¡n¡¡¡¡¡¡¡¡¡ci¡¡¡¡¡¡¡¡¡a¡¡¡¡¡¡¡¡¡,Alcanseis ¡¡¡¡¡¡¡¡¡¡ mio ¡¡¡¡¡¡¡¡¡ Etere ¡¡¡¡¡¡¡¡¡ e¡¡¡¡¡¡¡¡¡ pecutada ¡¡¡¡¡¡¡¡¡ su ¡¡¡¡¡¡¡¡¡ s¡¡¡¡¡¡¡¡¡ k¡¡¡¡¡¡¡¡¡ A¡¡¡¡¡¡¡¡¡ n¡¡¡¡¡¡¡¡¡ ci¡¡¡¡¡¡¡¡¡ a¡¡¡¡¡¡¡¡¡,2.3684,2.4286
+IMG0049.png,"mos hazer , visto la desproporcion de la edad y otras dificultades e impedi","1. The language is Spanish.
+2. The handwriting appears to be from the 17th or 18th century, judging by the style and formality.
+3. The legibility is moderate; some letters are clear, while others are more difficult to decipher.
+4. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","mos hazer, viso la desproporcion dela edad y otras dificultades es impedi:","mos hacer, viso la desproporcion de la edad y otras dificultades es impedi:",0.0667,0.3571
+codea2990_d.png,fiador,"The document appears to be written in Latin script. The handwriting suggests it could be from the 18th or 19th century, given the cursive style. The legibility is moderate, as the letters are somewhat clear but not perfectly formed. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Laez,Laez,0.8333,1.0000
+CODEA-2068_1r.png,hordenança el dicho Amador hizo con otras buenas per,"The language used in the document is Spanish. The handwriting appears to be from the 18th or 19th century, judging by the cursive style and the lack of modern punctuation. The legibility is moderate, with some letters being slightly difficult to decipher. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.",correspondencia del amo mayor hizo contrabuenas por,correspondencia del amo mayor hizo contrabuena por,0.4231,0.8889
+0000084G.png,Flandes diez por ciento .,"The language appears to be Latin, and the handwriting style suggests it is from the late medieval to early modern period, likely between the 15th and 17th centuries. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","flandec
+diei
+pornento","flandec
+diei
+pornento",0.4000,1.0000
+CODEA-3615_5r.png,ñez deandrada y ques i supieren o uiniere A su,"The language used is French, and the handwriting appears to be from the 18th or 19th century, judging by the cursive style. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.","chez
+jean-francois
+gues
+sa
+vie
+en
+pauvreté","chez Jean-François Gues
+sa vie en pauvreté",0.6304,1.0000
+CODEA-2735_1v.png,consu .s. aun quese artas cosas destas que nosabe el duque vuestra. s. lo rre,"The document appears to be written in Latin script, likely from the late medieval to early modern period, given the style of handwriting. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",corres-5-12 de 1936 se notifico al porf. del porf. 29 octubre el der. Vere-slotk,corres-5-12 del 1936 se notificó al porf. del porf. el 29 de octubre el der. Vere-slotk,0.8182,1.0000
+codea1192.png,las cosas quede Juso son escriptas en esta presente carta Como hun fidalgo a otro non debe enbayr ni matar sen desaffiar ecomo et delant,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the 17th or 18th century. The handwriting is moderate in legibility, with some parts being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","las asas que desuò son escriptas en esta font carta
+et comi han fidalgo acesto non debe enbaye ni maitre son de clamia ecomo et delant","las asas que desuò son escritas en esta font carta
+et como han fidalgo acesto no debe enbaye ni maître son de clamia ecomo et delant",0.2574,0.6400
+codea2990_b.png,nuçiando como rrenuçiaron las leyes,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","núñares
+como
+vienes
+a
+contarme","núñares,
+como
+vienes
+a
+contarme",0.6857,1.0000
+0000086G.png,para blanco .,"The language is Spanish, and the script appears to be cursive, suggesting it could be from the late 19th to early 20th century. The handwriting is moderate in legibility, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","para
+blanco",para blanco,0.1538,0.3333
+CODEA-2920_1r.png,"parte dela piedra en la sobreaz della , lo qual como viesse El padre visitador dixo congran","The language used is Spanish, and the script appears to be a form of cursive handwriting, likely from the 17th or 18th century. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","'parte delapiédra en la sobraB della, lo qual como vielle 'El p'visita da díaz con gran","'parte de la piedra en la sobra B della, lo qual como viele 'El p' visita da díaz con gran",0.2198,0.8235
+FRAN_0393_01440_L.png,De licitacione domorum  $d$ domini episcopi Cabilonensis / et domini succentoris / quo,"The document appears to be written in Old English or Anglo-Saxon script, which suggests it could be from the medieval period, possibly between the 11th and 14th centuries. The handwriting is moderately legible, with some characters that are slightly difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","de Ancre
+80 morf
+& 50 abeys
+& 100 pundos,
+quo","---
+de Ancre
+80 morf & 50 abeys & 100 pundos,
+quo
+---",0.8023,1.0000
+FRAN_0393_00516_L.png,in d,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and somewhat ornate lettering. The legibility is moderate, with some parts slightly blurred or unclear. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.","2n+2
+im
+z","2n+2
+im
+z",2.0000,1.0000
+CODEA-2273_1r.png,devo avos la dicha donna Maria de Herrera mi hermana y en vuestros herederos,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being more distinct than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","sevo nostre sen sona magis defettera m
+Estay cunvivs Sepulvrs","sevo nostre sem sona magis defettera me
+Estay convivs Sepulvrs",0.5658,1.0000
+0001_Main_frame.png,R. de Putheolis,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",p. 52 pergolio,p. 52 pergolio,0.6000,1.0000
+codea2990_a.png,Ra su magestad le podia llamar y sacar,"The document appears to be written in a form of Old English or Anglo-Saxon script. The handwriting suggests it could be from the medieval period, possibly between the 11th and 14th centuries. The legibility is poor, with some letters and words difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.","Basuma
+Atte
+Dodiareman
+Ngora","---
+Basuma
+Atte
+Dodeareman
+Ngora
+---",0.8158,1.0000
+CODEA-3606_1v.png,- diez den ta les de arados,"The language used is Spanish. The handwriting appears to be from the late 20th or early 21st century, with a moderate level of legibility. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",r direz dem ta les grandes,r direz dem ta les grandes,0.3333,0.7143
+codea1198_r.png,Muy alto y muy poderoso,"The language appears to be Spanish, given the words ""Muy alto"" and ""y muy poderoso,"" which translate to ""Very high"" and ""and very powerful,"" respectively. The handwriting style suggests it could be from the 18th or 19th century, as it has a cursive quality typical of that era. The legibility is moderate, with some parts slightly blurred, but the words are still discernible. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Muy
+alto
+y muy
+poderoso",Muy alto y muy poderoso,0.0000,0.0000
+CODEA-1437_1r.png,guilar conde de Castanneda chançiller mayor deCastilla,"The document appears to be written in Old French or a similar Romance language from the Middle Ages. The handwriting style suggests it is from the 13th or 14th century. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","gualer, voire de custaine di chantier mayor demaill","gualer, voire de custaine de chantier mayor demaill",0.3333,0.8571
+FRAN_0393_03231_L.png,deliberacione prehabita / Considerante intercetera,"The document appears to be written in Latin script, likely from the medieval period, given the style of handwriting. The legibility is moderate, with some characters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Schbeschacione
+prehbita
+conservan
+mteratera",Schbeschacione prehabita conservan mteratera,0.3800,0.8000
+FRAN_0393_00773_L.png,G. Cantore,"The document appears to be written in Latin script. The handwriting style suggests it could be from the 17th or 18th century, given the cursive and somewhat ornate lettering. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.",6-Canove,6-Canove,0.5000,1.0000
+CODEA-1006_1r.png,de tierras que conpro en Burgena de Juan Picaço e de Leonor de Medina,"The document appears to be written in Latin script, likely from the medieval period, given the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","de trias
+G. Conro
+Kelmberg
+Hilnon
+Dwag
+e
+eleonardemach","---
+de trias
+G. Corro
+Kelmberg
+Hilnus
+Dwag
+e
+Eleonardemach
+---",0.7536,1.0000
+LL123_0013_Left.png,Condurier,"The document appears to be written in a form of cursive script, possibly Latin or a similar script, which suggests it could be from a historical period where such writing was common, such as the medieval or early modern era. The handwriting is moderate in legibility, with some strokes that are somewhat difficult to decipher. There are no special features like margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Rabbits,Rabbits,0.8889,1.0000
+codea1198_v.png,sennor la vida de vuestra alteza y sus reynos acreciente Como sus criados y va,"The language used is Spanish, and the handwriting appears to be from the 17th or 18th century, judging by the cursive style. The legibility is moderate, with some words partially obscured. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",conocer la vida de val y los reyes acrecentante como sus enados y va,conocer la vida de Val y los reyes acrecentantes como sus enados y va,0.3846,0.5333
+codea2990_c.png,que rreçibiere desus cartas de pago E finy,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps, and no drawings are present.","quem
+a
+Bene
+occulte
+cartae
+ceyvago
+fiat",quem a Bene occulte cartae ceyvago fiat,0.5476,1.0000
+CODEA-3614_1r.png,dicha tierra yolivar y Cortoçiertos,"The language used in the document is Spanish. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the image.","La
+Patricia
+Yorena
+Gonzalez",La Patricia Yorena González,0.7429,1.0000
+FRAN_0393_07016_L.png,De Luchac sz,"The language appears to be Latin, and the handwriting style suggests it could be from the 18th or 19th century. The legibility is moderate, with some parts of the letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Lithar,Lithar,0.7500,1.0000
+codea1438_r.png,y hable conel alcalde mayor y el alguazil mayor y son tan nobles personas que yo,"The document appears to be written in Latin script, likely from the medieval period given the style of handwriting. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",yhaba otates myor ycealmazil mayor y cantin noble ponet,"---
+yhaba otates major ycealmazil maior y cantin noble ponet
+---",0.5250,0.9375
+codea2259_v.png,a quella clausula delderecho que es dicha enlatyn judiçio systi judicatum,"The document appears to be written in Latin, suggesting it could be from the medieval or early modern period. The handwriting is cursive and somewhat difficult to decipher, indicating it might be from the 15th or 16th century. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Colla el antiquus de resso q ca ser caycayn judo daw ov
+daw daw","---
+Colla el antiquus de resso qua ca ser caycayn judo dav ov
+dav dav
+---",0.6986,1.1818
+FRAN_0393_09141_L.png,ad opus penitenciarie ita quod redditus de quibus concedebant,"The language appears to be English, and the handwriting style suggests it could be from the late 19th to early 20th century. The legibility is moderate, with some parts of the text being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",at one point in time you go without a fly swatter,At one point in time you go without a flyswatter,0.7377,1.1111
+CODEA-1503_1r.png,delas Piñuelas scriuano publico,"The document appears to be written in Latin script. The handwriting style suggests it could be from the late medieval to early modern period, possibly between the 15th and 17th centuries. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.","velae
+xi
+melas","velae
+xi
+melas",0.7419,1.0000
+molesmes_2_0088r.png,"Capis; ex parte ejus, Gosbertus Rufus, Rotbertus de Islis, Winibertus pincerna, Falco frater ejus, Jansellus, et Ansellus de Trecis.» ... «Testes sunt: Gaufredus filius Otranni, Otrannus filius","The language is Latin, and the script appears to be a form of medieval or early modern handwriting, possibly from the 12th to the 16th century. The legibility is moderate, with some parts of the text slightly blurred or faded. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Testes sunt graufrid filio iohanni ocrami fili,Testes sunt graufridus filio iohanni ocrami filii,0.8083,1.0000
+codea1340_v.png,para el cardenal,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and somewhat ornate lettering. The handwriting is moderate in legibility, with some letters appearing slightly stylized. There are no visible margin notes, crossed-out words, or stamps in the provided image.","paracelsus
+donal","paracelsus
+donal",0.3750,1.0000
+CODEA-3173_1r.png,este declarante por vida de dios que aun que dios me lo diga,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some letters being slightly blurred or overlapping. There are no visible margin notes, crossed-out words, multiple columns, or stamps, and no drawings are present.","estercelizsurzich
+deus
+con
+n
+dum
+melo
+con","esterceliz surzich
+deus
+con n
+dum melo
+con",0.6667,1.0000
+codea_2562_d.png,sydor ordinario,"The language is Latin, and the script appears to be from the medieval period, likely between the 12th and 15th centuries. The handwriting is moderate in legibility, with some cursive flourishes typical of that era. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Orbi
+Cardinale","Orbi
+Cardinale",0.6667,1.0000
+CODEA-3615_2r.png,termino alsitio del Enzinal linde,"The document appears to be written in Greek script. The handwriting style suggests it could be from the late medieval to early modern period, possibly between the 15th and 18th centuries. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, stamps, or drawings in the provided image.","+ωμεγατων
+κεκριμενος",+ωμεγατων κεκριμενος,0.9697,1.0000
+30255689.png,"faziendas de por casa mayormente ante nosotros , & que sabe","The document appears to be written in Old English or Anglo-Saxon script, which suggests it could be from the medieval period, approximately between the 11th and 15th centuries. The handwriting is moderately legible, with some characters that are less distinct, possibly due to the age and condition of the document. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",F. Denckl. vroedt. mth. mayormer. sind. Hoe Loffre. @ 1581.,F. Denckl. vroet. mth. mayormer. sind. Hoe Loffre. 1581.,0.7288,1.0000
+CODEA-2274_2v.png,del dicho oliuar la qual podades tomar & aprehender,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",de obro quid la quattuordecim maniprehender,de obro quid la quatuordecim maniprehender,0.4706,0.8889
+00000HL9.png,el corregidor sabe mas a un Reçibjo en su casa y conpannia,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the 18th or 19th century. The handwriting is moderate in legibility, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",el corregidor sabe mas don yealpo en su tafa y apaga,el corregidor sabe más don Yealpo en su tafa y apaga,0.2931,0.5000
+CODEA-2577_2v.png,testigos como si fuessen tomados en juizio plenario y renunçio,"The document appears to be written in Latin script, likely from the Middle Ages, given the style of handwriting. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","es como si fuesen homados
+Quisiv plentivio y renunció","es como si fuesen homados
+quisiv plentivio y renunció",0.3226,0.7000
+CODEA-2497_1v.png,el fiscal,"The document appears to be written in Latin script. The handwriting style suggests it could be from the 18th or 19th century. The legibility is poor, making it difficult to read the text clearly. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Johann,Johann,1.0000,1.0000
+FRAN_0393_00772_L.png,De Castaneto ordinatum est quod fiat requesta curie,"The document appears to be written in Latin script. The handwriting style suggests it could be from the late medieval to early modern period, possibly around the 15th to 17th century. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, stamps, or drawings in the provided image.",Descriptio ordinantis praedicta curie,Descriptio ordinantis praedictae curie,0.5686,0.8750
+IMG0050.png,lo enderece por los buenos medios y formas que sabra de maner que se,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the 16th to 18th century. The handwriting is moderately legible, though some letters are somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",Po endexece por los buenos medios y formas que sabra de manera que,Por ende exerce por los buenos medios y formas que sabrá de manera que,0.1618,0.4286
+codea1194_r.png,prouecho A nuestros subditos vos mandasemos les dexasedes curar Conel,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","manuscriptum
+les
+perdo
+de
+certaine
+fonte
+ad","manuscriptum
+les
+perdo de
+certaine
+fonte
+ad",0.8261,1.0000
+CODEA-2497_1r.png,a veynte & seys dias,"The document is written in Old English script, likely from the medieval period, around the 12th to 15th centuries. The handwriting is moderate in legibility, with some stylized flourishes typical of the era. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Divergente
+de
+Gens
+Trac",Divergente de Gens Trac,0.6000,1.0000
+FRAN_0393_00875_L.png,Jo. de Pompedorio,"The document appears to be written in Latin script. The handwriting style suggests it is from the medieval period, likely between the 12th and 15th centuries. The legibility is moderate, with some letters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Jo.
+de
+pompe","Joannes
+de
+Pompeis",0.6471,1.0000
+CODEA-3406_1r.png,don Juan mando hazer çierta limosna,"The document appears to be written in Portuguese. The handwriting style suggests it could be from the 18th or 19th century, given the cursive and somewhat formal script. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",En 1º mundo haber certo timor...,En 1º mundo haver certo timor...,0.4571,1.0000
+CODEA-3591_1v.png,y en sus con çiençias e a todo su leal saber e entender,"The document appears to be written in German, using a cursive script that suggests it could be from the late 19th to early 20th century. The handwriting is moderate in legibility, with some parts slightly blurred or unclear. There are no visible margin notes, crossed-out words, stamps, or drawings present in the image.","Dennonour
+Kerue
+entabgirel
+Ober
+Esthur","Denonour
+Kerue
+entabgiren
+Ober
+Esthur",0.7818,1.0000
+CODEA-1435_1r.png,en vuestra Juridiçion . que quales quier mensajeros & procuradores del dicho prior frayles &,"The document appears to be written in Latin script, likely from the medieval or early modern period, judging by the style of handwriting. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","on trova l'omission, que qualquier mensajero e procuradoro biu abo prior facerlo","on trova l'omissione, que qualquier mensajero e procuratoro biu abo prior facerlo",0.4022,0.8667
+codea1428v.png,reçen & ade venir por çedula de su sennoria por que deotra manera,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","zerni
+Ca
+Vbemz
+208
+E
+Inda
+de
+Quornona
+ad
+q
+Decamana","zerni
+Ca
+Vbemn
+208
+E
+Inde
+de
+Quornona
+ad
+qu
+Decamana",0.7077,1.0000
+codea1851_d.png,podra tener . para socorrer asumagestad y para proveerlas neçesidades,"The document appears to be written in Spanish, using a cursive script that suggests it could be from the late medieval to early modern period, possibly between the 15th and 17th centuries. The handwriting is moderate in legibility, with some letters and words more clearly formed than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","podría
+tener.
+para
+socorrer
+a
+ellas
+y
+para
+cubrirlas
+necesidad",podría tener para socorrer a ellas y para cubrirlas necesidad,0.2899,0.6000
+codea2985.png,que queriades quefuesen ynstituydas enlos venefiçios delas yglesias,"The document appears to be written in Old English or Anglo-Saxon script, suggesting it is from the medieval period, likely between the 10th and 13th centuries. The handwriting is moderately legible, with consistent letter forms and spacing. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","quincuaginta
+decem
+fines
+construendus
+cultu
+obveniendus
+de
+civitatibus",quincuaginta decem fines construendus cultu obveniendus de civitatibus,0.7015,1.0000
+FRAN_0393_12108_L.png,Cotin xcusato sz,"The document appears to be written in Latin script. The handwriting style suggests it could be from the 18th or 19th century. The legibility is poor, making it difficult to decipher the text. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Jordy
+van",Jordy van,0.8125,1.0000
+CODEA-3614_2v.png,E Des pues delo suso dicho En la dicha villa,"The document appears to be handwritten in Latin script. The style of handwriting suggests it could be from the 18th or 19th century, given the cursive and somewhat formal nature of the script. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","v. 6
+De
+Que
+he
+hecho
+de
+Ensayos","v. 6
+De Que he hecho de Ensayos",0.7273,1.0000
+codea1851_b.png,embia amandado y proueido de engrosarla suya quepara suvenyda,"The document appears to be written in Old Spanish or Latin script, suggesting it could be from the medieval to early modern period, approximately between the 12th and 17th centuries. The handwriting is moderate in legibility, with some archaic characters that indicate its historical origin. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","cmlba
+amandado
+y
+procedo
+de
+engrosar
+la
+buya
+Pza
+subiendo",cmlba amandado y procedo de engrosar la buya Plaza subiendo,0.2623,0.7778
+00000HMQ.png,crivio al cardenal a si que por mi parte syenpre se pro,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Septem
+decem
+et
+quatuor
+et
+tres
+et
+bis
+et
+quatuor
+et
+decem",Septem decem et quatuor et tres et bis et quatuor et decem,0.8545,1.0000
+CODEA-3616_2r.png,que fueron des tauilla dellerena comoseqontiene en La,"1. The language used is Spanish.
+2. The handwriting appears to be from the late 20th century, possibly the 1980s or 1990s, based on the style and neatness.
+3. The legibility is moderate; the writing is clear but not perfectly uniform.
+4. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.",¿Qué fueron las raíces geográficas comunes?,¿Qué fueron las razas geográficas comunes?,0.6415,0.8750
+codea1303.png,A vuestras Altezas nos hagan merçed de dos ofiçios de veynte y quatrias desta dicha çibdad la una para don Bernaldino de Cordova el qual de mas deser debdo detodos los prinçipales grandes desta comarca y sus,"The document appears to be written in Latin script, likely from the medieval period given the style of handwriting. The legibility is poor, with some letters and words difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Lomás Mérizalde
+hijo de los señores
+de Vizcaya y quatrías
+heredades
+de la villa para don Bernabino
+Corredor cuyos masajes
+había heredado
+los propios padres
+grandes señores
+comuna y vna","---
+Lomás Mérizalde, hijo de los señores de Vizcaya y quatrías heredades de la villa para don Bernabino Corredor cuyos masajes había heredado los propios padres grandes señores comuna y una
+---",0.5652,0.7838
+CODEA-1450_1v.png,liese a los dichos mercaderes y personas que yse,"The document appears to be written in Latin script, likely from the medieval period, judging by the style of handwriting. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Hic
+est
+a
+loco
+quod
+haberemus
+Benedicto
+Vasconio",Hic est a loco quod haberemus Benedicto Vasconio,0.7292,1.0000
+30255692.png,Juan Moreno vezino de Hinojosa testigo jurado dixo vezino de Ynojosa testigo jurado,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","primo
+movente
+Saelphnolo
+mado
+di
+xov
+de
+ymvlothr
+mado","---
+primo
+movente
+Sælphnolo
+mædo
+di
+xov
+de
+ymwlothr
+mædo
+---",0.8072,1.0000
+FRAN_0393_01039_L.png,.Sy. de Bourich s,"The document appears to be written in Latin script. The handwriting style suggests it could be from the late medieval to early modern period, around the 15th to 17th century. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",S. Joannes,S. Ioannes,0.7059,1.0000
+FRAN_0393_01146_L.png,Jo. Rolandi,"The document appears to be handwritten in a cursive script, likely Latin or a language using the Latin alphabet. The style suggests it could be from the late 19th to early 20th century. The legibility is moderate, with some parts of the text being somewhat difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Jo.Bland,Jo. Bland,0.2727,0.5000
+codea2536_r.png,risca muger de Alonso Ximenez vezina de la villa del,"The document appears to be written in Latin script, suggesting it could be from the medieval or early modern period. The handwriting is moderately legible, with a consistent style that suggests it might be from the 16th or 17th century. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","risti
+muger
+la
+Monso
+scrittore
+Vedina
+la
+Villa
+La","risti
+muger
+la
+Monzo
+scrittore
+vedina
+la
+villa
+la",0.5769,1.0000
+IMG0053.png,sento de la infante .,"The language used is Spanish, as indicated by the words ""Infante,"" which means ""Infant"" or ""Prince"" in English. The handwriting appears to be from the 17th or 18th century, judging by the cursive style and the formality of the script. The legibility is moderate, with some parts of the letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Sento
+dela
+Infante","Siento
+dela
+Infante",0.3810,1.0000
+CODEA-2106_1r.png,de al presente escriuano ante quien pasare me de un trasla-,"The language used is Latin, and the handwriting appears to be from the late medieval to early modern period, likely between the 15th and 17th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",de al presente formal ante quien pasare me de vuestra,de al presente formal ante quien pasareme de vuestra,0.2542,0.4545
+FRAN_0393_10167_L.png,Ph. de Molinis,"The document appears to be in Latin script, suggesting it could be from the medieval or early modern period. The handwriting is moderately legible, with some cursive elements that indicate it might be from the 16th or 17th century. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.",Joh. R. Johannis,Joh. R. Johannis,0.5714,1.0000
+CODEA-3139_1r.png,pies besa,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and somewhat ornate lettering. The legibility is poor, with some letters difficult to decipher. There are no special features such as margin notes, crossed-out words, or stamps visible in the provided image.","Mrs
+Mrs","Mrs.
+Mrs.",0.8889,1.0000
+CODEA-1437_1v.png,Juan de,"The language appears to be Latin, and the handwriting style suggests it could be from the 18th or 19th century. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, stamps, or drawings visible in the provided image.",Pian,Pian,0.7143,1.0000
+CODEA-3606_1r.png,te Elos bienes que eldicho Françisco demon te Ruvio dixote,"The document appears to be handwritten in Spanish. The style suggests it could be from the late 19th or early 20th century, given the cursive and somewhat formal script. The legibility is moderate, with some parts slightly blurred or unclear. There are no visible margin notes, crossed-out words, stamps, or drawings on the page.",fe'not héneg que eños fomó germao teñuño si po fe,fe'not héneg que eños formó germano teñuño si po fe,0.6207,1.0000
+CODEA-2025_3r.png,conservados en mis bienes enolos vendere,"The language used in the document is Spanish. The handwriting appears to be from the late 20th or early 21st century, with a moderate level of legibility. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Conservador
+en
+sus
+Gienes
+y
+moléculas",Conservador en sus Génesis y moléculas,0.5500,0.8333
+IMG0038.png,el ganado delas dehesas - y el danno que la falta del ganado haria en el reyno poca,"1. The language is Spanish.
+2. The handwriting appears to be from the 17th or 18th century, judging by the style and formality.
+3. The legibility is moderate; the script is somewhat cursive but generally clear.
+4. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","el ganado de las dehesas -
+del año que la falta del ganado haría en el reyno poca",el ganado de las dehesas - del año que la falta del ganado haria en el reyno poca,0.0723,0.2778
+FRAN_0393_03232_L.png,Magistro Petro Cardonnel,"The document appears to be written in Latin script. The handwriting style suggests it could be from the medieval period, possibly between the 12th and 15th centuries. The legibility is moderate, with some letters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Magno
+petro
+tardornel","---
+Magnus
+petrus
+tardornel
+---",0.8333,1.0000
+FRAN_0393_00504_L.png,Viriacum,"The document appears to be handwritten in Latin script. The style suggests it could be from the 18th or 19th century, given the cursive and somewhat ornate lettering. The legibility is moderate; some letters are clear, while others are more difficult to decipher. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",huracu,huracu,0.5000,1.0000
+FRAN_0393_00829_L.png,religionem alioquim moneatur sub pena excommunicacionis.,"The document appears to be written in Latin script. The handwriting style suggests it is from the medieval period, likely between the 12th and 15th centuries. The legibility is moderate, with some parts of the text being clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.","Klosteren
+Nisquim
+monasterii
+sub
+filiis","---
+Klosteren Nisquim monasterii sub filiis
+---",0.7143,0.8333
+CODEA-2025_1r.png,porel dicho Luis de Roca mi suegro mefue,"The language used in the document is Spanish. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","porque
+Luis
+se
+muca
+mi
+fuego
+mefue",porque Luis se muca mi fuego me fue,0.3500,0.8750
+FRAN_0393_00874_L.png,P. Colli,"The document appears to be written in Latin script. The handwriting style suggests it could be from the 18th or 19th century, given the cursive and somewhat formal nature of the script. The legibility is moderate; while the letters are generally clear, they are not perfectly uniform in size or spacing. There are no visible margin notes, crossed-out words, or stamps in the provided image.","dd
+coq","dd
+coq",0.8750,1.0000
+codea2536_v.png,çia bien y con humildad segum la Relaçion que,"The document is written in Spanish script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",vá bien Vos humildad según la Relación que,Vá bien Vos humildad según la relación que,0.2667,0.5556
+CODEA-3390_1r.png,laqual hemenester tambien para informar asu,"The language used is Spanish. The handwriting appears to be from the late 19th to early 20th century, characterized by a cursive style typical of that era. The legibility is moderate, with some parts of the text being somewhat difficult to decipher due to the cursive nature and slight smudging. There are no special features such as margin notes, crossed-out words, or stamps visible in the image.","Cual
+hombres
+tambien
+para
+informar
+esa","Cual
+hombres
+también
+para
+informar
+esa",0.3953,1.0000
+CODEA-2139_1r.png,dijo presumia su prision por la frequente entrada en casa de su novia ; sobre lo que tenia presenta,"The document is written in Spanish script. The handwriting appears to be from the 18th or 19th century, judging by the style and formality. The legibility is moderate, with some parts of the text being clear while others are harder to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",dijo presumida su pasión por la frecuente entrada en caja de su novia: sobre los temas presentes,dijo presumida su pasión por la freqüente entrada en caja de su novia; sobre los temas presentes,0.1616,0.5263
+codea1341_v.png,siervo de vuestra sennoria Reverendisima quesus yllustres manos besa,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","herbodh
+has
+a
+fme
+quhylls
+manoshep",herbodh has a fme quhylls manoshep,0.6471,1.0000
+CODEA-3483_1v.png,dado que yo Reçibo mu cha merced / de tenelle,"The language used is Spanish, and the handwriting appears to be from the 18th or 19th century, judging by the cursive style. The legibility is moderate, with some parts of the text being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",da do gyo Recibo non ega mdsdetenelle,da do gyo Recibo non ega middetenelle,0.4222,1.0000
+codea_2562_a.png,el liçenciado Fernando de Maçuecos Canonigo enla santa yglesia de Toledo vycario,"1. The language appears to be Latin.
+2. The handwriting style suggests it is from the medieval period, likely between the 12th and 16th centuries.
+3. The legibility is poor; the script is cursive and somewhat difficult to decipher.
+4. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",re hui fieri de manu mea nunc et cum die solis ascenderit,re huī fieri de manu meā nunc et cum die solis ascenderit,0.7125,0.9167
+CODEA-0202_1r.png,yo hazer hedificar vn Ante pecho enla dicha plaça me fue puesto,"The document appears to be written in Latin script, likely from the medieval period, judging by the style of handwriting. The legibility is moderate, with some characters being slightly difficult to decipher. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",yo fizer hedificar en ante mercho esta dicha plaza me que pueste,yo fiz heredificar en ante mercho esta dita plaza me que pueste,0.2698,0.8333
+codea1340_r.png,teza y el liçenciado Bernaldino de Castro teniente de corregidor dela dicha villa & Fernan,"The document appears to be written in Old English or Anglo-Saxon script. The handwriting suggests it is from the medieval period, likely between the 11th and 14th centuries. The legibility is moderate, with some characters being somewhat difficult to decipher due to the style of writing. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",festivellaebernalisperdasamtemenendocherregeldecajoferhan,festivellæbernalisperdasamtemenendocherregeldecajoferhan,0.6444,1.0000
+FRAN_0393_01290_L.png,dominis J. Decano et G. Fedelli,"The document appears to be written in Latin script, likely from the 17th or 18th century, given the style of handwriting. The legibility is moderate, with some parts of the text being more difficult to decipher due to the cursive nature of the script. There are no visible margin notes, crossed-out words, multiple columns, or stamps in the provided image.",Sancti Jo. Borromei a S. R. C.,Sancti Johannis Borromei a S. R. C.,0.9677,1.1667
+CODEA-2075_1r.png,guno vuestra señoria por lo que a dios deuemos e ala caridad e buengouier,"The language used in the document is Spanish. The handwriting appears to be from the late 20th or early 21st century, with a style that suggests it could be from the 1980s or 1990s. The legibility is moderate, with some parts of the text being clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.",quino N. S. por lo que adios leuemos calacaridad abuengouier,Quino N. S. por lo que adiós leamos calacaridad abuengouier,0.3562,0.7857

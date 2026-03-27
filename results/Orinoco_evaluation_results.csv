@@ -1,0 +1,2032 @@
+File,Ground_Truth,Stage1_Analysis,Stage2b_Literal,Final_Prediction,CER,WER
+100383_img001.jpg,"T M I Tarr
+l
+ano a 1768
+Despinto
+m Joseph santos Cabrera.
+N.5
+CONTRATACION 5660. N. 4
+A
+S. de Camara
+Xn. Juan Ant. de Monte","The document is written in Spanish, using a cursive script that suggests it is from the 17th or 18th century. The handwriting is moderately legible, with some stylistic flourishes typical of the period. There are no visible margin notes, crossed-out words, multiple columns, or stamps on the page.","J. M. S. Carlos
+año de 1668
+Defunto
+M. Joseph santos
+Cabreira.
+N. S.
+CONTRATACION, 5660. N. 4
+O. de Camara
+D. Juan Ant. de Monte","J. M. S. Carlos  
+año de 1668  
+Defunto  
+M. Joseph Santos  
+Cabreira.  
+N. S.  
+CONTRATACION, 5600. N. 4  
+O. de Camara  
+D. Juan Ant. de Monte",0.3577,1.0556
+100383_img002.jpg,Imagen en blanco,"The language used is Spanish, as indicated by the words ""imagen en blanco."" The handwriting appears to be modern and legible, with no special features such as margin notes, crossed-out words, multiple columns, or stamps. The style suggests it could be from the late 20th or early 21st century.","Imagen
+en blanco
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es
+AE
+ARCHIVOS
+ESTATALES","Imagen en blanco
+CONTRATACION, 5660, N. 4
+© Archivos Estatales, <https://pares.cultura.gob.es>
+AE
+ARCHIVOS
+ESTATALES",6.2500,2.3333
+100383_img071.jpg,"SIGELLO QUARTO, AÑO DE MIL SETECIENTOS Y SETENTA Y OCHO.
+A residente y escribano por su Mag. en su R. Audiencia y
+Comandancia, y a Indias de esta Ciudad de Cadiz.
+A los señores jueces y justicia de la Ciudad de Pn [incompleto]
+...senarían en Vizcaya, hacemos saber que por la
+Capitanía general de Caracas fecho 16 minuado á esta
+R. Aud. Testimonio de los autos formados con motivo
+del fallecimiento abintestato en el curato de Dn Joseph
+Barrios Cabrera como juzgo de la R. Expe dición de
+limites de la linea divisoria entre esta Corona y
+la de Portugal en cuya virtud por el Sr. Fiscal de esta
+R. Aud. se presentó un escrito el dicho vecino y en el
+de Julio del presente año queda conforme el testimonio
+que del precedente se la toma es el siguiente.
+El Fiscal de Su Mag en oficio del Testimonio de
+autos Minuado por la Capitanía general de Cara-
+cas con motivo del fallecimiento abintestato en
+rínoca el día cinco de Mayo de mil setecientos cinc
+- cinc de Dn Joseph Barrios Cabrera como juzgo
+de la R. Expedición de limites de la línea divi
+soria entre esta Corona y la de Portugal, dice.
+Que aunque de dicho testimonio no consta en manera
+alguna la Florida, P.P.n. Hexedero del referido.","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some parts clearer than others. There are margin notes, crossed-out words, and a stamp at the top left corner, indicating it might be an official document.","SELLO QVARTO, AÑO DE
+MIL SEISCIENTOS Y SE-
+SENTA Y OCHO.
+Para defensa de oficio quatro mfs.
+El mandame y ordene por Su Ullas en cuyo R. Audencia
+Coronada Fia Anual de uno Cuidad de Cadiz.
+A los Sen. Dn. Juseo Juncias dela Ciudad de
+Sevillana en Vizcaya, hazemos Causa luego la
+Capitanía general de Caracas Seño Nominado á esta
+R. Aud. Testimonio de los anos formados Con motivo
+del fallimiento administrativo en el archivo de D. Joseph
+Santos Cabrera Comogrofo del R. Expedicion de
+Limites dela Línea divisoria entre esta Corona y
+la de Portugal en Cuyo Vencid por el R. Enca Santa
+R. Aud. Se presentó un Escrito el día Veinte y siete
+de Julio del presente año quedo Athenor y el del anno
+que el proximo ála basta es el Sigueniente
+Escrito fecho Al Zocal de Su Ullas en Oficio del Testimonio de
+anos Nominado por la Capitanía general de Cara-
+cas Con motivo del fallimiento administrativo en
+varios el dia Cinco de Mayo de Seiscientos Cinco
+y once de D. Joseph Santos Cabrera Comogrofo
+del R. Expedicion de Limites dela Línea divi-
+soria entre esta Corona y la de Portugal dese
+Luc arrique de lo Testimonio no Contrua en manera
+alguna la Paua P.P. ni Herederos del Siguedo
+CONTRATACION, 5660.114
+© Archivos Estatales, https://pares.cultura.gob.es","SELLO QUARTO, AÑO DE MIL SEISCIENTOS Y SESENTA Y OCHO.
+
+Para defensa de oficio cuatro mfs.
+
+El mandame y ordene por Su Ulla en cuyo R. Audencia Coronada Fía Anual de uno Cuidad de Cádiz.
+
+A los Sen. Dn. José Juncias de la Ciudad de
+
+Sevilla en Vizcaya, hazemos causa luego la
+
+Capitanía general de Caracas Señor Nominado á esta
+
+R. Aud. Testimonio de los años formados con motivo
+
+del fallimiento administrativo en el archivo de Don José
+
+Santos Cabrera Comisario del R. Expedición de
+
+Límites de la Línea divisoria entre esta Corona y
+
+la de Portugal en Cuyo Venció por el R. Enca Santa
+
+R. Aud. Se presentó un Escritorio el día Veinte y siete
+
+de Julio del presente año quedó Athenor y el del año
+
+que el próximo á la basta es el Sigueniente
+
+Escrito fecho Al Zocal de Su Úlla en Oficio del Testimonio de
+
+años Nominado por la Capitanía General de Caracas
+
+Con motivo del fallimiento administrativo en
+
+varios el día Cinco de Mayo de Seiscientos Cincuenta
+
+y once de Don José Santos Cabrera Comisario
+
+del R. Expedición de Límites de la Línea divisoria
+
+entre esta Corona y la de Portugal dese
+
+Lucarrique de lo Testimonio no Contruya en manera
+
+alguna la Pausa P.P. ni Hérfederos del Siguedo",0.3322,0.6429
+100383_img104.jpg,"Con el mismo termino, y aprecion, que el actual
+lo mandaron los Senores Presidentes y oidores
+ de la Real Audiencia y Camara
+a Indias en Cádiz á onze de Noviembre de mil setecientos sesenta y
+dos, testó Juan de la Moneda.
+Como más extenso reza de referido el dicho
+Autos y lo procurado con su origen
+y sello de que es Inferiorazgo, escribano de
+Camara de fe, y para que tenga efecto lo pedido
+por el Sr. Fiscal y se nos mande expedido el
+Informe a otros Senores Jueces y Audidores de la dicha Audiencia
+a fin de que luego que lo recivan se
+tuban mandado cumplir y en su consecuencia que
+se solucione y haga saver a la Sr. Josepha Antonia
+y Juana derecha del dicho difunto Sr. Joseph San-
+ton Cabrera, y demás testigos o personas que puedan
+tenerlo a sus vienes que dentro del termino de
+sesenta dias que le tenemos asignado ocurran en
+una Real Audiencia por ello, y por medio de registrado
+comparecer con poder y justificacion de lo actuado. Comprometen-
+dose sus personas a traer de su dedo como les corberga sobre el pernito de dicha Audiencia y no pudiendo
+ser hallados se fijen edictos en los sitios publicos
+y acostumbrados, cursando y llamandolos para","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are margin notes, crossed-out words, and no stamps or drawings present.","Con el mismo termino y aprestamiento que lo mandaron los Hon. Senadores y Diputados
+DE LA R. Aud. & Contratac. en Indias en
+Cádiz a onze de Nov. de mill Setecientos
+Veintiuno que habiendo Juan Ana de Monroy
+Como mas extranjero, pasado referido de ocho
+años, lo ocupado Comando con sus otros
+sujetos de que de Infanteria y Caballería
+Camara de fez, y para que tenga efecto lo pedido
+por el Sr. Fiscal y a Nos mandado expedimos el
+presente a Otros Sen. Jueces y Justicia de su
+Cádiz, para que desde luego que lo Reciban
+Se suban mandarlo Cumplido y en su Consecuencia que
+se Solicite y haga Naveg. a la D. Josepha Anaonica
+& Juancha Quiela del dicho difunto D. Josephe Sanchez
+Cabreiro y demas Credores ó Personas que dentro del Término
+de sesenta dias que tenemos asignado o quieran en
+cuyo caso por medio de Audiencia por si ó por medio de Apoderado
+Componer y satisfacer de la misma Compeñencia
+de Sus personas ó Usar de Su derecho como les Compen-
+sa sobre el pago de dicho Credito, y no pudiendo
+ser hauidos Señoren Cabreiro en los Sitios publicos
+y ausentados, Cuandolos y llamandolos para
+CONTRATACION,566011.4
+© Archivos Estatales, https://pares.cultura.gob.es","Con el mismo término y aprestamiento que lo mandaron los Hn. Senadores y Diputados
+de la R. Aud. y Contratac. en Indias en Cádiz a once de Nov. de mill Setecientos Veintiuno
+que habiendo Juan Ana de Monroy
+Como más extranjero, pasado referido de otoño
+años, lo ocupado Comandó con sus otros sujetos de que de Infantería y Caballería
+Cámara de fez y para que tenga efecto lo pedido por el Sr. Fiscal y a Nos mandó expedirnos el
+presente a Otros Sen. y Jueces y Justicia de su Cádiz para que desde luego que lo Reciban
+se suban mandarlo Cumplido y en consecuencia que se Solicite y haga Navegación a la D. Josepha Anaonica
+y Juancha Quiela del dicho fallecido D. Josephe Sanchez Cabreiro y demás Credores ó Personas que dentro del término
+de sesenta días que tenemos asignado o quieran en cuyo caso por medio de Audiencia por si o por medio de Apoderado
+Componen y satisfacen de la misma Compañía
+de sus personas ó Usar de su derecho como les Compensa sobre el pago de dicho Crédito, y no pudiendo
+ser hallados Señores Cabreiro en los Sitios públicos y ausentados, Cuándolos y llamándolos para",0.3898,0.6263
+100383_img028.jpg,"xio de accidente epidemico de escorbuto, y por tal segun orden de Su Magestad debe quemarse todo quanto aya recelo pues causa perjuicio á los vivientes; y para que el Señor Comandante D. Eugenio de Albarrado dé la orden conveniente al beneficio publico firmo esta de mi mano en el Real Presidio de Guayana hoi veinte y seis de Mayo de mil setecientos cinquenta y cinco - Antonio Alvarez En fuerza de esta Certificacion pasara a quemar todas las piezas que contiene esta lista el propio Cirujano Certificante con intervencion del Cosmografo D. Joseph Mariano Monnroy, como encargado de mi orden de recoger los muebles pertenecientes al Rey, que tenia el defunto; y luego que se haia hecho la quema ponera, a continuacion de esta orden la Certificacion de haverse avia ejecutado. Guayana, 26 de Mayo veinte y seis de mile setecientos cinquenta y cinco - D. Eugenio de Albarrado. Certifico haverse hecho esta quema...","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or early 19th century. The handwriting is moderate in legibility, with some words more clearly written than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","xió de accidente epidémico desconocido,
+y por tal según orden de Su Magestad
+debe quemarse todo quanto aquí recelo pue-
+sa ser perjuicio a los vivientes; y para
+que el Señor Comandante D. Eugenio de
+Albarado de la orden conveniente al be-
+neficio publico firmo esta seminano enel
+Real Presidio de Huayana hoi veinte, y
+seis de Mayo de mil setecientos cincuen-
+ta y cinco= Antonio Alvarez
+En fuerza de esta Certificación pasará a
+quemar todas las piezas, que contiene esta
+lista el propio Orifusano Certificante con
+intervencion del Cosmografo D. Joseph
+Mariano Monroy, como encargado de
+mi orden de recoger los muebles pertene-
+cientes al Rey, que tenía el defunto; y luego
+que se haia hecho la quema pondrá a con-
+tinuacion de esta orden la Certificación
+de haberse aqui executado. Huayana, y
+Mayo Veinte, y seis de mil setecientos
+cincuenta y cinco= D. Eugenio de Al-
+barado.
+Certifico haberse hecho esta quema","xío de accidente epidémico desconocido,  
+y por tal según orden de Su Magestad  
+debe quemarse todo quanto aquí recelo pueda  
+ser perjuicio a los vivientes, y para  
+que el Señor Comandante Don Eugenio de  
+Albarado de la orden conveniente al bene-  
+ficio público firmo esta seminano en el  
+Real Presidio de Huayana hoy veinte, y  
+seis de Mayo de mil setecientos cinquan-  
+ta y cinco = Antonio Álvarez  
+En fuerza de esta certificación pasará a  
+quemar todas las piezas que contiene esta  
+lista el propio orifusano certificante con  
+intervención del Cosmógrafo Don Joseph  
+Mariano Monroy, como encargo de mi  
+orden de recoger los muebles pertene-  
+cientes al Rey que tenía el defunto; y luego  
+que se haya hecho la quema pondrá a con-  
+tinuación de esta orden la certificación  
+de haberse aquí ejecutado. Huayana, y  
+Mayo Veinte y seis de mil setecientos  
+cincuenta y cinco = Don Eugenio de Al-  
+barado.  
+Certifico haberse hecho esta quema",0.1466,0.3742
+100383_img067.jpg,"SELLO QUARTO, AÑO DE MIL SETECIENTOS Y 58.
+De la M. en vista del testimº de aut. remitido por la Capitanía Gral de costas con motivo del fallecimº del interesado en dõ cinco el dia 5 de mayo de 1755 Dn. Iphān Cabrera Comodoro de la Rl. Expedición de límites de la línea divisoria entre esta costa y la de Portugal. Dice y da cuenta de otro testim. no escrito en maraca algn. a la Patria, P. P. m. heres. del referido: ni tampoco se haya hecho remisa de dho. algº por los motivos q. se resultan de los aut. no obstante expresando la causa de oficio q. se halla testemunada en este distrito al parecer natural de snº Ievanstán casado con Dña N. Guardia y q. su madre o suegra se nombraba Dña Luisa de Herrero. Y conforme igualmente del estado testim. alcanzax al distrito ala Rl. Hacienda por razon de sus sueldos devengados hasta el dia de su fallecim. en la cantidad de 580 ps 4 rs y 22 mrs q. no se remitio por q. no haver caudales en casa con aquel","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no visible margin notes, crossed-out words, or multiple columns, but there are stamps at the top and bottom of the page.","SOLICITARIO, AÑO DE
+MIL SEISCIENTOS Y SESENTA Y OCHO.
+El Testim. de l. M. en vista del testimonio de
+aut. remitido p. la Capitanía General de casa
+cas con motivo del fallecimiento intestato en
+Oxinas, el día 5 de mayo de 1755 de Dn. Joaquin
+fue Caballero Comendador de la R. Expedición
+de Límites de la línea del Norte entre esta co
+lónia y la de Portugal. Dice que aqu. de otro
+Testimonio consta en manera alg. la Patria
+P. P. m. hered. Del Testim. ni tampoco se haya
+hecho remesa de dinero alg. p. los motivos que se
+sustan de los aut. no obstante expresando la causa
+de Oficio que se halla testimoniada ser este
+dif. al parecer nat. de S. Sebastián Casado
+con Dn. N. Guardia y q. Su madre o suegra
+le nombrada Dn. Luisa de Herreno. Acompa
+ñado igualm. del citado testim. Alcanzó el dif.
+a la R. Hacienda p. razón de sus sueldos de
+vengados hasta el día de su fallecimiento en la can
+tidad de 580 p. Vaz. y 22 mar. q. no se remitió
+por q. no haber Caudales en casa con aquel
+© Archivos Estatales, https://pares.cultura.gob.es","Solicitario, año de
+mil seiscientos y sesenta y ocho.
+El Testim. de l. M., en vista del testimonio de
+autor remitido por la Capitanía General de casa
+cas, con motivo del fallecimiento intestato, en
+Oxinas, el día 15 de mayo de 1755, de Dn. Joaquín
+fue Caballero Comendador, de la Real Expedición
+de Límites, de la línea del Norte, entre esta colonia
+y la de Portugal. Dice que aquél, de otro
+Testimonio, consta en manera alguna, la Patria
+P. P. m., hered. Del Testim. ni tampocó se haya
+hecho remesa de dinero alguno, por los motivos que se
+sustancian de los autores. No obstante, expresando la causa
+de Oficio, que se halla testimoniada, ser este
+difunto, al parecer, nativo de San Sebastián, Casado
+con Don N. Guardia, y que su madre o suegra
+le nombrada Don Luisa de Herreno. Acompañado
+igualmente del citado testimonio. Alcanzó el difunto
+a la Real Hacienda, por razón de sus sueldos de vengados,
+hasta el día de su fallecimiento, en la cantidad de 580 p. Vaz.
+y 22 mar. que no se remitió, por que no haber Caudales en casa con aquel.",0.3221,0.6250
+100383_img115.jpg,"Para despachos de oficio quarto más.
+SELLO QUARTO, AÑO DE MIE
+SETECIENTOS Y SETENTA Y
+TRES.
+Josepha Anta e Guardia viuda de D.ph
+Santos Cabrera se alcance en vuelto, y
+sex ente el unico caudal que resulta haver
+quedado por su fallecimiento. Buelvan estos autos
+ala este de cámara donde se custodien a
+los efectos q[ue] haya lugar: Es mandaron los
+N. Pres. y Oidores de la RL. Audti. e Contratacion
+a Ind. en cadiz a veinte y tres de Abril
+mil setecientos setenta y tres.","The document is written in Spanish, using a cursive handwriting style typical of the 17th or 18th century. The legibility is moderate, with some parts slightly difficult to read due to the cursive nature of the script. There are no margin notes, crossed-out words, or multiple columns; however, there is a stamp at the top left corner and a signature at the bottom right.","Para despachos de oficio quatro mts.
+SELLO QVARTO, AÑO DE MIE
+SETECIENTOS Y SETENTA Y
+TRES.
+Dorotha Ant. I Guardia viuda D. Joh
+Santos Cabreza el Alcance en vuelo, y
+sex este el unico caudal que resulta haver
+quedado por su fallecimiento. Buelvan estos autos
+ala est. de Camara, donde se custodien á
+los efectos q. haya lugar: Es mandaron los
+N. Presb. y Obis. dela M. Audi. & Contratacion
+a Ind. en Cadiz á veinte y tres de Abril
+mil setecientos setenta y tres
+S. Valladiego","Para despachos de oficio cuatro mts.
+SELLO QUARTO, AÑO DE MIL
+SETECIENTOS Y SESENTA Y
+TRES.
+Dorotha Antonia Guardia viuda de D. Juan
+Santos Cabreza el alcance en vuelo, y
+sexiste el único caudal que resulta haber
+quedado por su fallecimiento.Buelvan estos autos
+ala est. de Cámara, donde se custodien a
+los efectos que haya lugar: Es mandaron los
+N.Presb. y Obis. de la M. Audi. & Contratación
+a Ind. en Cádiz a veinte y tres de Abril
+de mil setecientos setenta y tres
+S.Valladiego",0.1362,0.4324
+100383_img070.jpg,Imagen en blanco,"The language used is Spanish, as indicated by the words ""imagen en blanco."" The handwriting appears to be modern and legible, with no special features such as margin notes, crossed-out words, multiple columns, or stamps. The style suggests it could be from the late 20th or early 21st century.","Imagen
+en blanco
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es
+AE
+ARCHIVOS
+ESTATALES","Imagen en blanco
+CONTRATACION, 5660, N. 4
+© Archivos Estatales, <https://pares.cultura.gob.es>
+AE
+ARCHIVOS
+ESTATALES",6.2500,2.3333
+100383_img110.jpg,"Quí Señor mío. Haviendo practicado las diligencias con duciento á efecto de lo que V. S. intimá con su Carta de diez y siete de Enero último, y el despacho que acompa- ñaba, y se dirijon á inquirir la Pazúr, y herederos de Don Joseph Santos Cabrera, que falleció habitante en el Quinco, hallamos caucadá esta dependencia, y en todo finalizado su contento, como lo acredita el testi- monio que acompaña: Por lo que entendemos haver cum- plido con la comision que V. S. se sirvió encargaros. Con este motivo nos ofrecemos a la disposición de V. S. con el mas fino afecto Rogando á nao","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are margin notes, crossed-out words, and a signature at the bottom, but no stamps or drawings are present.","Su Senor mio. Hauiendo practicado las diligencias con
+ducentes a efecto de lo que V. S. instruia en su Carta de
+diez y nueve de Enero octavo, y el despacho que acompa
+ñaba, se dividió a inquirir la patria, y herederos de
+Don Joseph Santos Cabeza, que falleció habiendo estado
+enel Olimpo, hallamos cualquiera esta dependencia, con
+todo finalizando su contenido, como lo acredita el testi
+monio que acompaña: Por lo que entendemos hauea cam
+pido con la comision que V. S. se sintió encargarnos.
+Con este motivo nos ofrecemos ala disposicion
+V. S. con el mas fino afecto rogando a no
+© Archivos Estatales, https://pares.cultura.gob.es","---
+Su Senor mio. Hauiendo practicado las diligencias con
+ducientes a efecto del que V. S. instruía en su carta de
+diez y nueve de Enero octavo, y el despacho que acompañaba,
+se dividió a inquirir la Patria, y herederos de
+Don José Santos Cabezón, que falleció habiendo estado en el Olimpo,
+hallamos cualquiera esta dependencia, con todo finalizando su contenido,
+como lo acredita el testimonio que acompaña: Por lo que entendemos
+hauea campeado con la comisión que V. S. se sintió encauzarnos.
+Con este motivo nos ofrecemos a la disposición
+V. S. con el más fino afecto rogando a no
+---
+
+© Archivos Estatales, <https://pares.cultura.gob.es>
+---",0.2869,0.5472
+100383_img006.jpg,"Cabeza de este Auto, y que visto y podrón- tenido se le hiciere saber el referido Sr. Joseph Monnoy, para que luego se pase á la forma- cion de los citados Inventarios. Y por este aso lo proveo, y firmó su merced, se que doy en fée en papel común, por no contar Sellado = Juan Valdes = Antonio Jacinto de Mier, Escrivano público.
+Luego incontinente yo el presente Escriba- no ayuiendo subixado la Carta, que se ex- presa en el Auto antecesente se lo hice co- nocer á Dn. Joseph Monnoy en su presencia, y que doi fée. De Mier, Escribano
+Inventario de bienes.
+Inventario, que en virtud de lo proveido arrí- ba, y de lo para ello dispuesto formó el dicho Señor Comandante, y Teniente Gobern- ador Dn. Juan de Dios Valdés advisado con el Consomagrapho Dn. Joseph Monnoy de los bienes, que generalmente se hallaron en la Cava, que era de la habitación de Dn. Joseph Santos de Cabrera Consmo- grato de la Real Expedición, así de los pertenecientes a dicho difunto, como de las alhajas, y Instrumentos, Libros, Ma-","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Cabeza de este Auto, y que uno, y otro con-
+tenido se le huiese saber al referido Fr. Joseph
+Monroy, paraque luego sepase la forma-
+cion de los citados Inventarios. Y porque
+así lo proveio, y firmó su merced, se que soy
+en fee en papel comun, porque conoz Señor
+Juan Valdés = C. Antonio Facinho de Mier
+Escriviano publico.
+Diligencia:
+Luego incontinenti yo el presente Escrivia-
+no auiendo rubricado la Carta, que se exp-
+resa en el Auto antecedente velo hici sa-
+ber a Fr. Joseph Monroy en Supersona,
+que que vai feé= De Mier, Escriviano
+Inventario de Inventario, que en virtud velo proveido arri-
+baba, y de lo paraello dispuesto formó el Oicho
+Señor Comansante, y Heniente de Gover-
+nador Fr. Juan de Dios Valdés avociado con el
+Consomographo Fr. Joseph Monroy de
+los bienes, que generalmente se hallaron
+en la Cava, que era de la habitacion de
+Fr. Joseph Santos de Cabrera Consomo-
+grapho de la Real Eppedicion, assi de los
+pertencientes al oicho difunto, como de
+las alhajas, y Instrumentos, Libros ella-
+do Comon","Cabeza deste Auto, y que uno, y otro contenido se le huiese saber ao referido Fr. Joseph Monroy, para que luego sepase la formación de los citados Inventarios. Y porque así lo proveió, y firmó su merced, sé que soy en fe en papel común, porque conoz Señor Juan Valdés, = C. Antonio Facinho de Mier, Escriviano publico.
+
+Diligencia:
+Luego incontinenti, yo el presente Escrivano auiendo rubricado la carta, que se expresa en el Auto antecedente, velo hici saber a Fr. Joseph Monroy en Supersóna, que que vai feé = De Mier, Escriviano.
+
+Inventario de Inventarios, que en virtud velo proveído arribaba, y de lo paraello dispuesto, formó el Oicho Señor Comandante, y Heniente de Governador Fr. Juan de Dios Valdés, avociado con el Consomographo Fr. Joseph Monroy, de los bienes, que generalmente se hallaron en la Cava, que era de la habitación de Fr. Joseph Santos de Cabrera, Consomographo de la Real Expedición, así de los pertenecientes al oicho difunto, como de las alhajas, y Instrumentos, libros ella-do Comon.",0.1778,0.4722
+100383_img064.jpg,"haver cuidados con un dorriño lo que parta dirijo à V.S. para que en vista de los autos que le remito le sirva dar las correspondientes providencias afín de que sus herederos puedan hazer sus munios para su cobro. en difunto parace era natural de S. Suarez casado con D.a N. Guendua, su madre y suegra se les da D.a Luiza Alenzro segun las noticias que he podido adquirir. Animaré à V.S. se sirva partir para el vino de los citados autos para negocio de una Capitanía general à quién estaran encargados los incidentes de aquello Rl. Exps. Conforme orden de S. M.I. Dios guarde à V.S. muchos años Caracas cinco de Marzo de mil Setecientos sesenta y ocho - Blas Ules su mayor servidos D.n Joseph Solano - En Francisco de la Casa de Conrosuada a Indias Cadiz y Mayo cinco de mill Setec","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases crossed out, indicating revisions or corrections. There are no special features such as margin notes, stamps, or drawings visible in the image.","haua Cauados Con otra dotacion, lo que par-
+tirijo aos S. para que en envia de los autos
+que le Vmiero se haua los las Corresponden-
+tes providencias asin de que Sus Herederos
+puedan hazer Sus Misiones para este Cobro.
+este Disfunto pareia era natural de S. Senas-
+D. Canado Con D. N. Taorido, Su Ma-
+D. Quezra Se desa D. Luizo Aleixo
+Segun las notorias que he podido adquirir,
+Traimari aos S. Se haua patrocinarme el
+Vino de los Cuidos autos para Mecurdo
+de esta Capitanía general à quien de-
+uar encargados los Incidentes de aque-
+lo R! exp. Conforme orden de S. Ill.
+Dios guarde à Os muchos años. Canados
+Cinco de Marzo de mill Setecientos
+Cerentay ocho- Pd S. U. 8187. Suma mayor
+Scrutador. D. Joseph Solano- S. Licenciado
+delo Casa de Comercio X a Indias
+Decretos Cadiz y Mayo Cinco de mill Setec.
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es","---
+
+haua Cauados Con otra dotación, lo que partirijo aos S. para que en envíe de los autos que le Vmiero se haua las las Correspondentes providencias así de que Sus Herederos puedan hacer Sus Misiones para este Cobro.
+Este Disfunto parecía era natural de S. Senas
+D. Canado con D. N. Taorido, su Ma
+D. Quezra se desa D. Luizó Aleixo
+Según las notorias que he podido adquirir,
+Traimiento aos S. se haua patrocinarme el Vino de los Cuidos autos para Mercado
+de esta Capitanía general a quien de
+dejar encargados los Incidentes de aquel
+lo R! exp. Conforme orden de s. Ill.
+Dios guarde a Os muchos años. Canados
+Cincuenta de Marzo de mill Setecientos
+Sesenta y ocho - Pd S. U. 8137. Suma mayor
+Scrutador, D. Joseph Solano - S. Licenciado
+delo Caso de Comercio X a Indias
+Decreto Cádiz y Mayo Cincuenta de mill Setec.
+
+---
+
+CONTRATACION, 5660, N. 4
+© Archivos Estatales, <https://pares.cultura.gob.es>",0.4246,0.6690
+100383_img003.jpg,"Sello segundo: seis reales, años de mil setecientos y sesenta y cuatro. Canas Muy Senor mio: habiendo fallecido en esta Ciudad como vmd. me participa en fecha soy Dn Joseph Santos de Cabrera Cosmografo que era de la Division del Capitan de Navio D. Antonio de Uvalua ya difunto; atendidas mis ocupaciones, me es preciso suplicar a vmd. que asociandose con el Cosmografo Dn Joseph Monroy pase a la Casa del Difunto, y por punto general se embarquen e inventarien todos los bienes, y baules, que se encuentran à fin de reconozer, y que pasen á poder del Cosmografo Dn Joseph Monroy todos los instrumentos mathematicos y alhajas de O Rey, que el Difunto avia percibido por muerte del Capitan de Navio Dn Antonio de Uvalua; y mientras se van haciendo los inventarios reconozca vmd. sise encuentra el testamento para tremor del despues de Espand probablemente lo que","The document is written in Spanish, using a cursive handwriting style typical of the 17th or 18th century. The legibility is moderate, with some parts clearer than others. Special features include a stamp at the top, crossed-out words, and marginal notes, suggesting it might be a legal or official document.","Sello reales.
+SELLO SEGUNDO, SEIS REALES, AMOS DE MIL SETECIENTOS Y SESENTA Y QUATRO Y SESENTA Y CINCO
+Muy senorismo: haviendo fallecido enessa
+Cuidad como vmd. me paxicipa en fecha 30 y
+Joseph Santos de Cabrera Cosmographo que era xe
+la Division del Capitan de Nauio d. Antonio de
+Exuitia ya difunto; atendidas mis ocupaciones, me
+es preciso suplicar a vms. que asociandose conel
+Cosmographo d. Joseph Monroy, pasen la Ca
+sa del Difunto, y por punto general se embarquen
+y inventaren todos los bienes, y baules, que se en
+quientren á fin de reconocer, y que paven di poder
+del Cosmographo d. Joseph Monroy todos los
+instrumentos matematicos, y al hajas del
+Rey, que el Difunto avia percibido por muerte
+del Capitan de Nauio d. Antonio d'Exuio
+tias ymentas de van haviendo los Univerca
+rios reconocerá vms. Si se enquientra el testamen
+to para thonor del despues de Separado lo que
+© Archivos Estatales, https://pares.cultura.gob.es","---
+
+**Sello reales.**
+
+**Sello Segundo, Seis Reales, Años de Mil Setecientos y Setenta y Cuatro y Setenta y Cinco**
+
+Muy senorismo: habiendo fallecido en esa
+Cuidad como vmd. me participa en fecha 30 y
+Joseph Santos de Cabrera Cosmographo que era x
+la División del Capitán de Nauio d. Antonio de
+Estruña ya difunto; atendidas mis ocupaciones, me
+es preciso suplicar á vms. que asociandose con el
+Cosmographo d. José Monroy, pasen la Casa del Difunto,
+y por punto general se embarquen y inventaren todos los bienes,
+y baules, que se encuentren á fin de reconocer, y que puedan disponer
+del Cosmographo d. José Monroy todos los
+instrumentos matemáticos, y al hajas del
+Rey que el Difunto había percibido por muerte
+del Capitán de Nauío d. Antonio d'Estruña
+tias ymentas de van habiendo los Universitarios
+reconocerá vms. Si se encuentra el testamento
+para el honor del despues de Separado lo que
+
+---
+
+**© Archivos Estatales, <https://pares.cultura.gob.es>**",0.2764,0.6216
+100383_img114.jpg,"presentado y devuelto el citado Don pacho con la Carta y Testimo Comi tido, y mandar se acoje a los autos para que con ellos sienta los efectos corresponden. En Justicia q pide en Cadiz y Feb 17 de 1772
+
+Por debido presentado el Capitulo testimonio Y refiere aeguida a los autos y mandando a la miu: doman lo q El Presi d lores d l Auto despues disey: asi aduertido y se se r puso en dicho y a dez y ocho de febrero de mil setecientos y dos.
+
+Juan Antonio Montes
+
+Atento a haver perecicio","The document is written in Spanish, using a cursive script typical of the 18th century. The handwriting is moderately legible, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","presentado y debuelto el citado Despachos con la Carta y Festim. Comitido, y mandan se aqueque á los autos para q. Con ellos se haga los efectos correspond. En Justicia q. pide H. Cadiz y Feb. 017 de 1772
+Por Debuelto presentado el Despachos testimonio los oficiales agreguen al auto y traigan al esta: domano los pleitos dichos de la Sra. Donatia q. Ser aní advers. hecho de febrero de mil setenta y dos
+Atento á haber perseguido
+© Archivos Estatales, https://pares.cultura.gob.es","---
+Presentado y debuelto el citado despacho con la carta y festim. Comitido, y mandan que se aqueque a los autos para que con ellos se haga los efectos correspondientes. En Justicia que pide H. Cádiz y Feb. 017 del 1772.
+Por debuelto presentado el despacho testimonio, los oficiales agreguen al auto y tráigan al esta: domano, los pleitos dichos de la Sra., Donatia, que serán adversos. Hecho de febrero de mil setenta y dos.
+Atento a haber perseguido.
+© Archivos Estatales, <https://pares.cultura.gob.es>
+---",0.4672,0.7216
+100383_img075.jpg,"demil setecientos setenta y ocho, el Sr. Dn. Fran.co de Prospechea Alte. y Juez ordinario de esta N. N. y M. L. Ciudad de Ximnez. Su termino y Jurisdiccion por el Rey nro Señor que Dios Guie. Haviendo visto la Carta requisitoria y suplitoria precededes de librada por los señores Presidentes y oidores por S. M. en su Real Audiencia de Contratacion a Indias dela Ciudad de Cadiz el dia veinte y siete de octubre proximo pasado deste año, admitiendo en quanto á lugar, en su consecuencia se manda guarden y Cumplan de thenor en todo y por todo, y que se practiquen las diligencias que por ella se previene. Lo proveyto mando y firmo su mano y en fe de ello firmo yo el Esro. Fray Don Alon josu....","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some parts clearer than others. There are margin notes, crossed-out words, and what appears to be a seal or stamp at the bottom of the page.","demil setecientos setenta y ocho, el s. Dn. Juan Co
+de Priovecha AHI y fuez ordinario de esta Th.
+N. y M. I. Ciudad de Sanlucar. Su termino y
+Tinideridion por el Rey vno Senor que Dios Guê
+Hauiendo Visto la Canta Vcrusiconia y supli-
+catoria precedente, librada por los Senores Pre-
+sidentes y oidores por S. M. en su Real Audien-
+cia de contratacion a Indias de la Ciudad de
+Cadiz el dia Veinte y siete de octubre pros-
+pado deste año, admitiendo en quanto a lugar,
+en su consecuencia se manda guardan y
+Cumplir lo thenon en todos por todo, y
+que se practiquen las diligencias que por ella
+se precliere. Lo presente mando y firmo
+su mía y en fé deello firme ypo el Cat
+_________________________
+_________________________
+_________________________
+_________________________
+En otra Ciudad otro dia mes y año yo el
+Civ. en virtud del autos precedente lei notifi-
+que su thenor en via propia persona a la
+Josepha Antonia de Guandia, como a viuda
+mujer la prima que fue queda de Dn. Jph
+Anton de Cabrera ya difunto Vecino que igual
+CONTRATACION,5660,114
+© Archivos Estatales, https://pares.cultura.gob.es","1778, el s. Dn. Juan Co  
+de Priovecha AHI y fue ordinario de esta Th.  
+N. y M. I. Ciudad de Santlucar. Su termino y  
+Tinideridion por el Rey uno Señor que Dios Gué  
+Hauiendo Visto la Canta Verusiconia y suplicatoria  
+precedente, librada por los Senores Presidentes y  
+oidores por S. M. en su Real Audiencia de contratación  
+a Indias de la Ciudad de  
+Cadiz el día Veinte y siete de octubre pasado deste año,  
+admitiendo en cuanto a lugar,  
+en su consecuencia se manda guardar y  
+Cumplir lo tenor en todos por todo, y  
+que se practique las diligencias que por ella  
+se preclieren. Lo presente mando y firmo  
+su mía y en fé de ello firme y po el Cat  
+_________________________  
+_________________________  
+_________________________
+
+En otra Ciudad otro día mes y año yo el  
+Civ. en virtud del autos precedentes leí notificó  
+que su tenor en vía propia persona a la  
+Josepha Antonia de Guandía, como a viuda  
+mujer la prima que fue quedada de Dn. Jph  
+Anton de Cabrera ya difunto vecino que igual  
+CONTRATACION, 5660,114  
+© Archivos Estatales, <https://pares.cultura.gob.es>",0.8218,0.8231
+100383_img007.jpg,"thematicas, y demas utiles, que a su cargo tenia el dicho, y son pertenecientes a su Magestad, cuyas partidas constan de cien y claridad unas de otras proceden en la manera y forma siguiente.
+Perteneciente a Su Magestad—
+Primeramente en cuanto de circulo completo a excepcion de dos tornillos, que le faltan—
+Lt. una Plancheta con sus pies—
+Lt. un Pendulo Astronomico conveniente—
+Lt. un telescopio con algunas piezas menos—
+Lt. un termo metro—
+Lt. un Barometro rompido el vidrio del aroque—
+Lt. un Compas de briga—
+Lt. una vara de Castilla de a cero en su Caja de madera—
+Lt. veinte y seis compaces ordinarios de distintas medidas—
+Lt. una Capita mixta de diferentes herramientas—
+Lt. una Capita con un microscopio universal—
+Lt. una Camara obscura de ningun servicio—
+Lt. una Capita con Tacitas a colores","The document is written in Spanish, using a cursive script that suggests it was written in the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","3
+thematicos, y demas viiles, que á su cargo
+tenia el dicho, y son pertenecientes á Su
+Majestad, cuyas partidas condistincion, y
+claridad unas ootras proceden en la manera,
+y forma Siguirme.
+Por perteneciente á Su Magestad
+Primera mente en Cuarto de circulo com-
+pleto á excepcion se dos tornillos, y le faltan
+dt. una Plancheta consus pies.
+dt. un Pendulo Astronomico conuiente
+dt. un telescopio con algunas piezas menos
+dt. un termo metro
+dt. un Maxometro xompido el bisno oce
+aroque.
+y
+dt. un Compas de virga
+y
+dt. una vara de Cartilla de azexo en su
+Casa de madera
+y
+Veinte, y seis compaces ordinarios de
+distintas menas
+dt. una Capita dixtida de diferentes hex-
+ramientos
+dt. una Capita con un microscopio uni-
+versal
+dt. una Camara obscura deningun servicio
+dt. una Capita con Tacitas p. colores","3
+temáticos, y demás viñetas, que a su cargo
+tenía el dicho, y son pertenecientes a Su
+Majestad, cuya partida condición, y
+claridad unas otras proceden en la manera,
+y forma siguiente.
+Por perteneciente a Su Magestad
+Primero en Cuarto de círculo completo a excepción de dos tornillos, y le faltan:
+dt. una Plancheta con sus pies.
+dt. un Pendulo Astronómico conveniente.
+dt. un telescopio con alguna pieza menos.
+dt. un termómetro.
+dt. un Maxómetro roto el bisno oceano.
+y
+dt. un Compás de virga.
+y
+dt. una vara de cartilla de azúcar en su
+Casa de madera.
+y
+Veinte y seis compases ordinarios de
+distintas menas.
+dt. una Capita diseñada de diferentes hexágonos.
+dt. una Capita con un microscópico universal.
+dt. una Camara obscura sin ningún servicio.
+dt. una Capita con tazas para colores.",0.1861,0.4959
+100383_img076.jpg,"mente lo fue de esta Ciudad y la Juro ha - comprendido el tenor del estado auto y requisitoria presente. Dixo que la via y que cumplia como tambien interesa con lo que de la manda lo qual respondio y firmo en fe de ello p.o el escribano
+Dulcena
+En la Nefertia Ciudad el mencionado dia mes y año yo el escrutinante por Da Lucia de Honores madre Lexitima de Don Joseph Santos Cabrera ya difunto y ma nido Lexitimo que fue de Do Josepha Anta de Guadra y dha Da Lucia suegra de sta para efecto de notificar dhos auto y Requisi toria, a diferentes personas de la Ciudad: tenian en ella muchas amistades y comuni caciones y todas conformem. me respondieron que hacia muchos años havia sido la mejor dha de esta Ciudad y que conservan su paradero. Y para que conste, puse por fe y","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are margin notes, crossed-out words, and what appears to be a seal or stamp in the upper right corner, suggesting it might be an official document.","mente lo que de esta Ciudad, y la Surotha
+comprendido el tenor del citado auto y
+vequisitoxia precedente: Dixo que la vía
+y que cumplira como tamuntenezada con
+lo que se la manda lo qual respondio y
+firmo y en fe de ello yo el Civ
+Alta
+Deluxenisa
+En la referida Ciudad el mencionado día
+mes y años y A.C.N. pregunté por D.a
+Lucia de Henrero Madre Lexusitima de
+Dr. Joseph Santos Cabeza ya difunto y ma-
+rido Lexusitimo que fue de D.a Josepha Ant.
+de Guandia y dha D.a Lucia Suegra de Sta
+para efecto de notifican dhs auto y vequis-
+toria, a difender personas de la Ciudadq
+tenian en ella mucha amistas y comuni-
+cacion, y todas conformem. me respondie-
+ron que hacia muchos años habia sido la
+mora dha de esta Ciudad y que longranan su
+panadero. Y para que conste, pues por fe y","---
+
+mente lo que de esta Ciudad y la Surotha comprendido el tenor del citado auto y vequisitoxia precedente. Dixo que la vía y que cumplirá como tamuntenezada con lo que se la manda lo qual respondió y firmó y en fe de ello yo el Civ Alta Deluxenisa. En la referida Ciudad el mencionado día mes y años y A.C.N. pregúntese por D.a Lucía de Henrero Madre Lexusítima de Dr. José Santos Cabeza ya difunto y marido Lexusítimo que fue de D.a Josepha Ant. de Guandia y dha D.a Lucía Suegra de Sta. para efecto de notifiquen dhs auto y vequis- toria, a difender personas de la Ciudad que tenían en ella mucha amistad y comunicación, y todas conformem. me respondieron que hacía muchos años había sido la mora dha de esta Ciudad y que longraban su panadero. Y para que conste, pues, por fe y
+
+---",0.1902,0.4315
+100383_img015.jpg,"Lt. otro forrado Item A Pictures
+Lt. otro de caminas chicas que representan bastiones de lmar Mitemano forrado Item
+Lt. otro maquinas hidráulicas de molinos y herrerías
+Lt. otro tratado de Astrolabio forrado en pergamino
+Lt. otro manuscrito de Astronomía forrado Item
+Lt. otro tratado de Esfera forrado idem
+Lt. otro de Elementos Mathematicos forrado Item
+Lt. Otro Tablas de paralaxe manuscrito forrado Idem
+Lt. Otro Astronomía en Latin conservado forrado Idem
+Lt. Otro manuscrito de Algebra for- rado Item
+Lt. Otro de Astronomía universal de Serrano forrado Idem
+Lt. una capita con lápices colorados, y azul
+Lt. dos Canutas con conchillas de color
+Lt. un libro encuadernado en pape","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Yt. otro forrado Zsem de Aecher
+Yt. otro de Caminos Chicos, que representan bastiones de lmar Miterrano forrado idem
+Yt. otro Maquinas Zemulicas de molino
+y herramientas
+Yt. otro Tratado de Astronolabio forrado
+emprexamino
+Yt. otra manuescrito de Astronomia
+forrado Zsem
+Yt. otro tratado de Esfera forrado idem
+Yt. otros de Clementos Mathematicas for
+rado Zsem
+Yt. Otros Tablas e paralaxe manuescri
+to forrado Zsem
+Yt. otro Astronomia en Latin conse
+nasa, forrado Zsem
+Yt. otro manuescrito de Algebra for
+rado Zsem
+Yt. otro de Astronomia universal
+de Searano forrado Zsem
+Yt. una Capita con lapides colorados, y
+azul
+Yt. dos Capitas con conchillas de color
+Yt. un Libro enquadernado en pape","Yt. otro forrado Zsem de Aecker
+Yt. otro de Caminos Chico, que representan bastiones del mar Mediterráneo forrado idem
+Yt. otro Máquinas Zemulicas de molino y herramientas
+Yt. otro tratado de Astronolabio forrado emprexamino
+Yt. otra manuscrito de Astronomía forrado Zsem
+Yt. otro trato de Esfera forrado idem
+yt. otros de Clementes Mathematicas forrado Zsem
+Yt. Otros tablas e paralaxe manuscrito forrado Zsem
+Yt. otro astronomía en Latín consena, forrado Zsem
+Yt. outro manuscrito de Algebra forrado Zsem
+Yt. otro de astronomía universal de Searano forrado Zsem
+yt. una Capita con lápidas coloradas, y azul
+yt. dos Capitas con conchas de color
+yt. un Libro enquadernado en papel",0.1569,0.5361
+100383_img060.jpg,"trescientos, setenta, y ocho = Recibí de D. Francisco Rodriquez y Villalba, como Depositario de los Caudales de la Real Expecicion de limites la cantidad de ocho pdo oro rea, diez y siete maravedis importe de la compulsa de los Autos de la Testamentaria de D. Joseph Santos con inclusion de papel sellado, y blanco por mis dchos. como Escrivano; y para que conste lo firmé Jph. de Eleizalde Decretos Caracas cinco de Marzo de mil setecientos y ocho = Apruévase a Dn Franco Rodriquez y Villalba Depositario de los caudales pertenecientes a los Individuos que fallecieron mestados en el onico la cuenta que ha formado por lo respectivo a los bienes que quedaron por fallecido Dn Joseph Santos Cabrera su distribución y paga con lo que se ha por relevado de la obligación en que se contrinyuo por el Depositario al Ganoranza qualquier de los Escribanos como corresponde y Esse Decreto dara un testimonio al suplicante para enjuarda de su dcho = Solano = Concuerda con los autos orig; que para efecto de pagar es","The document is written in Spanish, using a cursive script typical of the 18th or 19th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Recibi se
+Nº Francisco Rodriguez, y Villalba, como
+Depositario selos Causales vela Real Expe-
+sicion de limites la cantisa se ocho p, dos rea,
+diez y siete maravedis, importe de la com-
+pulsa delos Autos de la Testamentaria de
+D. Joseph Santos con inclusion selopel sella-
+do, y blanco pormio dñs. como Boniano; y
+paraque conste lo firmé= Jph.de Eleizate
+Decerio=
+Caracas cinco & Marzo & mil setecen-
+sesenta y ocho= Apruevase a D. Fran
+Rodriguez & Villalba Deponvario & los
+caudales pertenecientes alos Indi-
+viduos q. fallecieron inresados en el Ori-
+noco la cuenta que ha formado por lo
+respectivo alos bienes q. quedaron px falle
+cim & D. Joseph Santos Cabrera sudis
+tribucion y paga con lo q. se ha por vele
+vado Ela obligacion en que se conviniuo
+por el Deposito el q. anorara qualq. a
+la Censib. p. como corresponde y Ceste
+Decerio dara un testimonio al su
+plicante p. en guarda & su dñs=Sola-
+no=
+Concueada, Conlo (Anao Oriz, que para Afecta & Parar es","---
+
+Recibí se
+Nº Francisco Rodríguez, y Villalba, como
+depositario selos Causales vela Real Expedición de límites la cantidad se ocho p, dos reales,
+diez y siete maravedís, importe de la compulsa de los Autos de la Testamentaria de
+D. José Santos con inclusión selopel sellado, y blanco pormio días como Boniano; y
+para que conste lo firmé = Jph. de Eleizate
+Decretó=
+Caracas cinco de Marzo de mil setecientos sesenta y ocho = Apruébase a D. Francisco
+Rodríguez y Villalba depositario de los caudales pertenecientes a los individuos que fallecieron inresados en el Orinoco la cuenta que ha formado por lo respectivo a los bienes que quedaron por fallecimiento de D. José Santos Cabrera sus distribución y paga con lo que se ha por velado. Ella obligación en que se convinió por el depositario el que anorará cualquier a la Censib. p. como corresponde, y este decreto dará un testimonio al suplicante para su guarda y su día = Solano=
+Concueada, Conlo (Anaco Oriz, que para Afecta y Parar es
+
+---",0.2014,0.4830
+100383_img012.jpg,"dtt. un cuinete, de polvora ordinaria, que se le consideran
+dtt. maleton con Castro de viento, colchón de
+Campaña, y colpasura de tafetan listao
+dtt. un estuche de mathematica, con su estuche y guarniciones de plata
+y dtt. otro idem de metal
+Dtt. veinte, y cinco pares de medias de gamuza
+Dtt. seis bolsavas de gamuza p. municion
+Dtt. un Anteojo de Caxa vista
+Siguen los bienes pertenecientes al difunto
+Primeramente un baul forrado en piel de toro el cuerpo al pelo y la tapa curtida, que contiene lo siguiente
+Dtt. una casaca de paño blanco fino con botonadura de plata guarnecida con un galon angosto de lo mismo, y su par de calzones correspondiente
+Dtt. una casaca de paño azul fino con botonadura de oro
+Dtt. una casaca de quiveta al acer color de Cafe usada","The document is written in Spanish script. The handwriting appears to be from the 18th or 19th century, given the style and formality of the script. The legibility is moderate, with some parts slightly difficult to read due to the cursive nature of the handwriting. There are no visible margin notes, crossed-out words, multiple columns, or stamps on the page.","dt. uncunete de powora oxinaxia, que se
+le consideran
+dt. maleton con Catre de Viento, colchón de
+Campana, y colpoza una seta fedan litazo
+dt. un estuche de mathematica con su es-
+tuche, y quarniriones de plata
+dt. otro idem de metal
+dt. veinte, y cinco pares de medias de ga-
+muza
+dt. seis bolsas de gamuza p. munición
+dt. un Anteojos de Larga vista
+Siguem los bienes pertenecientes al
+difunto
+Primeramente un baul forzado empielse
+con el cuerpo al pelo, y la tapa curtida, que
+contiene lo siguiente
+dt. una Cavaca españo blanco fino con
+botonadura de plata quarnecida con
+un galon angosto velomismo, y vapor
+de calzones correspondiente
+dt. una Cavaca españo azul fino con boto-
+nadura de oro
+dt. una Cavaca de priveta de Sesa color de
+Café vasco","dt. uncunete de pówora oxinaxia, que se le consideran
+dt. maleton con catre de viento, colchón de campaña, y colpoza una seta fedán litazo
+dt. un estuche de matemática con su estuche, y quarneriones de plata
+dt. otro ídem de metal
+dt. veinte y cinco pares de medias de gamuza
+dt. seis bolsas de gamusa p. munición
+dt. un anteojos de larga vista
+Siguem los bienes pertinentes al difunto
+Primeramente un baúl forzado empielse con el cuerpo al pelo, y la tapa curtida, que contiene lo siguiente
+dt. una cavaca españo blanco fino con botonadura de plata quarnecido con un galón angosto velomismo, y vapor de calzones correspondiente
+dt. una cavaca españo azul fino con botonadura de oro
+dt. una cavaca de priveta de sasa color de café vasco",0.1414,0.4720
+100383_img089.jpg,"Á Caracar, y Marzo veinte y ocho de mil setecinco y siete Blm. D. Vm. su Paspn. y esqr. Fructino Iph. Abbad de Venauevnte. Si acaso yo diecubriere alguna cosa lo necese y remetire, como asi mismo la patente luego q se la reciba. Me pondrâ Vm. a la obediencia del Amigo dn Lorenzo Joseph de Riego. = Copia de la carta, cuyo original me ha puesto de manifiesto Da Josepha Antonia de Guandria para sacar este traslado que concuerda entodo con ella a que me remito y en fede de ello lo signe y firme en Santerbn. añube de Diciem bre de mil setecientos sesenta y ocho, hauiendo le buelto dha carta original a dha Da Josepha Antonia =","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some parts clearer than others. There are margin notes and a signature at the bottom, but no crossed-out words or stamps are visible. The document appears to be a formal letter or document, possibly related to legal or administrative matters.","a. Canaca, y Marzo veinte y ocho de mil setecientos
+cincuenta y siete Blm. de Vm. su Lapp. y Seg. 1º
+Faustino Joseph Abbad de Verauente
+-------
+Si acaso yo descubriese alguna cosa lo recogeré
+y remitiré, como así mismo la patente luego
+que la reciba.
+-------
+Me pondría Vm. a la obediencia
+-------
+del Amigo Dr. Lorenzo Joseph de Riego.
+-------
+Copia de la Carta, cuyo original me ha puesto demanifesto
+D. Josepha Antonia de Guardia para sacar este truvala
+lo que concuerda entodo con ella aque me remito y ense
+de ello lo signe y firme en santros. aunque de diciem
+bre demil setecientos sesenta y ocho, hauiendole vuelto
+dha Carta original a dha D. Josepha Antonia
+-------
+Contratacion, 5660, N.4
+AE
+Archivos Estatales, https://pares.cultura.gob.es
+AE
+Archivos Estatales","a. Canaca, y Março veinte y ocho de milsetecientos
+cincuenta y siete. Blm. de Vm. Su Lapp. y Seg. 1º Faustino Joseph Abbad de Verauente.
+-------
+Si acaso yo descubriere alguna cosa lo recogeré y remitiré, como así misma la patente luego que la reciba.
+-------
+Me pondría Vn. a la obediencia
+-------
+del amigo Dr. Lorenzo Joseph de Riego
+-------
+Copia de la carta, cuyo original me ha puesto demostrado
+D. Josepha Antonia de Guardía para sacar este truvala lo que concuerda entodo con ella que me remito y ense de ello lo signe y firme en santos. aunque de diciembre demilsetecientos sesenta y ocho, hauidole vuelto dha carta original a dha D. Josefa Antonia
+-------
+Contratación, 5660, N. 4
+AE
+Archivos Estatales
+AE
+Archivos Estatales",0.3471,0.5000
+100383_img062.jpg,"Cadiz 4 de Mayo 4 del 1768
+a cargo del Sr Dn Juan
+de Morales","The document is written in Spanish, using a cursive script typical of the 18th century. The handwriting is moderately legible, with some parts clearer than others. There are margin notes, crossed-out words, and decorative flourishes, suggesting it might be a legal or formal document.","Cádiz y Mayo 4 de 1768
+corpo ael del de Juan
+de Morales
+Contratacion, 5660, N.4
+© Archivos Estatales, https://pares.cultura.gob.es","---
+
+Cádiz y Mayo 4 del 1768
+corpo a el del de Juan
+de Morales
+Contratación, 5660, N. 4
+© Archivos Estatales, <https://pares.cultura.gob.es>
+
+---",1.7333,1.2308
+100383_img017.jpg,"de ellos hasta el ochenta, y nuebe; de las quales se ha entregado, segun y como se expresan sus efectos, y al haber en cada una de las referidas partidas en virtud de lo dispuesto para ello por el Señor Coronel D. Eugenio de Albarrados, y de todos en general, y cada una de por si in volidum confesó la entrega a su voluntas malmen- te, y confeso, y en su virtud otorgó esta Carta de Recibo en forma, la que para su mayor valificacion renuncio las leyes, fue- res, y derechoso de su favor; y en fuerza de ello lo firmo como es acostumbrado, siendo testigos Dn Antonio Alvarez, Dn Juan de No- vaya, y Dn Antonio Ramirez todos susfetas, é individuos de la Real Expecion, de que doi fe= Joseph Mario= no Manzoray= Antonmi Jacinto de Mier Escrivano publico. En esta ciudad de Santo Thomé de la Guayana en treinta y un dias del mes de Mayo mil setecientos, cincuenta y cinco años, Dn Eugenio de Albarrados Coronel de los R.p. de servicio, Ca-","The document is written in Spanish using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no visible margin notes, crossed-out words, or stamps, and the text appears in a single column.","de ellas hasta el ochenta, y nuebe; de
+las cuales se ha entregado, según, y como
+se expresan sus efectos, y alhazar, en cada
+una de las referidas partidas en vintas
+se lo dispuesto para ello por el Señor Coro-
+nel don Eugenio de Alvarado, y a todas
+engeneral, y cada una deposita in solidum
+confesó la entrega á su voluntad calmen-
+te, y con efecto, y en su virtus otorgó esta
+Carta de Recibo en forma, la que para su
+mayor validación renunció las leyes, fuer-
+zas, y derechos de su favor, y en fuerza de ello
+lo firmó como acostumbra, siendo testigos
+don Antonio Alvarez, don Juan de No-
+riega, y don Antonio Ramírez, todos su
+jefes, e individuos de la Real Ex-
+pedicion, el que dio fe= Joseph Maria-
+no Monarroy= Antonio Facinto de
+Mier Escribano publico
+Carta Cuida de Santo Tomé de
+la Playana en treinta, y un dias del mes
+de Mayo mil setecientos, quinientos
+veinticinco años, lo don Eugenio de Alvarado
+Coronel de los R. Ejercitos, Ca-","de ellas hasta el ochenta y nueve; de las cuales se ha entregado, según y como se expresan sus efectos y alhazar, en cada una de las referidas partidas en veintas se lo dispuesto para ello por el señor Coronel don Eugenio de Alvarado y a todas en general, y cada una deposita in solidum confesó la entrega á su voluntad calmemente y con efecto, y en su virtud otorgó esta Carta de Recibo en forma, la que, para su mayor validación, renunció las leyes, fuerzas y derechos de su favor, y en virtud de ello lo firmó como acostumbraba, siendo testigos don Antonio Álvarez, don Juan de Noriega, y don Antonio Ramírez, todos sus jefes, e individuos de la Real Expedición, el que dio fe = Joseph Mariano Monarroy = Antonio Facinto de Mier Escribano público
+
+Carta Cuida de Santo Tomé de la Playana en treinta y un días del mes de Mayo mil setecientos quinientos veinticinco años, lo don Eugénio de Alvarado Coronel de los R. Ejércitos, Ca-",0.1676,0.4261
+100383_img039.jpg,"las Treinta y nueve que dan en mi poder como pertenecientes a el Ley las Instrumentos y libros que exoneras y la quarenta igualmente para entrega al Señor Dn Joseph Zumarraga, escio es el libro que cita, y asimismo queda en mi poder una Casaca de paño color verde oy y falaza levou usada perteneciente a dicho Dn Joseph Santos, por no hauer ue podido vender en la mencionada Almorosa para conseguirlo en mejor ocasion. Y para que conste en la forma suficiente con los Refeidos a Francisco Villalba, a Juan de Xoziepa, y el Maestro de Sastro Estevan Mir abaluador, lo firmo a las quatro de la tarde de ocho dias mes y año, en que se dio fin a estas diligencias= Alonso Joseph e Soto laso= Francisco Rodriguez, y Villalba= Juan de Xoziega= Estevan Mir. Despues de la dicha entrega recibí el oho. Dn Joseph Monxoy vn Cor nillo de Mexi; y para que coste a fallor","The document is written in Spanish script. The handwriting appears to be from the 17th or 18th century, given the style and formality of the script. The legibility is moderate, with some words and phrases slightly difficult to decipher due to the cursive nature of the handwriting. There are no visible margin notes, crossed-out words, multiple columns, or stamps on the page.","la Treinta, y nuebe quedan en mi poder
+como pertenecientes al Rey los Instrumentos, y Libros, que expresan, y la que
+renta igualmente para entregar al Señor
+D. Joseph Etuxriaga, cuio es el Libro
+que cia, y assimismo queda en mi poder una
+Cavaca de paño colox verdepay o alasa
+oro vrasa perteneciente á dicho D. Jo-
+seph Santos, por no hauexe podido vender
+en la mencionada Almoneda para con-
+seguirlo en mejor ocasion: Y paraque
+convie en la forma suficiente con los re-
+feridos d. Francisco Villalba, d. Juan
+de Coriega, y el Maestro de Sarte
+Estevan Mir abalizador, lo firmo á las
+quatro de la Tarde de oho dia, mes, y
+ano, enque se dio fin á estas diligencias:
+Alonso Joseph de Soto Caso = Francisco
+Rodriguez, y Villalba = Juan No-
+riega = Esteban Mir.
+Despues á la dicha entriega recibivel
+oho. d. N. Joseph Monxoy un Cox-
+nillo de Meva; y paraque coste á fallor","---
+la Treinta, y nueve quedan en mi poder como pertenecientes al Rey los instrumentos, y libros, que expresan, y la que renta igualmente para entregar al señor D. Joseph Etuxriaga, cuyo es el libro que cia, y asimismo queda en mi poder una cavaca de paño colox verdepay o alasas oro vrasa perteneciente á dicho d. Joseph Santos, por no hauexe podido vendar en la mencionada Almoneda para conseguirlo en mejor ocasion: Y para que convie en la forma suficiente con los referidos d. Francisco Villalba, y Juan de Coriega, y el Maestro de sarte Esteban Mir abalizador, lo firmó á las quatro de la Tarde de ocho día, mes, y año, en que se dio fin á estas diligencias: Alonso Joseph de Soto Caso = Francisco Rodriguez, y Villalba = Juan Noriega = Esteban Mir.
+Después á la dicha entrega recibí vel ocho d. N. Joseph Monxoy un coxnillo de Meva; y para que coste á fallor
+---",0.1375,0.4403
+100383_img074.jpg,"Sello Quarto, año mil setecientos y sesenta y ocho.
+... Continuar ... devuelvase ... conforme a ... dado en Cadiz a veinte y ... de octubre de mil setecientos sesenta y ocho.
+
+En la Ciudad de ... a nueve de diciembre.","The document is written in Spanish, using a cursive script typical of the late 18th or early 19th century. The handwriting is moderately legible, with some parts clearer than others. Special features include a circular stamp at the top, several signatures, and some crossed-out text, indicating corrections or deletions.","PARA DESPACHOS DE OFICIO. QUARTO.
+SELLO QVARTO. AÑO DE
+MIL SETECIENTOS Y SE-
+SENTA Y OCHO.
+determino que Corresponda, y Se ha puesto 50 díli pa
+Continuación de este nuestro despacho nos Lo
+Abolviero p' ponerlo Con Años anteriores y proseguir
+en los Conforme á dia. dado en Cadiz á Veinticuatro
+de Octubre de mil Setecientos Setenta y ocho
+Marq del R. Thesoro
+Marq del Hacohemario
+Auto de admision.
+En la Ciudad de Sanx. á nuebe de Diciembre
+© Archivos Estatales, https://pares.cultura.gob.es","Para despachos de oficio. Cuarto.
+Sello Cuarto. Año de
+mil setecientos y sesenta y ocho.
+determino que corresponda, y se ha puesto 50 días para
+continuación de este nuestro despacho nos lo
+abolviero para ponerlo con años anteriores y proseguir
+en lo conforme a día dado en Cádiz a veinticuatro
+de octubre de mil setecientos setenta y ocho
+Marqués del R. Tesoro
+Marqués del Hacendado
+Auto de admisión.
+En la Ciudad de Sanx. a nueve de diciembre",1.1935,1.2250
+100383_img107.jpg,"Juan Antonio de Nieva y Castañeda, en Real S.M. piloto numero de esta Real Ysla Noble y Mini Leal Ciudad de Santa,
+certifico, doy fe y verdadero testimonio, dos señores que el
+presente vieron, que D.ª Josepha Antonia de Guardia, viuda
+mujer legitima y justa del Comosografo D. Joseph
+Santos Casteñeda, cuyo empleo Monta, ocupé en la pr. Expedición de límites del Río Orinoco, entre Niña Costa de España
+y la de Lisboa, que estuvo al cargo del Jefe de Escoladra
+D. Joseph de Iturrizaga, con el aviso que le dio D. Juan
+Bautista de Oteiza, Comisario Real de Guerra en Vir-
+tuo de pr. orden expedida por el Illmo Señor Dn.
+Miguel de Murquiz, en aviso de 22 de febrero
+del año ultimo pasado de setenta y uno, para que
+audiese con poder alto oficio de contadoria y tinen-
+ería de Aragón, y los quinientos y ochenta pesos, uno
+por 7, y veinte y un mar Nellu, que alcanzaba por
+sus sueldos del referido empleo; Como lo hizo, y
+percibió otra cantidad, haciendo otorgado su depo-
+sición de la ciudad de Zaragoza, carta de pago,
+como lo referido contray y parece por los docum-
+entos que han escrito por doña Viuda y dos
+...","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more difficult to decipher due to the cursive style and slight smudging. There are no visible margin notes, crossed-out words, multiple columns, or stamps on the page, but there is a faint drawing in the top left corner.","Juan Antonio de Priesa y Carvajeda, en S. M. por del
+numero de esta Muy Noble y Muy Leal Ciudad de San
+y
+testifico, dos fe, y cada uno Testimonio, a los Senores que el
+presente Verein, que D. Josepha Antonia de Guardia, Viva
+mujer Viva, que fue quezio del Comonographio D. Joseph
+Santos Cabrera, cuyo empleo Nsulta, ocupó en la Pr. Expedi-
+cion de Limites del Pris onirico, entre nia Coma de España
+y la de Lisboa, que estubo al cargo del Jefe de Escuadra
+D. Joseph de Tavirage, con el abito que le dio D. Juan
+Baut. de Oteiza, Comisario Pr. de Guerra, en via-
+tuo de Pr. Orden expedido por el Ilmo. Señor D.
+Miguel de Murquiz, en auiso de 22 de febrero
+del año vltimo pasado de Settembre y Dno, para que
+audiere con poder a los Oficios de contratacia y theres-
+teria de Aragon, los quinientos y ochenta peso, un
+Pr. Verme y un M. Nellon, que alcanzaba por
+sus sueldos del Mferido Empleo; Como lo hizo, y
+percebio otra cantidad, hauiendo otorgado su apre-
+derado a la ciudad de Zaragoza, Carta de pago,
+como lo Mferido Contrato parece por los docum.
+que Seme han escribido por dha Vida y por
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es","---
+
+Juan Antonio de Prieta y Carvajeda, en S.M. por del
+numero de esta muy Noble y muy Leal Ciudad de San
+y
+Testifico, dos fe, y cada uno testimonio, a los señores que el
+presente verein, que D. Josefa Antonia de Guardia, viva
+mujer viva, que fue quezio del comonografo D. Joseph
+Santos Cabrera, cuyo empleo nsulta, ocupó en la Pr. expedición
+de limites del Pris onirico, entre mi Coma de España y la de Lisboa, que estuvo al cargo del jefe de escuadra
+D. Joseph de Tavarage, con el abrigo que le dio D. Juan
+Bautista de Oteiza, comisario Pr. de Guerra, en virtud de Pr. orden expedida por el Ilmo. Señor D. 
+Miguel de Murquiz, en aviso de 22 de febrero del año último pasado de Setiembre y Dno., para que
+audiere con poder a los oficios de contratación y tesorería de Aragón, los quinientos y ochenta pesos, un
+Pr. Verme y un Mr. Nellon, que alcanzaban por
+sus sueldos del mencionado empleo; como lo hizo, y
+percebió otra cantidad, habiendo otorgado su apoderado
+a la ciudad de Zaragoza, carta de pago,
+como lo mencionado contrato parece por los documentos
+que Seme han escrito por dicha Vida y por
+
+---
+
+CONTRATACION,5660, N.4
+© Archivos Etales, https://pares.cultura.gov.es",0.2711,0.4785
+100383_img061.jpg,"te testimoniõ me fueron entregados? por el Señor Dn Joseph Solano Cavallero, Alondon del Sano hijo Capº de Navío Ola Rl? Amado Htº de la Compa de Cavallos Cicarios Uxama?, en oy Capn Gral de esta proª aúin Cargo connen los negocios encomendados Ola Rl? Expección el Limites, y linea divisiona fronteralas comunes de España y Pontegal, por la Parre del Río Marañon, y Demandador Allmiño Señor los he hecho Com pular po acfeto al Monitorlo al Señor Presidente Ola Rl? Antª de la Comnara? en alas Indias en cada Cinco onys Conserva copia Devoulvi al Nferido Señor Don Joseph Capn Gral; son Cenoz y Verdadera. Sinata el por ni mor Phezo. En papel de bello Segundo, y los Demás el comun, y Onfe Reellos lo cifro y fane en Caracas á ocho años del utanso de mil setecientos sesenta y ocho años - Intesimo y P es Rial. Joseph de Levanto o? rmo Donnap. Sellado y Blanco Secretario de seis y merio - Damos fe q e Don Iph lceleraldo Ag Francisco Agenadi y parriado la Copia anmocar el el ss ño con numr Ollera Cuid y asu Consentae Siempre se lelso ha dado y Da encrese feep ta sen deuda Confirma y p a q e conble lo Cenafica ros y firmanm en Caracas a cinco de Marzo mille Setecientos y Setenay Ocho años - Juan Antº de Saul Manuele Herrero no co - Josephunaro no co - 5 p co. 8 s p co.","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some parts clearer than others. There are no visible margin notes, crossed-out words, or multiple columns, but there are stamps and what appears to be a seal at the bottom, suggesting it might be an official document.","te el testimonio me fueron otorgados el 15 por el Senor
+Don Jose Solano Cavallero, Al orden el Senor hago Cap
+del Navio Rla Rl Armada Rte Rla Compa Rl Cavalleria
+nos Pueblos de Marinas, Don 2 y Cap Pral Olea a Rova
+nario Cargo Comien los negocios Conveniencias Rla Rl
+Expedicion R Lima es, y linea Divisoria Conocer las
+Coronas Rl España y Portugal, por la Parte Del Rio Ata
+canon, y Demandado Almismo Senor los he hecho Com
+plicar para efecto el Nombrinlo al Senor Presidente
+por la Rl Vida Rla Comunidades alas Indias en Cadena
+cuyo Rla Rl Vida Rla Comunidades alas Indias Senor Don
+Oroz Converia Copia Devolvi al MArvido Senor Don
+Oroz Don Cervino y Demadecos Cervino Ospini
+Cap n Gral. Don Cervino y Demadecos Ospini Cap n Gral.
+Don Cervino y Demadecos Don Cervino Ospini Cap n Gral.
+Don Phugo Don papel el Rl Sello Segundo y los Demas Rl
+mon Phugo Don papel el Rl Sello Secondo y los Demas Rl
+Comun y Onfee El ello la Cigara Frano En Canacau Ta
+Commun y Onfee El ello la Cigao Frano En Canacau Ta
+Comun y Onfee El ello lo Cigao Frano En Canacau ta
+Comun y Onfee El ello lo cigao Frano En Canacau ta
+Anno el Anno mil Septecientos
+Ciento Veintay ocho años
+Damos fe q C Don Jose Oclevalde Ag Pance Agnada y
+Jurizado la Copia arrojada de Es Censo con num Olevia Cud
+y sus Semejanze Sempono Selev hadado de Da Ormena
+fejo Sen Alorda Confrma y pag Confrma lo Certifica
+fejo Sen Alorda Confirma y pag Confrma lo Certifica
+mos y firmamos
+En Canacau a Circo Rllmano Ronill Lopez
+ciento Veintay ocho años
+CONTRATACION,5660,114
+© Archivos Estatales, https://pares.cultura.gob.es","te el testimonio me fueron otorgados 15 por el Senor
+Don José Solano Cavallero. Al orden el Senor hago Capitán
+del Navio Rl Armada Rte Rl Compañía Rl Cavallería
+nos Pueblos de Marinas. Don 2 y Capitán Pral. Olea a Rova
+nario Cargo. Comienzo los negocios Conveniencias Rl Rl
+Expedición Rl Lima es, y línea Divisoria. Conocer las
+Coronas Rl Españas y Portugal, por la Parte Del Río Atacanón,
+y Demandado Almismo Senor. los he hecho Complicar para efecto
+el Nombrinlo al Senor Presidente por la Rl Vida Rl Comunidades
+alas Indias en Cadena cuyo Rl Vida Rl Comunidades alas Indias
+Senor Don Oroz. Converia Copia. Devolvi al Marqués Senor Don
+Oroz. Don Cervino y Demadeos. Cervino Ospini Capitán General.
+Don Cervino y Demadeos. Ospini Capitán General. Don Cervino
+y Demadeos. Don Cervino Ospini Capitán. Don Phugo Don papel
+el Rl Sello Segundo y los Demás Rl mon Phugo Don papel el Rl
+Sello Segundo y los Demás Rl Comun y Onfee. El ello la Cigara
+Frano En Canacau ta. Comun y Onfee. El ello lo Cigao Frano En
+Canacau ta. Comun y Onfee El ello lo cigao Frano En Canacau ta.
+Anno mil Septecientos Ciento Veintay ocho años.
+Damos fe que C. Don José Oclevalde Ag. Pance Agnada y Jurizado
+la Copia arrojada de Este Censo con número Olevia Cud y sus
+Semejanzas. Sempono Selevhadado de Da Ormena. fejo Sen Alorda
+Confirma y pag Confrma lo Certifica. fejo Sen Alorda Confirma
+y pag Confrma lo Certifica. mos y firmamos. En Canacau a Circo
+Rllmano Ronill Lopez. ciento Veintay ocho años.
+CONTRATACION,5660,R14
+© Archivos Estatales. https://pares.cultura.gov.es",0.6635,0.9190
+100383_img058.jpg,"Rodriguez y Villalba Nota: que de orden verbal del Sr. Dn Joseph Solano Cavallero de la Orden de Santiago, Capitan de Navio de la Real Armada, Teniente de la Compañía de Cavalleros Guardias Marinas, Governador y Capitan General de esta Provincia, se sacó testimonio por el Sr. Teniente Dn Joseph de Pelizalde de los autos de esta testamentaria para su Remisión á España, cuyos derechos importaron sesenta y tres reales, y medio de plata, que satisface á dicho Serviano, como lo manifiesta su recíbo, que agrego á los autos; cuya cantidad descontaba de la de quinientos ochenta y ocho pesos, cuatro reales, y quatro maravedís de alcanzé que resulta en estos autos, queda à favor de la testamentaria de este difunto, y contra la Real Hacienda, quinientos ochenta pesos, y un real, y veinte y un maravedís, lo que se anota aqui de orden de dicho Señor Gobernador para la mejor inteligencia, y reesquarto de la Real Hacienda. Caracas quatro de Marzo de mil setecientos setenta y ocho. Fran.co Rodriguez y Villalba Señor Gobernador y Capitan General = N.P. Francisco Rodriguez y Villalba Depositario de los Caudales de la Real Expeición de","The document is written in Spanish, using a cursive script that suggests it was written in the 18th century. The handwriting is moderately legible, though some parts are slightly difficult to decipher. There are no visible margin notes, crossed-out words, or stamps on the page, and it appears to be a single-column text.","NOTA: que de orden verbal del S. D. Joseph
+Solano Caballero del Orden de Santiago, Capitan
+de Navio de la Real Armada, Themiente de la
+Compania de Caballeros Guardias Marinas,
+Governador y Capitan General de esta Provincia,
+se sacó testimonio por el Caballero D. Joseph de
+Oleizalde de los autos de esta testamentaria para
+su remision á España, cuyos derechos importa-
+ción sesenta y veis reales y medio de plata, que
+satisfizo á dicha Peruana, como lo manifiesta
+su recibo, que agregó á los autos, cuya cantidad des-
+contara de la de quinientos ochenta y ocho pesos, qua-
+tro reales y quatro maravedís del alcanze, que
+resulta en estos ajustes, queda á favor de la tes-
+tamentaria de este difunto, y contra la Real
+Hacienda, quinientos, ochenta pesos y un real,
+y veinte y un maravedís, lo que se anota aquí el
+orden de otro Señor Governador para la mejor
+inteligencia y resguardo de la Real Hacienda.
+Caracas quatro de Marzo semil veccientos
+setenta y ocho = Fran. Rodriguez y Villalba
+Señor Governador y Capitan General =
+D. Francisco Rodriguez y Villalba Depositorio
+de los Causales de la Real Expedicion de","NOTA: que de orden verbal del Sr. D. Joseph Solano Caballero de la Orden de Santiago, Capitán de Navío de la Real Armada, Teniente de la Compañía de Caballeros Guardias Marinas, Gobernador y Capitán General de esta Provincia, se sacó testimonio por el Caballero Don Joseph de Oleizalde de los autos de esta testamentaría para su remisión a España, cuyos derechos importación sesenta y veinte reales y medio de plata, que satisfizo a dicha peruana, como lo manifiesta su recibo, que agregó a los autos, cuya cantidad descontará de la de quinientos ochenta y ochos pesos, cuatro reales y cuatro maravedís del alcanze, que resulta en estos ajustes, queda a favor de la testamentaria de este difunto, y contra la Reial Hacienda, quinientos ochenta pesos y un real, y veinte y un maravedís, lo cual se anota aquí el orden de otro Señor Gobernador para la mejor inteligencia y resguardo de la Reial Hacienda.
+Caracas cuatro de Marzo semil veccientos setenta y ocho = Fran. Rodríguez y Villalba
+Señor Gobernador y Capitán General = D. Francisco Rodríguez y Villalba Depositorio de los Causales de la Real Expedición de",0.1076,0.3333
+100383_img005.jpg,"tecia Mayor, y Comandante en Jefe de toda la Gente de Armas de esta Prov. dijo: que me- diante hallarse con Carta, y suplicatoria fechada en la Mision de Guay en el dia de hoy, pone el Señor Coronel velas Reales, Ejecutores de dicha Gesia de Albando del orden de Santiago, y Comisario en segundo lugar en la Real Expedicion de la Liguria divisoria, dirijida, al fin de que por su merced e intervencion de Dn Joseph Monrroy Cosmografo de la citada Expedicion se forme los inventarios correspondientes a los bienes que han quedad- do por fin, y muerte del Cosmografo Dn Joseph Santos, assi de los que à este pertenecen, como de los que à su Cargo tenia por pertenecientes à Su Majestad, segun, y como expresa la citada Carta: y porque para su efecto se hace formar la acomula- cion de la citada Carta, è igualmente el que su contenido se le haga saber al referido Dn Joseph Monrroy, su merced debia mandar, y mando que rubricada por el presente Escusiano, se pusiese por","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are margin notes and a few crossed-out words, but no stamps or drawings are present.","ticia Mayor, y Comandante en Jefe esta de la
+Gente de Armas de esta Prov., dixo: que me-
+diante hallarse con Carta, Suplicatoria fecha
+en la Mission de Suay, en el dia de oy pone el
+Señor Coronel de los Reales Ejercicios d. Lu-
+gario de Albarado del Orden de Santiago,
+y Comisario en segundo lugar en la Real
+Expedicion de la Línea Divisoria, dirigida, a-
+fin que por Sumexces, e Intervencion de
+M. Joseph Monroy, Cosmographo de la
+dicha Expedicion se forme los inventarios
+correspondientes á los bienes, que han queda-
+do por fin, y muerte del Cosmographo d. N.
+Joseph Santor, asi de los que á este pertene-
+cen, como de los que á su Campo tenia por
+pertenecientes á Su Magestad, según y
+como expresa la citada Carta: ¿Porque,
+para su efecto se hace forzaro la acomula-
+cion de la citada Carta, e igualmente
+el que su contenido se le haga saber al
+referido d. Joseph Monroy, dimexced
+debía mandar, y mandó que rubricada, por
+el presente Circuimano, se pusiese por
+Contratacion,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es","ticia Mayor, y Comandante en jefe esta de la Gente de Armas de esta Prov., dijo: que mediante hallarse con Carta, Suplicatoria fechada en la Misión de Suay, en el día de hoy pone el Señor Coronel de los Reales Ejércitos d. Luigario de Albarado del Orden de Santiago, y Comisario en segundo lugar en la Real Expedición de la Línea Divisoria, dirigiéndola, a fin que por Sumexces, e intervención de M. Joseph Monroy, Cosmógrafo de la dicha Expedición se forme los inventarios correspondientes a los bienes, que han quedado por fin, y muerte del Cosmógrafo d. N. Joseph Santor, así de los que a este pertenecen, como de los que a su Campo tenía por pertenecientes a Su Magestad, según y como expresa la citada Carta: Porque, para su efecto se hace forzoso la acumulación de la citada Carta, e iguálemente el que su contenido se le haga saber al referido d. Joseph Monroy, diméxced debía mandar, y mandó que rúbricada, por el presente Circuniano, se pusiese por Contratación, 5660, N.4
+
+© Archivos Estatales, <https://pares.cultura.gob.es>",0.2097,0.4091
+100383_img100.jpg,"de la Línea divisoria entre esta Corona y la de Portugal, dice que aunque dentro testimonio no consta en manera alguna la Santa Padres ni Execto del Oficio, ni tampoco se haya hecho Ni mesa de dicho legado por los moriberos y Mutuas de los reales, no obstante expresaron los Cabezas de oficios que se le recibió testimonio dado de suplico del parecer espiritual del Sr. San Juan Cantido Com. D.a N.a Guadalupe y que su Madre y bisnieta le nombrava de fasez de Herrera y Comandante igualm. del Curado Joaquin no alcandra el Difunto a la Hacienda y favor de sus sueldos, debiendo gozar hasta el día de su fallecimiento en la Carcelidad de Quinaros ochenta pesos. Con el y señores de mas que no de nominacion por no haber caudales en Casa con aquel destino. Conviene se expida el testular despacho con los impuestos reservados a los Juezes y Jurisdics de la Ciudad en Quarcan para que Contratendo con efecto el difunto natural de la, y Señora Credora algunos se les notifigue en su oso de terreno que dicho señalan","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, or stamps visible, and it appears to be a single-column text.","de la Línea divisoria entre esta Corona y las
+Provincias del Sur aunque de esto Testimonio no
+Conoce en manera alguna la Rama Padre,
+ni Creditos del mencionado tampoco Se haya hecho
+Ninguna de dinero alguno por los miembros y
+Hijos de los ramas no obstante expulsando la Camara
+de oficio que se halla Testimoniado con que
+defunció el pariente natural del Venerable
+Canónigo D. N. Guardia y que Su Madre
+o Suenra se nombrara da Lluza de Heres
+y Comanente Legítim. el Casado Donimo
+no alcanzara el Disfrute de la Hacienda
+o Valor de Sus Suelos devolviendo hasta Ocho
+de Su fallecimiento en la Caridad de Luñen
+no ochenta pesos con D. y Veinticinco
+que no de Nombrarlos por no haber Caudales en
+Casa Con aquel destino, Combién se copida
+al Real despacho Con los Insertos necesarios
+a los Jueces y Jurados de la Ciudad
+en Venerable para que Conviendo el Con
+ferir el disfrute natural de Hija y Hener
+Creditos algunos Se les notifique dentro
+del termino que debe Venatare","de la línea divisoria entre esta Corona y las Provincias del Sur, aunque de esto testimonio no conoce en manera alguna la Rama Padre, ni créditos del mencionado tampoco se haya hecho ninguna de dinero alguno por los miembros y hijos de los ramas. No obstante, expulsando la Cámara de oficio que se halla testimoniado con que defunció el pariente natural del Venerábel Canónigo D. N. Guardia, y que su Madre o Suenra se nombrara da Lluz de Heres y Comanente Legítim. El Casado Donimo no alcanzara el disfrute de la Hacienda o valor de sus Suelos, devolviendo hasta ochenta pesos con D. y Veintiuno que no de Nombrarlos por no haber caudales en Casa con aquel destino. Combién se copida al Real despacho con los Insertos necesarios a los Jueces y Jurados de la ciudad en Venerable para que Conviendo el conferir el disfrute natural de Hija y Hermano. Creditos algunos Se les notifique dentro del término que debe Venatare.",0.3699,0.5879
+100383_img116.jpg,Imagen en blanco,"The language used is Spanish, as indicated by the words ""imagen en blanco."" The handwriting appears to be modern and legible, with no special features such as margin notes, crossed-out words, multiple columns, or stamps. The style suggests it could be from the late 20th or early 21st century.","Imagen
+en blanco
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es
+AE
+ARCHIVOS
+ESTATALES","Imagen en blanco
+CONTRATACION, 5660, N. 4
+© Archivos Estatales, <https://pares.cultura.gob.es>
+AE
+ARCHIVOS
+ESTATALES",6.2500,2.3333
+100383_img010.jpg,"Lt. Catorce pares de zapa[ta]s de becerrillo
+Lt. Tres sondalas nuevas con cuatro escandallos de plomo
+Lt. una beta Real con dos motones
+Lt. una Pandera, y Pallandete Espan[ol]
+Lt. siete silletas de Campaña, las tres rompi[as]
+Lt. Tres inviernos grandes para Embarcaciones
+Lt. una Anca de cocina, que incluye lo siguiente
+Lt. tres ollas de cobre con sus tapas de distinto tamaño
+Lt. una Coterna con su tapa de cobre
+Lt. Tres Candelaros rengular o menor
+Lt. una Sarten de fierro
+Lt. una Pavadera
+Lt. una Espumadera chica
+Lt. unas parrillas de fierro
+Lt. una paleta de idem
+Lt. un alminor chico de bronce con su mano
+Lt. un Chocolatero de cobre con su mole","The document is written in Spanish script. The handwriting appears to be from the 18th or 19th century, judging by the style and formality of the script. The legibility is moderate, with some words slightly difficult to decipher due to the cursive nature of the handwriting. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","sus espuelas
+dt. Catorce pares de zapatos de becerrillo
+dt. Tres Sondaleras nuevas con quatro escancillas de plomo
+dt. Una beta Real con dos motones
+dt. una Manera, y Gallarete Español
+dt. Siete silletas de Campana, las tres rompidas
+dt. Tres envases grandes para Com-
+baxaciones
+dt. una Arca de cosina, que incluye
+lo siguiente
+dt. tres ollas de cobre con sus tapas de dis-
+tintos tamaños
+dt. una Contera con su tapa de cobre
+dt. Tres Candeleros de regular á menor
+dt. una Canten de fierro
+dt. una Pavadera
+dt. una Espumadera chica
+dt. unas Parrillas de fierro
+dt. una paleta de idem
+dt. una almirez chico de bronce con su
+mano
+dt. un Chocolatero de cobre con su mole","---
+sus espuelas
+dt. Catorce pares de zapatillas de becerrillo
+dt. Tres sondaleras nuevas con cuatro escañillas de plomo
+dt. Una beta real con dos motones
+dt. una manera, y gallarete español
+dt. Siete silleteras de campana, las tres rompidas 
+dt. Tres envases grandes para combaxaciones
+dt. una arca de cosina, que incluye lo siguiente
+dt. tres ollas de cobre con sus tapas de distintos tamaños
+dt. una contera con su tapa de cobre
+dt. Tres candeleros de regular a menor
+dt. una canten de fierro
+dt. una pavadera
+dt. una espumadera chica
+dt. unas parrillas de fierro
+dt. una paleta de idem
+dt. una almirez chica de bronce con su mano
+dt. un chocolatero de cobre con su mole
+---",0.1562,0.4500
+100383_img105.jpg,"El mismo fiscal, habiendo se publique en dis los y Eclsas Parroquias a la ora de la Misa mayor aparecuiendo los que en su distrito se dán a otra Exon ni de dranno y Correspondaj y dicho todo puerto fo útil. La Comunicación de cierto despacho no lo deberían por la vía que lo hubieren venido para po ne lo Con otros autos, y proceda en ellos conforme a dito: dado en Cádiz à onre días del mes de Dezi de mill Setecientos y me = El Marqués R. Thesoroz Dn Juan de Mendez Raphael Antunez.","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some parts clearer than others. There are no visible margin notes, crossed-out words, or multiple columns, but there is a stamp in the bottom right corner indicating it is from the Archivos Estatales.","el mismo oficio, haviendo se publiquen en los
+3 pueblos Parroquiales á la oración de Misa mayor,
+aperiuniendolos que en su oficio se dará á dho Cristo
+no de drama y Corresponda; y esto todo puesta en
+Vista á Comunicacion de este mío despacho nos lo
+debolucian por la vía que hubieren Nuido parroco
+perlo Con stos autos y proceder en ellos. Conforme
+á dio: dados en Cádiz á onze dias del mes de Duz
+de mill Setyentay Unes
+El Maiguel R. Thesoro
+Don Juan de Mexico
+Raphael Antunez
+Año de Nuestro Señor y año de Gracia
+mil setecientos veinticuatro
+En la híre Oración por la muerte de con acuerdo
+los dos Reyes dichos señores
+© Archivos Estatales, https://pares.cultura.gob.es","---
+el mismo oficio, habiendo se publiquen en los 3 pueblos Parroquiales a la oración de Misa mayor, aperiuniéndolos que en su oficio se dárá á dho Cristo no de drama y corresponda; y esto todo puesto en Vista á Comunicación de este mío despacho nos lo debolician por la vía que hubieren Nuído parroco perlo Con estos autos y proceder en ellos. Conforme á dio: dados en Cádiz á onze días del mes de Duz de mill Setyentay Unes
+El Miguel R. Thesoro
+Don Juan de México
+Raphael Antúnez
+Año de nuestro Señor y año de Gracia mil setecientos veinticuatro En la híre oración por la muerte de con acuerdo los dos Reyes dichos señores
+© Archivo Estatal, https://pares.cultura.gov.es
+---",0.6880,0.8438
+100383_img088.jpg,"a España no se le tiene embaraça en la fa Anqo que va condestino a esa Ciudad, ó viene en la embaraça que se verificque que va a Cádiz, si va en derechura a esa Ciudad escri- vire a Vmd. con el dho pançique y ordenar con el vice infirme zi de ençane se como Dn Joseph y de Dios, y ore rrió de nada, zi aun- qu baxa a Cadiz tambien escribiure con el dho por diferencias y addiciones, a la Yguemeperriado para a su Caxa, y el Tromeo de Bilbao me escriurá do y de Berrnes por en llegando Dho Dn. Juan podra tam en- carregar a algunas persona de son satisfacion y se bea con el, y le pregunte a cerca de las cosas, y dejo Dn Joseph esto precuenco a Vmd. por q no entienda que no practico las diligen- cias que Vmd me encargase, ò alguna obra perteina entienda y si no djese que paresca lo que dexa Dn Joseph finalm. lo mejor seria que asi Vmd. como la Señora Madre escribiesen a Dn Joseph de Huamaga en horden al tiempo Deseo a Vmd. felice, y dilatado años en compañia de su Sra Madre su decupa obe- diencia me pondra y a Dios que a Vmd. me","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases underlined for emphasis. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","à España no le fuese embarcar en la
+que va condestino à esa Ciudad, ó si se vna
+en la embarcar. que testifique que vna a Ca
+diz: si va en derechura à esa Ciudad escri-
+vire a Vnd con el otro para que se haga
+con el, y se informe, y de engane de como
+Dr. Joseph q de Dios goze no defon nada zaun-
+q baja a Cadiz tambien escribire con el
+dis por q tengo ba ocilaciones ala Corte
+mepensuado pasara ami Cava, q se conoce
+de Bilbao me pensuado q de Benvego
+y en llegando otro D. Juan podra Vnd en-
+cargar a alguna persona demostratisfacion
+q se bea con el, y le pregunte a cerca de las
+cosas, q deo Dr. Joseph esto precienga a Vnd
+por q no entienda, que no practico las dilige
+que Vm. medendome, ó alguna otra persona
+entienda q sino quiera que pax con legue
+del Dr. Joseph finalmente lo mejor seria que
+así Vm. como de Senora Madre escribie
+sen a Dr. Joseph Zuniga en orden al
+amigo
+Deseo a Vm. felices, y filatad manos
+en compania de sus S. Madres decupa obe-
+diencia me pondra y Dios Guie a Vm. mi","---
+
+a España no le fuese embarcar en la que va condestino a esa Ciudad, ó si se vna en la embarcar, que testifique que vna a Cádiz: si va en derechura a esa Ciudad escribiré a Vnd con el otro para que sea hecho con él, y se informe, y de engañe de cómo Dr. Joseph que de Dios goze no defienda nada, aunque baja a Cádiz también escribiré con él. Dis por qué tengo baocilaciones a la Corte, mepensuado pasará mi Cava, que se conoce de Bilbao, me pensuado que de Benvego. Y en llegando otro D. Juan podrá Vnd encargar a alguna persona demostración de que se bea con él, y le pregunte a cerca de las cosas, que dejo Dr. Joseph esto preciengá a Vnd por qué no entienda, que no practico las diligencias que Vm. mediendo me, ó alguna otra persona entienda que sino quiera que pase con legue del Dr. Joseph. Finalmente, lo mejor sería que así Vm. como de Señora Madre escribiera a Dr. Joseph Zúñiga en orden al amigo.
+
+Deseo a Vm. felices y filatad manos en compañía de sus S. Madres, decupa obediencia me pondrá y Dios guíe a Vm. mi
+
+---",0.2932,0.5991
+100383_img098.jpg,Imagen en blanco,"The language used is Spanish, as indicated by the words ""imagen en blanco."" The handwriting appears to be modern and legible, with no special features such as margin notes, crossed-out words, multiple columns, or stamps. The style suggests it could be from the late 20th or early 21st century.","Imagen
+en blanco
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es
+AE
+ARCHIVOS
+ESTATALES","Imagen en blanco
+CONTRATACION, 5660, N. 4
+© Archivos Estatales, <https://pares.cultura.gob.es>
+AE
+ARCHIVOS
+ESTATALES",6.2500,2.3333
+100383_img065.jpg,"Setenta y ocho; otra Carta que ha remitido al Tribunal del Sr. Presidente, para original a la Contraduria prinz. para que refrane respuesta della, y avise por la Escrivania de Camara donde toca se pondrá Copia autorizada della a Continuación del Testimonio que le acompaña, y hecho V._._ lo especifica una Relucida. Con su original que separó a la Contraduria prinz. de otra Sdta. Aud.ª en virtud de le mandado en el precipiado decreto, de veinte y m[il] setecientos y para el fin expresado, doy la presente y firmo en Cádiz a diez y siete de Junio de mil Sete[cientos] setenta y ocho.","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Sesenta y ocho; esta Causa que ha remitido
+al Tribunal de S. Precedente para original
+á la Contraduca pront. para que pague 10
+puesta de ella y ames por la Infravania
+Camara donde se expenderá Copia au-
+thorizada de ella á Continuación del
+Testimonio que á acompana y hecho Voo-
+lo del fiscal una Satisfacción
+Con cuerda Con su original que se paró á la Contraduca
+rial de esta R. Aud. en virtud de lo mandado en
+A precopiado decreto 9 de Nov. y para el friex
+prozado; dos lapresente Fiscal en Cádiz á diez
+de Junio de mil Señ. Sesenta y ocho
+Juan Antonio Mont
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es","Sesenta y ocho; esta causa que ha remitido al Tribunal de S. Precedente para original á la Contraduca prontamente para que pague 10 puesta de ella y ames por la infravania Camara donde se expenderá copia autorizada de ella á continuación del Testimonio que á acompaña y hecho Voo- lo del fiscal una Satisfacción Con cuerda con su original que se paró á la contraduca rial de esta R. Aud. en virtud del mandado en A precopiado decreto 9 de nov. y para el friex prozado; dos la presente Fiscal en Cádiz á diez de junio de mil Señ. sesenta y ocho
+Juan Antonio Mont",0.3299,0.6214
+100383_img016.jpg,"blanco
+Concuya partida se concluye este Inventario, por no contener otras bienes asi pertenecientes á Su Magestad como al dicho difunto Dn Joseph Santos, que inventariar, y en virtud de ello, y que constante sea la formacion lo firmaron los referidos Señor Comandante, y el Cosmografo Dn Joseph Mariano Monzoy, de que doy fé en el citado dia veinte y seis de Mayo = Juan Valdos = Joseph Mariano Monzoy = Antemi = Jacinto de Mier Evora Cuartacha. Ciudad de Santo Thome de la Guayana en veinte y siete dias del citado mes, y año ante mi el presente Escrivano parecio presente Dn Joseph Mariano Monzoy Cosmografo de la Real Expedicion, á quien doy fe que conozco, y dijo: que ha recibido, existido, y sacado del Cuerpo de los Inventarios antecedentes todas las partidas que en ellos tocan, y pertenecen a Su Magd y son comprendidos dessdel num. prim.","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or early 19th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Concursos particulares se concluyó este inventario, porque contiene otros bienes así pertenecientes a Su Magestad como al dicho difunto D. Joseph Santos,
+que inventariar y enviarías se ello, y que constante sea la formación lo firmaron
+los referidos Señor Comandante, y
+el Consomographo D. Joseph Mariano
+Monroy, segúe soy fe en el citado
+día veintey seis de Mayo = Juan Sab
+dos = Joseph Mariano Monroy = An
+temi = Facinto de Mica Evox . p.
+Cartas Recibos
+En esta dicha Ciudad de Santo Thome
+de la Guayana en veinte y oiete dias del
+citado mes, y año antemil presente Es
+cribiano pareció presente D. Joseph Ma
+riano Monroy Consomographo de la
+Real Expedicion, à quien soy fe que co
+nozco, y dijo: que ha recibido, revisado, y
+sacado del Cuerpo de los Inventa
+rios antecedentes todas las partidas, g
+emellos tocar, y pertenecen a Su Mag,
+y son comprendidas desde el num. prim.
+© Archivos Estatales, https://pares.cultura.gob.es","---
+
+**Concursos particulares se concluye este inventario, porque contiene otros bienes, así pertenecientes a Su Magestad, como al dicho difunto D. Joseph Santos,**
+
+que inventariar y enviarías se ello; y que constante sea la formación, lo firmaron los referidos Señor Comandante y el Consomographo D. Joseph Mariano Monroy, según soy fe en el citado día veintey seis de Mayo = Juan Sabdos = Joseph Mariano Monroy = Antemi = Facinto de Mica Evox. p.
+
+**Cartas Recibos**
+
+En esta dicha Ciudad de Santo Thome de la Guayana, en veinte y oiete días del citado mes y año antemil presente Escribiano pareció presente D. Joseph Mariano Monroy, Consomographo de la Real Expedición, a quien soy fe que conozco, y dijo: que ha recibido y revisado, y sacado del Cuerpo de los Inventarios antecedentes todas las partidas, gemellos tocar, y pertenecientes a Su Mage, y son comprendidas desde el num. prim.
+
+---
+
+**© Archivos Estatales, <https://pares.cultura.gob.es>**",0.2420,0.5068
+100383_img014.jpg,"dto. un Lente grande de cristal
+dto. un Tornillo de fierro mediano
+dto. un Caponcito, que incluye lo siguiente
+dto. un Tornillo pequeño
+dto. una Tannafa
+dto. Quarenta y quatro muelles de relos
+un papel de alambres p.a cuersas de lo mismo
+dto. Veinte, y un bidrio de conversos para lo
+mismo, y diferentes buriles, barrenas pe-
+queñas, y medianas, con mas dos martillos
+pequeños
+dto. un Espadin de plata
+dto. un Relojo de lo mismo
+dto. un Estuche de Mathematica
+dto. un Libro azte de torneer fornado en
+pasta
+dto. otro tablar Astronomico fornado en
+lo mismo
+dto. otro historiare Conre de Leon for-
+rado Idem
+dto. otro Curso Mathematico formado Id
+dto. otro filosofia de Newton formado Idem
+dto. otro Secretos concernientes al Az-
+te ve Metier, fornado Idem","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Yt. un Lente grande de cristal
+Yt. un Tornillo de fierro mediano
+Yt. un Caronico, que incluye lo siguiente
+Yt. un Tornillo pequeno
+Yt. una Carraca
+Yt. Cuarenta, y quatro muelles de Helon
+Un papel de alambres p. cuerdas del mismo
+Yt. Veinte, y un bidrio de convejos para lo mismo, y diferentes buxiles, barrenas pequeñas, y medianas, con mas dos martilla pequenitos
+Yt. un Espadin de plata
+Yt. un Relopo de lo mismo
+Yt. un Cotuche de mathematica
+Yt. un Libro arte de tornear forzado en pasta
+Yt. otro tablas Astronomicas forzado en lo mismo
+Yt. otro historias Conre de Leon forzado 2dem
+Yt. otro Curso Mathematico forzado ya
+Yt. otro filosofia de Newton forzado 2dem
+Yt otros Secretos concernientes al Azteca de Metier, forzado 2dem","---
+Yt. un lente grande de cristal  
+Yt. un tornillo de fierro mediano  
+Yt. un caronico, que incluye lo siguiente  
+Yt. un tornillo pequeño  
+Yt. una carraca  
+Yt. cuarenta y cuatro muelles de Helon  
+Un papel de alambres para cuerdas del mismo  
+Yt. veinte y un bidrio de convexos para lo mismo, y diferentes bujiles, barrenas pequeñas y medianas, con más dos martillos pequeñitos  
+Yt. un espadín de plata  
+Yt. un relajo de lo mismo  
+Yt. un cotuche de matemática  
+Yt. un libro arte de tornear forzado en pasta  
+Yt. otro tablas astronómicas forzado en lo mismo  
+Yt. otro historias Conre de León forzado 2dem  
+Yt. otro curso matemático forzado ya  
+Yt. otro filosofía de Newton forzado 2dem  
+Yt otros secretos concernientes al Azteca de Metiér, forzado 2dem  
+---",0.2082,0.7315
+100383_img102.jpg,"Sello quarto, año de mil setecientos y setnensa i vnno.
+Cuaderno para el fallecimiento arbitrario en
+monico de S. I. [indecipherable] Santos Tiziana Comonza
+o en la expedicion de Limite de
+a linea divisoria entre esta Corona, y la Prou
+tagal delas Tres Contos moradores de puertuitos en su
+Repuecta de sieyla y uno de julio del año pas
+sado de mil setecientos y ocho del libro en veinte y
+cinco de octubre del mismo correspondencie
+ojo dispatchos a los Indios y nata de la Ciudad de L. de
+barrial para la ejecucion y emplessamiento de los t
+decho decho de fuera, y como visita de los
+atfs a la comunidad y practucado, se hizo lo
+correspondiente por informacion a su ciudad
+de Josepha Andona de Guaria que fue a queia
+oriar, y pudo entenderse para que ovniese
+con buquina en desertorona a Juan de su
+viento de la Ricada del loco parte que le co
+respuesta en los quinientos ochenta y","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some parts clearer than others. There are margin notes, crossed-out words, and a stamp at the top, indicating it might be an official document.","SEPTIMO QUARTO, AÑO DE
+MIL SETECIENTOS Y SE
+PENTA Y UNO.
+Cruzado por el Palenquimiento Abinaderance en
+Santos Cabrera Comenga
+que fué de la Expedicion de Limiaes de
+la Línea Quiroga en un cau Corono, y la de Por
+ugal des fue Con los maridos expuestos en Su
+Ripuesta de Vengue y uno de Palo del año pas
+ado de Sex. Setenay ocho Se Abro en Veinte
+Sexe d'Octubre del mimo el Corresponderse
+dispacho a los Jueves Juno. de la Cid 25. de
+largo A para lo Cauar y Emplatar. de los Ca
+deros de doho dispacho y como Pichura de los
+a Su Continuaz praxicidad. Se hizo lo
+Corresponderse porificacion a Su Suida
+de Joseph Antonia de Guardia que fue a quer
+Omiant. Puede endoncarse X para 9 Omuncer
+En brevissima de su persona o Dar de Su
+Dip sobre la Ncauda Di de lo parte que le co
+respondiere en los Quinientos ochenta y
+CONTRATACION, 56600, N.4
+© Archivos Estatales, https://pares.cultura.gob.es","SEPTIMO QUARTO AÑO DE MIL SETECIENTOS Y SEPTENTA Y UNO.
+
+Cruzado por el palenquimiento Abinaderance en Santos Cabrera Comenga que fué de la expedición de Limiaes de la Línea Quiroga en un caño Corono, y la de Portugal des fue con los maridos expuestos en su respuesta de vengue y uno de Palo del año pasado de Sex. Setenay ocho se abrió en Veinte Sexe d'Octubre del mismo el corresponderse dispacho a los Jueves Junio de la Cid 25. de largo A para lo Cavar y Emplatar de los Ca deros de dicho dispacho y como Pichura de los a su Continuaz praxisicidad. Se hizo lo Corresponderse porificación a Su Suida de Joseph Antonia de Guardia que fué a querer Omiant. Puede endoncarse x para 9 Omuncer En brevissima de su persona o dar de Su Dip sobre la Ncauda Di de la parte que le corresponderie en los Quinientos ochenta y",0.4574,0.7708
+100383_img004.jpg,"al Rey pertenece) entregar a los testamentarios los bienes, que fueron del difunto, para que cumplan su ultima disposicion, y servira uno, y oficio D.n Joseph Monroy de darme aviso de todo para mi inteligencia, bien entendido que hecha la Separacion de los bienes de Rey, y entregado de ellos el Cosmografo D.n Joseph Monroy otorgara la Correspondiente Carta de Recibo en el Cuerpo de Autos, que se deben formar, assi como se hizo con la Testamentaria del difunto D.n Antonio de Pxsutia. Rio Señor guarde a Vmd. muchas años. Mision de Huay veinte y cinco de Mayo de mil setecientos cincuenta y cinco. P.d. L. M. e V.ma. Humna, a su afecto servidor D.n Eugenio de Albareza S.D. Juan de Dios Valdes.
+
+En otra Ciudad de Santo Thome de la Guayana en veinte y seis dias del mes de Mayo de mil setecientos cincuenta y cinco años el Señor D.n Juan de Dios Valdes Capitan de la Infanteria que guarnece este Presidio, y Castellano de las Reales Fuerzas por Su Magestad, Ten General de Comisos, Thente de Gobernador, Jus","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are margin notes, crossed-out words, and a red stamp in the bottom right corner, indicating it might be an official document.","al Rey pertenece) entregar á las testamentarios los bienes, que fueren del difunto, para que cumplan su ultima disposicion, y cesearán vivos, y susucio ?n. Joseph Monroy se darne aviso de todo para mi inteligencia, bien entendido que hecha la Separacion de los efectos del Rey, y entregado de ellos el Cosmografo ?n. Joseph Monroy otorgará la Correspondiente Carta de Recibo en el Cuerpo de Autos que se deben formar, así como se hizo con la Testamentaria del difunto ?n. Antonio de Vizcaya. Mas Señor guarde á Vmo. muchos años. Mission de Guay veinte y cinco de Mayo de mil setecientos, sin quenta, y cinco = P.D. L. M. de Vmo. Almas afecto Sevidor = ?n. Eugenio de Albarras = C. d. Juan de Dios Valles.
+Auto de proceder En esta Ciudad de Santo Thomas de la Guayana en veinte y seis dias del mes de Mayo de mil setecientos, sinquenta, y cinco años el Señor ?n. Juan de Dios Valles Capitan de la Infanteria, que guarnece este Presidio, y Cartellano de sus Reales Tierras por su Magestas, Tier General de Comision, Then. de Govenador, Fis-
+CONTRATACION,5660,N.4
+© Archivos Estatales, https://pares.cultura.gob.es","al Rey pertenece) entregar a las testamentarios los bienes, que fueran del difunto, para que cumplan su última disposición, y cesarán vivos, y sucesión ?n. Joseph Monroy se dará aviso de todo para mi inteligencia; bien entendido que hecha la separación de los efectos del Rey, y entregados de ellos el Cosmógrafo ?n. Joseph Monroy, otorgará la correspondiente carta de recibo en el cuerpo de autos que se deben formar; así como se hizo con la testamentaria del difunto don Antonio de Vizcaya. Mas, Señor, guarde a Vmo. muchos años. Misión de Guayaquil veinte y cinco de mayo de mil setecientos, sin quinta, y cinco = P.D. L.M. de Vmo. Almas afecto servidor = don Eugenio de Albarras = C.d. Juan de Dios Valles.
+
+Auto de proceder En esta Ciudad de Santo Tomás de la Guayana en veinte y siete días del mes de mayo de mil setecientos, sinquinta, y cinco años el Señor don Juan de Dios Valles, Capitán de la Infantería, que guarneció este Presidio, y Cartelano de sus Reales Tierras por su Majestad, Tier General de Comisión, Teniente de Gobernador, Fis-",0.1693,0.4333
+100383_img111.jpg,"Señor le Fue m. a S. San Gervarion Febrero 3 de 1772
+
+Los Alcaldes de la Ciudad de S. Sebastian
+Bartol. de Lazcano Bernardo de Gainza
+
+Dn Joseph de Aguero","The document is written in Spanish, using a cursive script typical of the 18th century. The handwriting is moderate in legibility, with some parts clearer than others. There are margin notes, crossed-out words, and a stamp in the bottom right corner, indicating it might be an official document.","Señor le Sue m s a s San Sebastian Febrero 3
+de 1772
+Los Alcaldes de la Ciudad de San Sebastián
+Bernardo de Gainza
+Salazar
+Dn Joseph de Agüero","---
+Señor le Sue m. s. a. s. San Sebastián Febrero 3 de 1772
+
+Los Alcaldes de la Ciudad de Sant Sebastián
+Bernardo de Gainza Salazar
+
+Dn Joseph de Agüero
+---",0.3312,0.4483
+100383_img103.jpg,"En 17 y veinte y dos meses en que alcanzo el Disfurxo a la el habiendo el favor de sus Sueldos deuvengados hasta el dia de su fallemto e Igualmnt se fisieron primero cuntos para la Comparencia de los demas interesados a la Qencia abinutura y Respeto a que desde nuebc de Dbre de dicho ano se que se notifico a la Viuda no ha Comparcido a usar el Datro ni tampoco alounoio interesado en fuerza de esas letras Combina deiga nuevo despacho no solo para la Soltitud del para de la Madre el disfurxo sino tambien para que se fisien legados edvos con el termino y aperimuentos o permi por e igualmnt se haga saver a la viuda Compureza derivta del Sermino que sale en orden, con apea siuniento que deno haxio se buranmanian los ahnos sin sultner benroda cuyo fui les acuse el fiscal a todos la Pueblad y a 7 cuentas de los Pueblos yprovincias esponora la demas q Correspond en fururas que pis de Cadiz cinco de Novb 17 8 6 Severaos en de porches que dice el Sr fiscal.","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. Special features include a circular stamp in the top left corner, crossed-out words, and a signature at the bottom.","Para despachos de oficio quatro mts.
+Sello cuarto año de
+myn setecientos y se-
+tenta y uno.
+En la y Señor y Señora en que alcanzó el Disfuncio
+a la R. Arrenda el Valor de sus Viudos deuengados
+hasta el dia de Su fallecimiento y Loyalmente se fisieron
+primero Cuentas para lo Compartimiento de los demas
+Inventarios de la Causa abiertamente y No obstante a
+que desde nuebe de Diaz de Edo año en que se notificó
+alo Guida no ha Compartido esta a Osar Padre
+Sin tampoco algun otro Interesado en fuerza de
+Esta Causa Combinó se Regara nuevo despacho
+no Solo para la Solución del paradero de la Muerte
+sino Tambien para que se fisen Segundos
+Cuentas Con el Termino y apercibimientos oponen-
+te Loyalmente se haga Suya alo Guida Com-
+parte Loyalmente se haga Suya alo Osar Com-
+parte Loyalmente se hago Suya alo Osar Com-
+parte
+82
+prima demás del Bernino que Se ordena, con aper-
+cibimiento que deno hazelo Se Durcanizaran los
+reclamantes que deno hazelos Se Durcanizaran los
+anos Sin Su Inmediacion, el uyo fin es causa
+el fiscal a todos la Nueblas y escritura de Sede
+Nueblas provisoria expone lo demas y Correspon-
+da en juruana que pide R. Cadiz Cinco de Nov.
+CONTRATACION 153601N4
+Rivas 1711 fec. 1711 fec. 15 Centavos 15 Centavos Agüero
+Represente de despachos que dice de 8.° Fiscal
+ARCHIVO","Para despachos de oficio cuatro mts.  
+Sello cuarto año de  
+myn setecientos y setenta y uno.  
+En la y Señor y Señoras en que alcanzó el Disfuncio  
+a la R. Arrenda el Valor dei sus Viudos deuengados  
+hasta el dia de Su fallecimiento. Y Loyalmente se fisieron  
+primero Cuentas para lo Compartimento de los demas  
+Inventarios de la Causa abierto y abiertamente y No obstante a  
+que desde nuebe de Diaz de Eso año en que se notificó  
+alo Guida no ha compartido esta a Osar Padre  
+Sin tampoco algun outro Interesado en fuerza de  
+Esta Causa Combinó se Regará nuevo despacho  
+no Solo para la Solución del paradero dela Muerte  
+sino Tambien para que se fisen Segundos  
+Cuentas Con el Termino y aprecibimientos oponen-  
+te Loyalmente se haga Suya a lo Guida Com-  
+parte Loyalmente se haga Suye a lo Osar Com-  
+parte Loyalmente se hace Suya a lo Osar Com-  
+parte  
+82  
+prima demás del Bernino que se ordena, con apre-  
+cibimiento que deno hazelo se Durcanizaran los  
+reclamantes que deno hazellos se Durcanizaran los  
+anos Sin Su Inmediación, el uyo fin es causa  
+el fiscal a todos las Nueblas y escritura de Sede  
+Nueblas provisoria expone lo demás y correspon-  
+da en juriuana que pide R. Cádiz Cinco de Nov.  
+CONTRATACIÓN 153601N4  
+Rivas 1711 fec 1711 fec 15 centavos 15 centavos Agüero  
+Represente de despachos que dice 8.° Fiscal  
+ARCHIVO",0.7076,0.9293
+100383_img077.jpg,"Diligencia y firmezo el sobre dicho Escribano=
+
+Don Jose Xauen fijado edictos en los parajes acostumbrados de esta ciudad, citando a dos y llamando a cualquiera interesado a la cantidad que expresa la requisitoria que va al principio aperciviendoles que en su defecto, se dara a la cantidad que negre el destino que corresponde y firme en san n m el dia mes año ve rupria
+
+La eñ. noel M. que dio tres damas se queció y Juan Agn° de Gnicochea, por quien va firmada el auto de animación de la requisitoria antecedente, a Alcalde q han ordn. de esta M. R y M. la ciudad Adena, pael. Pagoncño s. 7 no 12. 14 dirid. y clero mal ando en Vara alta sede de Justicia y administra alas partes que encuerndo comparecen: Lhuan Ant° de Oneta y Castaneda por q. va igualmette firmada la Requisitoria y demas diligencias que iguay, en c. e. M. que al numero desta ciudad fial, legal, y etodo conforma y quaendo paretermine, ha","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some parts clearer than others. There are margin notes, crossed-out words, and what appears to be a seal or stamp in the upper right corner, indicating it might be an official document.","Diligencia y firme yo el sobre dicho escribano
+38
+Doi feé hauen fijado editos entos para ser acto-
+tumbreados de esta Ciudad, citan dols y llaman-
+dolos á cualesquiera intereñados ala Cantidad-
+que expresa la Requisitoria queva al principio
+aperciviendoles que en su defecto, se dana ala
+Cantidad que refiere el destino que correspon-
+da y firme en Sansevo. el dia mes y año Ve
+mpra
+La En. del M. que Dios ha dano fe quels. Oficio 27°
+de Goniechez, porquien via firmada el auto de admision de lae
+Requisitoria antecedente, á Alcalde y han ordin. desta M. R. y M.
+L. Ciudad Adanii puel.Royne 1. 14 tez. no. 2016, y lemental anda
+con Vara alta Real de Justicia, y administra las partes que
+entercurrida Comparecon. L. Buen Arn. de Vizca y Castaneda
+pon. en via igualm. firmada Tha Requisitoria y demas Alegen-
+cias que siguen, es en R. C. M. pu. El numero de esta ciudad
+bel, legal, y octoda Confianza, y quanto garantimiento, ha","---
+Diligencia y firme yo el sobre dicho escribano
+38
+Dios feé hauen fijado editos en los para ser actos-
+tumbreados de esta ciudad, citan dols y llamando-
+los á cualesquiera interesados a la Cantidad-
+que expresa la requisitoria que va al principio
+aperciviéndoles que en su defecto, se dan a la
+Cantidad que refiere el destino que corresponde
+y firme en Sansevo. el día mes y año Ve
+mpra.
+La En. del M. que Dios ha dado fe quels. Oficio 27º
+de Goniechez, por quien via firmada el auto de admisión de la
+requisitoria antecedente, a Alcalde y han orden. desta M. R. y M.
+l. Ciudad Adanii puel. Royne 1. 14tez. no. 2016 y lemental andá
+con Vara alta Real de Justicia y administra las partes que
+enterrurrida Comparecen. L. Buen Arn. de Vizcaya y Castaneda
+pon. en vía igualm. firmada Tha. Requisitoria y demas Alegaciones
+que siguen, es en R.C.M. pu. El número de esta ciudad
+bel, legal, y toda Confianza, y quanto garantismo, ha
+---",0.2645,0.6190
+100383_img011.jpg,"1t. un cuchillo de cocina
+1t. uno de picar carne
+1t. un embudo de fa de lata
+1t. una especiera
+1t. seis cubiletes de cobre
+1t. unas tenazas de fierro
+1t. un vaso de fa de lata
+1t. una palmatoria de metal
+1t. tres calderos ollas grandes de fierro
+1t. quatro platos de peltre grandes para sopa
+1t. tres idem para principios
+1t. quatro idem para entradas
+1t. dos enuelaseras de dicho peltre
+1t. trece platillos chicos se idem
+1t. un cofre que contiene la siguiente ropa de mesa
+1t. seis tablas de manteles ordinarios
+1t. siete idem finos
+1t. setenta y una servilletas ordinarias bien usadas
+1t. quarenta y quatro idem mas finas y mejores
+1t. diez y siete toallas finas y mejores","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderately legible, with some words appearing slightly slanted. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","It. un Cuchillo de Cosina
+It. uno de picaa Carne
+It. un embudo de jasa de Lara
+It. una Especiera
+It. Seis cubiletes de cobre
+It. una Cenaza de fierro
+It. un varjo de jasa de Lara
+It. una Palmatoria de metal
+It. Tres Calderas ollas grandes de fierro
+It. quatro platos de peltre grandes para sopa
+It. Tres idem para principios
+It. quatro idem para entradas
+It. dos envoladores de dicho peltre
+It. Trece platillas chicos de idem
+It. un cofre que contiene la siguiente
+It. ropa de mesa
+It. Seis tablas de manteles ordinarios
+It. diez idem finos
+It. Setenta y una Servilletas ordinarias
+bien varaz
+It. cuarenta y cuatro idem mas finas y
+mejores
+It. diez y diez tohallas finas y mejores","It. un Cuchillo de Cosina  
+It. uno de picaa Carne  
+It. un embudo de jara de Lara  
+It. una Especiera  
+It. seis cubiletes de cobre  
+It. una Cenaza de fierro  
+It. un varjo de jara de Lara  
+It. una Palmatoria de metal  
+It. tres Calderas ollas grandes de fierro  
+It. quatro platos de peltere grandes para sopa  
+It. tres idem para principios  
+It. quatro idem para entradas  
+It. dos envoladores de dicho peltere  
+It. trece platillas chicos de idem  
+It. un cofre que contiene la siguiente  
+It. ropa de mesa  
+It. seis tablas de manteles ordinarios  
+It. diez idem finos  
+It. setenta y una Servilletas ordinarias  
+bien varaz  
+It. cuarenta y cuatro idem más finas y  
+mejores  
+It. diez y diez toallas finas y mejores",0.1704,0.5619
+100383_img038.jpg,"Una Cajita de Seco, cuyos partidas se venden diez y ocho hasta esta inclusas se abaluazon en diez pesos, y Rematazon en doce por don Apolinar Diaz de la Fuente. Doce conosices de todos tamano llanos. Seis idem de puntas. Nueve puntas de tinta. Nueve idem de lapiz. Un Libro de observaciones Microscopicas. Uno idem tratado del equilibrio. Uno idem tablas Astronomicas de a de ley. Un Libro ante de tornear perteneciente al Señor Dn Joseph de Iturriaga. Menta confirmada se fenecio la referida almoneda, cuyo importe segun queda de martirez desse la partida primera la treinta y dos inclusas, es doscientos cinquenta y un pesos y cinco reales, lo mismo que se han rematado; previniendo que desse la partida treinta y tres hasta","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderately legible, with some parts clearer than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Una Cañita de 800 reales, cuyas paridades desde cero hasta diez, y ocho hasta esta inclusas se abalizaron en diez pesos, y remataron en doce pesos.
+Apolinar Díaz de la Fuente
+10......12......
+198......2......251......
+Doce compases de todos tamaño llanos.
+Seis idem de puntas.
+Nueve puntas de tinta.
+Nueve idem de lápiz.
+Un libro Observaciones Microscópicas.
+Uno idem tratado del equilibrio.
+Uno idem tablas Astronómicas de á de ley.
+Un libro ante octavinar perteneciente al Señor D. Joseph de Iturriaga.
+Y Veneta conformidad se feneció la referida almoneda, cuyo importe según queda demostrado desde la partida primera la treinta y dos inclusas, es doscientos cincuenta y un pesos, y réis reales, los mismos que se han rematado; previniéndose que desde la partida treinta y tres hasta","Una Cañita de 800 pesos, cuyas paridades desde 0 hasta 10, y 8 hasta esta inclusa se abalizaron en 10 pesos, y remataron en 12 pesos.
+Apolinar Díaz de La Fuente
+10......12......  
+198......2......251.....  
+Doce compases de todos tamaño llanos.  
+Seis idem de puntas.  
+Nueve puntas de tinta.  
+Nueve idem de lápiz.  
+Un libro Observaciones Microscópicas.  
+Uno idem tratado del equilibrio.  
+Uno idem Tablas Astronómicas de á de ley.  
+Un libro ante octavinar pertenecientes al Señor D. José de Iturriaga.  
+Y Veneta conforme se feneció la referida moneda, cuyo importe, según queda demostrado desde la partida primera, la treinta y dos inclusa, es doscientos cincuenta y uno pesos, y réis reales; los mismos que se han rematado, previniendo que desde la partida treinta y tres hasta",0.2452,0.4758
+100383_img063.jpg,"SELLO QUARTO AÑO DE MIL SETECIENTOS Y SESENTA Y OCHO.  
+Muy Señor mio: Dn Joseph Santos Cabrera Contador 
+pto en la Expa. de Limates de la Linea División 
+entra Nuestra Corona, y la de Portugal falleció 
+en el año de mil setecientos cincuenta y cinco 
+sin haber dejado disposición testamentaria, 
+por cuya causa el Jefe de Esquadra Dn Joseph 
+de Zuaznaga procedió a la aseguración de 
+los Vares en la forma que permitio la Con-
+tinuación de aquel Plaza desierto, y enfermo 
+por los acantonados Segun las Almanec-
+das, el peso de ellos no alcanzo a cubrir 
+sus cargas, y parece quedo alcanzado por 
+eu Nipono; pero de los sueldos que teneis 
+de cargados se satisfició la testamentaria 
+y han quedado a favor de sus Herederos 
+quinientos y ochenta poros con real y dos 
+cinco y dos mas; que no Remito es confi-
+ción de la encargo de Audigales Jno","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no special features such as margin notes, crossed-out words, multiple columns, or drawings; however, there is a circular stamp at the top left corner.","PARA DESPACHOS DE OFICIO QUINIENTOS
+SELLO QUARTO, AÑO DE
+MIL SETECIENTOS Y SESENTA Y OCHO
+Copia del muy Señor mío: D. Joseph Canos Cabrera Comandante
+en la Esp. de Límites de la Línea Divisoria
+entre nuestra Corona, y la de Portugal, fallecido
+en el año de mil Setecientos Cincuenta y Cinco
+Ser haver desistido disposición tenia mientras,
+por Cuya Causa el Jefe de Equidad D. Joseph
+de Guzmán procedió á la aseguración de
+los Vales en la forma que permitió la Con
+tinuación de aquel Paiz durante, y enforme,
+por los años formados, según las Almane
+das, el precio de ellos no alcanzó á cubrir
+sus Cargas y parece quedó alcanzado de
+estar Nipomo, pero de los Suelos que serio
+deveríados se Canificó la Comanentaria
+y han quedado á favor de San Mateo
+y Juaninos y ochenta pesos en Real, y de
+cinco y dos maravedís que no Nipomo er Conve
+niente, y los encargos de ellas
+CONTRATACION 5660114
+© Archivos Estatales, https://pares.cultura.gob.es","Para despachos de oficio quinientos
+Sello quarto, año de
+mil setecientos y sesenta y ocho
+
+Copia del muy Señor mío, D. Joseph Canos Cabrera, Comandante
+en la Esp. de límites de la línea divisoria
+entre nuestra Corona y la de Portugal fallecido
+en el año de mil setecientos cincuenta y cinco
+
+Ser haver desistido disposición tenía mientras,
+por cuya causa el Jefe de Equidad D. Joseph de Guzmán
+procedió á la aseguración de
+los vales en la forma que permitió la con
+tinuación de aquel país durante, y conforme,
+por los años formados, según las almanecas,
+el precio de ellos no alcanzó a cubrir
+sus cargas y parece quedó alcanzado de estar Nipomo,
+pero de los suelos que serios
+deveríados se canificó la comanentaria
+y han quedado a favor de San Mateo y Juaninos
+y ochenta pesos en Real, y de cinco y dos maravedís
+que no Nipomo er conveniente, y los encargos de ellas",0.3495,0.6190
+100383_img049.jpg,"de Zunzuaga, Cavallero zelorden de Santiago, Fe fe de Esqueda de la Real Armada, y Comisario principal de dicha Expedicion, del que produxerón los bienes, que por su interptado denó el Cosmo- grapho Dn Joseph Santos Cabrera premivsa la tenia necesaria hace presente a V.S. que harien- do el que expone hechos y cargo del Deposito per- teneciente a este Defunto, no en pecunia efectiva, sino en diversos Creditos, enque hizo la costa de su diligenzia personal, e industria para recaudar las Cantidades, que distintos individuos que- raron debiendo en las Almonedas a Causa de que los posibles de aqueste Pais no permitieron el pronto exphibo, y efectivo pago, como acontece en otras mas Cultas, y provitas, ve que tambien ande siguio quizinente quebranto en la recaudación y tomado se el trabaxo de cobrar particularm. te a los Dependientes de Expedicion en sus sue- los devengados, y a otros diversas en distintas jurisdicciones, Suplica me.seren remenente a V.S. se situatenea presente es estas cir- cuntancias, y la del nuevo trabajo, que ao- ra se le ocasiona, hasta la efectiva entrega del Deposito, para que en Su vista se digne mandar que el liquido remanente  se etcé","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderately legible, with some variations in size and pressure. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps, but there are decorative flourishes at the beginning and end of the text.","A Durriaga, Cavallero de orden de Santiago, Pe-
+fe de Esquadra de la Real Armada, y Comisario
+principal de dicha Expedicion, del que produjeron
+los bienes, que por su intermedio sacó el Cosmo-
+grapho D. Joseph Santos Cabrera, premiara la
+venia necesaria hace presente a V. S. que habien-
+do el que expone hecho cargo de el Deposito per-
+teneciente a este Defunto, no enpeunia efectiva,
+sino endiversos Creditos, en que hizo la costa de
+su diligencia personal, e industria para recaudar
+las Cantidades, que distintos Individuos, que-
+daron debiendo en las Almonedas a Causa de
+que los paribles de aquel Pais no permitieron
+el pronto ephibo, y efectivo pago, como acontece
+en otras mar Cuitas, y provincias, y que tambien
+sele siguió cruenta quebranto en la recaudacion
+y tomadose el trabajo de cobrar parte del arri-
+blos Dependientes de Expedicion en Sus suel-
+los desengabados, y a otros suspensos en distintas
+jurisdicciones, suplica reverentemente a
+V. S. se sirva tener presente es estas cir-
+cunstancias, y la del nuevo trabajo, que ao-
+ra se le dará ocasion, hasta la efectiva entrega
+del Deposito, parague en Su vista seigne
+mandar que del liquido remanente recive","---
+
+A Durriaga, Cavallero de Orden de Santiago, Pefe de Esquadra de la Real Armada y Comisario principal de dicha Expedición, del que produjeron los bienes que por su intermedio sacó el cosmógrafo D. José Santos Cabrera, premiara la venia necesaria. Hace presente a V. S. que habiendo el que expone hecho cargo del depósito perteneciente a este defunto, no enpeunia efectiva, sino endiversos créditos, en que hizo la costa de su diligencia personal e industria para recaudar las cantidades que distintos individuos quedaron debiendo en las almonedas a causa de que los paribles de aquel país no permitieron el pronto ephibo y efectivo pago, como acontece en otras mar Cuitas y provincias, y que también se le siguió cruenta quebranto en recaudación y tomándose el trabajo de cobrar parte del arribo de los dependientes de expedición en sus suellos desengabados, y a otros suspendos en distintas jurisdicciones, suplica reverentemente que V. S. se sirva tener presente estas circunstancias y la del nuevo trabajo que ahora se le dará ocasión, hasta la efectiva entrega del depósito, para que en Su vista seigne mandar que del líquido remanente recive
+
+---",0.1584,0.4847
+100383_img059.jpg,"Límite en obedicimiento del Decreto, en que V.S. se sirve mandar liquide los sueldos, que devengo en el tiempo de Suvida hasta su fallecimiento en dha. Expedicion el Cosmographo Dn Joseph Santor Cabrera, reverentemente dice: que por la liquidacion, ó Copia de sus Ajustes, que presenta alcanza este individuo a su mugerá, como parece patente de las partidas, que los formalizan, la suma teguimientos, ochenta y ocho pesos, quatro Reales, y quatro Maravedís: Debiendo hacer presente á V.S. que en el Deposito hecho en estas Reales Casas de los Causales haz fallecimiento á Expedicion no existen las suficientes para hacen este pago, y otros, que por razon de Sueldos tambien deven gastar, en Servicio de la misma Expedicion deben hacerle á sus Acreedores, cuya satisfaccion V.S. verificará, dignandose su Magestad librar los necesarios para cubrir estos y demas derechos que se hazan pendientes. Asi lo represento en Curacao & Veinte y dos de Febrero de mil setecientos, sesenta y ocho. Fran.co Rodriquez, y Villa Alba. Caracas quatro de Marzo de mil set...","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Limitez enobedecimiento del Decreto, eng. V.S.
+sesivse mansar liquidar los sueldos, que devengo en
+ultimo de Suvida hasta su fallecimiento en dha. Ex-
+pedicion el Cosmografo d. Joseph Santor Cabre-
+ra, recientemente dice: que por la liquidacion, ó
+Copia de Sus Ajustes, que presenta alcanza este
+Andivieno á Su Magestas, como parece patente de
+las partidas, que los formalizan, la Suma segui-
+nientes, ochenta y ocho pesos, quatro reales,
+y quatro Maravedis: Debiendo hacer pre-
+sente á S. S. que en el Depósito hecho en
+estas Reales Cajas de los Caudales para
+temecientes á Expedicion no existen los
+suficientes para hacer este pago, y otros,
+que por Razon de Sueldo tambien deben
+hacerse en Servicio de la misma Expedi-
+cion deben hacerse á Sus Acreedo-
+res, cuyas Satisfaccion se verificará,
+dignandose Su Magestas librar los
+necesarios para cubrir estos y demas ex-
+pensas que se hagan pendientes. Así
+los representan en Caracas á Veinte, y don
+ve Febrero de mil setecientos, sesentay
+ochos Francisco Rodriguez, y Villalba
+Caracas quatro de Marzo Annil, ve-
+Recivo.","---
+Límites enobedecimiento del Decreto, engr. V.S.
+se sirve mancar liquidar los sueldos, que devengó en
+último de Suvida hasta su fallecimiento en dicha Expedición el Cosmógrafo d. Joseph Santor Cabrera, recientemente dice: que por la liquidadación, ó
+Copia de Sus Ajustos, que presenta alcanza este
+Andivieño á Su Magestas, como parece patent de
+las partidas que los formalizan, la Suma siguientes, ochenta y ocho pesos, cuatro reales,
+y cuatro Maravedís: Debiendo hacer presente
+á S. S. que en el Depósito hecha en
+estas Reales Cajas de Los Caudales para
+temericios á Expedición no existen los
+suficientes par hacer este pago, y otros,
+que por razón de Sueldo también deben
+hacerse en servicio de la misma Expedición
+deben hacerse á Sus Acreedores, cuyas Satisfacción se verificará,
+dignándose Su Magestas librar los necesarios para cubrir estos y demás expensas que se hagan pendientes.
+Así los representan en Caracas á Veinte y don
+Ve Febrero de mil setecientos sesentay
+ochos Francisco Rodríguez y Villalba
+Caracas cuatro de Marzo Annil, ve-
+Recibo.
+---
+
+Archivos Estatales, https://pares.cultura.gob.es",0.2045,0.5814
+100383_img048.jpg,"que consiste lo firme ene el Puerto de Santa Maria a treinta de Noviembre de mil setecientos, cinquenta, y tres = son doscientos quince pesos, tres reales de vellon = Joseph de Santos Cabrera _ Entrego Santos las dos Cuchillas de Monte; pero no las dos piezas de Holanda, cujo importe decia Santa era de dos mil trescientos treinta y quatro reales vellon, que hacieniento, y cincuenta y cinco pesos nueve reales, y medio, que firmavos con los doscientos quince pesos, tres reales vellon importa trescientos, y setenta pesos, y doce reales vellon la deuda de Santos a mi. Por la Carta de Paza quedo Santos a pagarme trescientos, y ochenta y quatro pesos, y dos reales vellon, entregados las Cuchillas que Paza me debia, pues parece que estuvo la equivocacion de la diferencia en el recibo = Blano Señor Gobernador, y Capitan General = D. Francisco Roizquez y Villalta Depositario de los causales de la Real Expedicion de Limites y particulares por especial mandato del Señor D. Joseph","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some words and phrases more clearly written than others. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","que conste lo firmé en el Puerto de
+Santa María à treinta y nueve Noviembre
+de mil setecientos, cincuenta y tres = son
+doscientos, quince pesos, tres reales de vellón =
+Joseph de Santos Cabrera
+Entregó Santos las dos Cuchillas de Monte;
+pero no las dos piezas veolanza, cuyo importe
+decía Parra era dos mil trescientos treinta,
+y quatro reales vellón, que hacenciento,
+y cincuenta y cinco pesos nuebe reales,
+y medio, que sumase con los doscientos quin-
+ce pesos, tres reales vellón importa trescientos,
+y setenta pesos, y doce reales vellón la
+deuda de Santos á mi. Por la Carta de Par-
+ra quedó Santos á pagarme trescientos, y
+ochenta, y quatro pesos, y dos reales vellón,
+(entregados las Cuchillas) que Parra me
+debia; pues parece que estuvo la equivoca-
+ción de la diferencia en el recibo -Solano-
+Señor Govenador, y Capitan General = D. Fran-
+cisco Rodriguez, y Villalba Deparitario de los cau-
+sales de la Real Expedicion de Limites, y parti-
+cular, por especial mandato del Señor D. Joseph","---
+
+que conste lo firmé en el Puerto Santa María à treinta y nueve Noviembre de mil setecientos cincuenta y tres = son doscientos quince pesos tres reales de vellón = Joseph de Santos Cabrera
+
+Entregó Santos las dos cuchillas de monte; pero no las dos piezas veolanzas, cuyo importe decía Parra era dos mil trecientos treinta y quatro reales de vellón, que hacían ciento y cincuenta y cinco pesos nueve reales y medio, que sumasen con los doscientos quinientos pesos, tres reales de vellón importa trescientos y setenta pesos y doce reales de vellón la deuda de Santos a mi. Por la carta de Parra quedó Santos a pagarme trescientos y ochenta y cuatro pesos y dos reales de vellón (entregadas las cuchillas) que Parra me debía; pues parece que estuvo la equivocación de la diferencia en el recibo - Solano - Señor Govenador y Capitán General = D. Francisco Rodríguez, y Villalba Departirario de los caules de la Real Expedición de Límites y particular, por especial mandato del Señor Don Joseph
+
+---",0.1312,0.3787
+100383_img073.jpg,"Lo demás que corre por con firma que pide Sr. Cadiz vien-
+ve y uno a Julio de mil seiscientos setenta y ocho. Aguero
+Librea et despacho pues que el Sr. Fiscal para el effetto
+que expresa Contarino de setenta días y aprovechi
+ovicia: le mandaron los senres. Litz. y editores de la Dn?
+Alto. a Comunicar a Indias en Cadiz a Veintmey
+sitavio a Julio de mil seiscientos setenta y ocho cato Rubri
+cador Juan Ant. Gallomar?
+Lo pre invento Concluido con su origin en otros autores de
+que el Infraescripto escriba de Camara dar fe y para q
+tenza efecto lo pede la Litz. Fiscal y no mandaron
+esprimar presente a otros senores rones y Jaras de los
+ciud. de Sn. severan a fin de que luego que lo Nuera
+lo mandar Cumplir y en su executcion que se solicite
+savers el dicho de futimo Don Joseph Santos Cabrera fue
+natural de esa ciud. y fiere en ella Heredero alguanos
+y tornando ser cierto se le notifique y haga da-
+ver a unos que dentro del termino del escomillado
+que les feemos asignado ocurran por si o por poder con
+sertificado de botinimidad corresponda a sus personas
+a trar de su dho Como les contrenga y no pudiendo ser
+baudou se fisen edictos en los sitios publicos y auc-
+torizados espanolos y llamandolos o adver que
+les inquiera a la mencionada Camr? de
+Quincemoro y ochenta pesos en dho. y Veintmey con mar
+? de mismo efecto, haciendo sepulqe en Las Ingle
+vias Lanquiales a la ora de la litura mayor, apas
+ruiendo del q entre defonto se dara a dho Camr. el","The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderate in legibility, with some parts clearer than others. There are no visible margin notes, crossed-out words, multiple columns, or stamps on the page. The document appears to be a legal or administrative record, given the formal language and structure.","lo demas que Concep. en para. I. que pide S. Cadis Vein
+36
+ue uno d Julis de mil Cea. Setentay ocho-Aguera
+Amarf. Libres el Despacho que pide el S. Dinal para el efecto
+que expresa CertArminos de Senyuedas y apenamientos
+ordinarios. lo mandaron los Sen. Pres. y oidores de la R.
+Aur. de Comunaua Tá Indias en Cadaz a Veimenes
+Estar a Julis de mil Cea. Setenta y ocho cono Vabri
+cado Juan Ana de Mena
+Sopra Intretto Conueida con un origin. en dos amios de
+que el Infra escrups Escriv. de Camara da fe y para el
+senso efecto lo pedido del S. Fiscal y nos mandan
+espedimos y presente a ohos Sen. Portes y Dana delo
+Cia. de 8.° Senyuedas, a sen de que luego que lo Reuan
+lo mander Cumplir y en su execucion fue se solicite
+sauca el otro defunto D. Joseph Santos Cabrera fue
+pastoral de esa Cia. y tiene en ella Herederos algunos
+y Commando Ser Ciento Seb novisique y haga sa
+ver a cados. Que dentro del termino de Senyuedas dies
+que les hemos asignado. ocurran pesi. ño podia con
+Jurisdiccion de sociimidad Compania e sus Personas
+a viar & su dias Como la Cambioga y no pudiendo Ser
+hauidos Se fisien Edictos en los Ciaios publicos y acon
+trasladados Cumandolo. y llamandolos ó acoros qua
+les quiera Inmexezados á la mencionada Cama. d
+Lui namios y ochenta pesos en R. y Veinay dos mas
+& mismo efecto. hauiendo Republicado las Hote
+llos Parroquiales á la ora de la Alta mayor. apen
+suenosbi & en su efecto se dara a dha Cama el","---
+lo demás que Concep. en para. 1. que pide S. Cadiz Vein
+36
+ue uno de Julis de mil Cea. Setentayocho-Aguera
+Amarf. libres el Despacho que pide el Sr. Díaz para el efecto
+que expresa Certámenes de Senyuedas y apenamientos ordinarios. lo mandaron los Sen. Presid. y oidores de la Real
+Aur. de Comunidad de Indias en Cádiz a Veimenes
+Estar a Julios de mil Cea. Setentayocho cono Vabricado Juan Ana de Mena
+Sopera Intretto Conueida con un originario en dos amigos de
+que el Infra escribano Escriván de Cámara da fe y para el
+señor efecto lo pedido del Sr. Fiscal y nos mandan expedimos y presente a dichos Sen. Portes y Dana del Cía. de 8.º Senyuedas, a ser de que luego que lo Reúnan
+lo mandar Cumplir y en su ejecución fue se solicite
+sauca al otro defunto D. José Santos Cabrera fue pastoral de esa Cía. y tiene en ella herederos algunos
+y Comando Ser Ciento Seb novísique y haga saber a dichos. Que dentro del término de Senyuedas días
+que les hemos asignado ocurran pesi. ño podía con
+jurisdicción de sociedad Compañía e sus Personas
+a viajar & sus días como la Cambioga y no pudiendo ser
+hauidos se fisien Edictos en los Cíos públicos y acon
+trasladados Cumándolo y llamándolos ó acoros que
+les quiera Inmexezados a la mencionada Cama. de
+Luis namios y ochenta pesos en Reales y Veinay dos más
+& mismo efecto. habiendo Republicado las Hoteles
+Parroquiales á la hora de la Alta mayor. apena
+suenosbi y en su efecto se dará a dicha Cama el
+---",0.3642,0.6492
+100383_img029.jpg,"En mi presencia con intervencion de Dn Joseph Monzoy. Guayana veinte y siete de Mayo de mil setecientos cincuenta y cinco = Joseph Mariano Monzoy = Antonio Alvarez.
+
+Muir Señor mio: Instado de mis males necesito buscar mejor parage para hauer de recobrar mi culto y hauiendose de celebrar en Guayana Almoneda se los bienes, que quedacion por muerte del Cosmografo de la Expedicion de mi mano 2n. Joseph Santos Cabrera, confieso à Vmd. por esta facultad necesaria, para que haga dicha Almoneda con las formalidades acostumbradas y perciba los bienes de mano de las sucesoras, en cuyo poder existen, pasando para todos los oficios correspondientes al Comandante de la Plaza de Guayana 2n. Juan Valdes, y evacuadas todas las diligencias depositara Vmd. su importe en 2n. 7 Francisco Villalba, tomando su recibo, y tambien selos papeles, y otras cosas pertenecientes à Su Magestad, y que tengan conexion con su Real Servicio. Dios guarde à Vmd. m.a. Mission de San Antonio de","The document is written in Spanish, using a cursive handwriting style typical of the 17th or 18th century. The legibility is moderate, with some parts slightly blurred but generally readable. There are no special features such as margin notes, crossed-out words, multiple columns, or stamps visible in the image.","En mi presencia con intervencion de Dn
+Joseph Monxay. Guayana veinte, y siete
+de Mayo semil, setecientos, cinquenta, y
+sino= Joseph Mariano Monxay =
+Antonio Alvarez.
+Mui Senor mio: Ynstatdo de mis males
+necesito buscar mejor parage para haver
+se recobrar mi salud, y hauiéndose ce-
+lebrar en Guayana Almoneda selos bienes,
+que quedaron por muerte del Cosmographo
+de la Expedicion seminano D. Joseph San-
+tos Cabrera, confiero á vmas. por esta la-
+cubad necesaria, paraque haga dicha Al-
+moneda con las formalidades acustumbra-
+das, y perciba los bienes de mano de los su-
+yeros, en cuyo poder existian, pasando para
+toda las oficios correspondientes al Coman-
+dante de la Plaza de Guayana D. Juan
+Valdes, y evacuadas todas las diligencias
+depositará vmas. su importe en D. Francis-
+co Villalba, tomando hi recibo, y tambien
+selos papeles, y otras cosas pertenecientes
+á Su Magestad, y que tenianconexión
+con su Real Servicio. Dios guarde á
+vmas. m.a. Mission de San Antonio de","En mi presencia con intervención de Dn Joseph Monxay. Guayana veinte y siete de Mayo semil, setecientos, cincuenta, y sino= Joseph Mariano Monxay = Antonio Álvarez.
+Mui Señor mío: Ynstatdo de mis males necesito buscar mejor paraje para haverse recobrar mi salud, y habiéndose celebrar en Guayana Almoneda de los bienes, que quedaron por muerte del Cosmógrafo de la Expedición seminano D. Joseph Santos Cabrera, confiero a vmas. por esta facultad necesaria, para que haga dicha Almoneda con las formalidades acostumbradas, y perciba los bienes de manos de los suyeros, en cuyo poder existían, pasando para toda las oficios correspondientes al Comandante de la Plazuela de Guayana D. Juan Valdés, y evacuadas todas las diligencias depósito vmas. su importe en D. Francisco Villalba, tomando su recibo, y también selos papeles y otras cosas pertenecientes a Su Magestad, y que tenían conexión con su Real Servicio. Dios guarde a vmas. m.a. Misión de San Antonio de",0.0917,0.3210
+100383_img013.jpg,"Lt. una chupa color azul teniendo pelos o llana
+Lt. una dicha sobela de corte con flores de seda, y oro
+Lt. un corte de chupa blanco bordado de oro
+Lt. dos camisas finas con quarniciones bordadas, vivas
+Lt. dice camisas nuevas, y mozasos se tienen fino, guarnecidas con ollaoca
+Lt. nuebe dichas llamas, mozasas, y sin usar
+Lt. nuebe corbatines
+Lt. sieze pares de calcetas nuevas
+Lt. tres pares idem usadas
+Lt. quatro pares de medias de algodon nuevas
+Lt. un par dichas de seda nuevas color liso de fre
+Lt. otro par idem color de perla
+Lt. otro idem de seda negro
+Lt. otro idem de seda blancas
+Lt. otro idem negras vivas
+Lt. tres pares idem blancas vivas
+Lt. un par de mitones de llama blancas vivados
+Lt. una, y media docena de botones de piedras de cristal","The document is written in Spanish, using a cursive script that suggests it was written in the 18th or 19th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no visible margin notes, crossed-out words, or stamps, and the text appears in a single column.","dt. una chupa color azul terciopelado blanco
+dt. una dicha chuela de corte con flores de seda, y oro
+dt. un corte de chupa blanca bordado de oro
+dt. dos camisas finas con guarniciones bordadas, usadas
+dt. crece camisas nuevas, y mojadas de lienzo fino, guarnecidas con olanza
+dt. nuebe dichas vandas, mojadas, y sin usar
+dt. nuebe corbatines
+dt. siére pares de calcetas nuevas
+dt. creis pares idem raras
+dt. quatro pares de medias de algodon nuevas
+dt. un par dichas de seda nuevas color liso de fre
+dt. otro par idem color de perla
+dt. otro idem de seda negra
+dt. otro idem de seda blanca
+dt. otro idem negras usadas
+dt. creis pares idem blancas usadas
+dt. un par de mitones de lana y canco usados
+dt. una, y media docena de botones de piedras o cristal","dt. una chupa de color azul terciopelo blanco
+dt. una dicha chuleta de corte con flores de seda y oro
+dt. un corte de chaqueta blanca bordada de oro
+dt. dos camisetas finas con guarniciones bordadas usadas
+dt. crece camisetas nuevas y mojadas de lienzo fino guarnecidas con olanda
+dt. nueve dichas vandas mojadas y sin usar
+dt. nueve corbatas
+dt. siére pares de calzas nuevas
+dt. crees pares idem raras
+dt. cuatro pares de medias de algodón nuevas
+dt. un par de dichas de seda nuevas de color liso de fresco
+dt. otro par idem de color de perla
+dt. otro par de seda negra
+dt. otro par de seda blanca
+dt. otro par idem de seda negra usadas
+dt. crees pares idem de medias blancas usadas
+dt. uno par de mitones de lana y cancho usados
+dt. una y media docena de botones de piedra o cristal",0.2180,0.5242
+100383_img101.jpg,Con lo demás de sus personas a tan de lo año como se comienza y no pudiendo ser habido se fissen edictos en los sitios públicos avisandolos y llamandolos o a otros qualquiera intresse a la dicha caridad haciendo se publique en los  ...,"The document is written in Spanish, using a cursive script typical of the 17th or 18th century. The handwriting is moderately legible, with some words and phrases more clearly written than others. There are no margin notes, crossed-out words, multiple columns, or stamps visible in the image.","Con los únicos
+de Sus personas á Ovar de Bu
+Dio Como los Combergo, y no pudiendo Ser havedos
+se fijen Estatutos en los Otarios publicos, Cauandolos,
+y llamandolos, ó acueros qualesquiera Anvezedar
+con á oha Canáidad, haciendo Se publiquien en los
+Años á oha Canáidad del año de la Mina mayor
+y debantao el Cuando despache en Su Distra
+proyequa de Nucal propone ó pedan lo demas ó
+Corresponda en Juntarlos, que pide de Cadiz Veinte
+y uno de Julio de mil Setenta y cinco
+y por anno de Veinticinco del mismo mes y ano
+y por anno de Veintisiete del mismo mes y ano
+por anno de Veintinueve del mismo mes y ano
+por anno de Treinta y dos del mismo mes y ano
+por anno de Trinta y cuatro del mismo mes y ano
+por anno de treinta y seis del mismo mes y ano
+por anno de trinta y ocho del mismo mes y ano
+por anno de cuarenta y uno del mismo mes y ano
+por anno de Cuarenta y tres del mismo mes y ano
+por anno de cuatro y cinco del mismo mes y ano
+por anno de cincuenta y un del mismo mes y ano
+por anno de Cincuenta y tres del mismo mes y ano
+y que les fijaren los Caidos Genele se
+menionaire y debantao Mespas despache Con
+las dia
+de Cuatro y cinco del mismo mes y ano
+de ocho y nueve del mismo mes y ano
+de diez y uno del mismo mes y ano
+de doce y uno del mismo mes y ano
+de quince y uno del mismo mes y ano
+de dieciocho y uno del mismo mes y ano
+de veintiuno y uno del mismo mes y ano
+de Veinticinco y uno del mismo mes y ano
+de treinta y uno del mismo mes y ano
+de cuarenta y uno del mismo mes yano
+de cuarenta y cinco del mismo mes y ano
+de cincuenta y uno del mismo mes y ano
+de Cincuenta y cinco del mismo mes y ano
+de sesenta y uno del mismo mes y ano
+de setenta y uno del mismo mes y ano","Con los únicos
+de Sus personas a Ovar de Bu
+Dio como los Combergos, y no pudiendo ser havedos,
+se fijen Estatutos en los otarios públicos, cuándolos,
+y llamándolos, ó acueros qualesquiera anvezedar
+con a oha Canáidad, haciendo se publiquien en los
+años a oha Canáidad del año de la mina mayor
+y debantao el cuando despache en su distra
+proyequa de Nucal proponer ó pedan lo demas ó
+corresponda en juntarlos, que pide de Cádiz Veinte
+y uno de julio de mil setenta y cinco
+y por año de veinticinco del mismo mes y año
+y por año de veintisiete del mismo mes y año
+por año de Veintinueve del mismo mes y año
+por año de Treinta y dos del mismo mes y año
+por año de Trinta y cuatro del mismo mes y año
+por año de trinta y seis del mismo mes y año
+por año de treinta y ocho del mismo mes y año
+por año de Cuarenta y uno del mismo mes y año
+por año de cuarenta y tres del mismo mes y año
+por año de cuatro y cinco del mismo mes y año
+por año de Cincuenta y un del mismo mes y año
+por año de cincuenta y tres del mismo mes y año
+y que les fijaren los caídos genele se
+menionaire y debantão Mespas despache con
+las dia
+de Cuatro y Cinco del mismo mes y año
+de Ocho y nueve del mismo mes y año
+de Diez y uno del mismo mes y año
+de Doce y uno del mismo mes y año
+de Quince y uno del mismo mes y año
+de Dieciocho y uno del mismo mes y año
+de Veintiuno y uno del mismo mes y año
+de Venticinco y uno del mismo mes y año
+de Treinta y uno del mismo mes y año
+de Cuarenta y uno del mismo mes año
+de Cuarenta y cinco del mismo mes y año
+de Cincuenta y uno del mismo mes y año
+de cincuenta y cinco del mismo mes y año
+de sesenta y uno del mismo mes año
+de setenta y uno del mismo mes año",6.2383,7.0227
